@@ -1,0 +1,519 @@
+Index,Country,City,Hotel,Address,Popularity
+1,US,Detroit,MGM Grand Detroit,"1777 3rd St, Detroit, Michigan",2235
+2,US,Detroit,The Westin Book Cadillac Detroit,"1114 Washington Blvd, Detroit, Michigan",1625
+3,US,Detroit,Detroit Foundation Hotel,"250 W. Larned Street, Detroit, Michigan",1091
+4,US,Detroit,Detroit Marriott at the Renaissance Center,"400 Renaissance Ctr, Detroit, Michigan",2246
+5,US,Detroit,The Westin Detroit Metropolitan Airport,"2501 Worldgateway Place, Detroit, Michigan",1704
+6,US,Detroit,DoubleTree Suites by Hilton Hotel Detroit Downtown - Fort Shelby,"525 W Lafayette Blvd, Detroit, Michigan",1756
+7,US,Detroit,Hampton Inn & Suites Detroit/Airport-Romulus,"31700 Smith Rd, Romulus, Michigan",1071
+8,US,Detroit,Baymont by Wyndham Detroit Airport/Romulus,"9000 Wickham Rd, Romulus, Michigan",1045
+9,US,Detroit,La Quinta Inn & Suites by Wyndham Detroit Metro Airport,"30847 Flynn Dr, Romulus, Michigan",1023
+10,US,Detroit,Hilton Garden Inn Detroit Metro Airport,"31800 Smith Road, Romulus, Michigan",921
+11,US,Detroit,"Fort Pontchartrain Detroit, a Wyndham Hotel","2 Washington Boulevard, Detroit, Michigan",1452
+12,US,Detroit,Hyatt Place Detroit/Livonia,"19300 Haggerty Rd, Livonia, Michigan",749
+13,US,Detroit,Detroit Metro Airport Marriott,"30559 Flynn Dr, Romulus, Michigan",590
+14,US,Detroit,The Westin Southfield Detroit,"1500 Town Center, Southfield, Michigan",797
+15,US,Detroit,Aloft Detroit at The David Whitney,"1 Park Ave, Detroit, Michigan",873
+16,US,Detroit,The Siren Hotel,"1509 Broadway St, Detroit, Michigan",659
+17,US,Detroit,Embassy Suites by Hilton Detroit Metro Airport,"8600 Wickham Road, Romulus, Michigan",1264
+18,US,Detroit,Courtyard by Marriott Detroit Downtown,"333 East Jefferson Ave, Detroit, Michigan",664
+19,US,Detroit,Hampton Inn Detroit / Southgate,"13555 Prechter Blvd, Southgate, Michigan",660
+20,US,Detroit,Embassy Suites by Hilton Detroit Troy Auburn Hills,"850 Tower Drive, Troy, Michigan",1434
+21,US,Detroit,The Atheneum,"1000 Brush St, Detroit, Michigan",689
+22,US,Detroit,"Hilton Garden Inn Detroit-Southfield, MI.","26000 American Drive, Southfield, Michigan",752
+23,US,Detroit,Wingate by Wyndham Detroit Metro Airport,"9501 Middlebelt Rd, Romulus, Michigan",1410
+24,US,Detroit,Hyatt Place Detroit / Utica,"45400 Park Ave, Utica, Michigan",919
+25,US,Detroit,Radisson Hotel Southfield-Detroit,"26555 Telegraph Road, Southfield, Michigan",516
+26,US,Detroit,Drury Inn & Suites Detroit Troy,"575 W Big Beaver Rd, Troy, Michigan",843
+27,US,Detroit,Hilton Garden Inn Detroit Downtown,"351 Gratiot Avenue, Detroit, Michigan",1344
+28,US,Detroit,Hyatt Place Detroit / Novi,"46080 Grand River Ave, Novi, Michigan",771
+29,US,Detroit,Hyatt Place Detroit Auburn Hills,"1545 N Opdyke Rd, Auburn Hills, Michigan",895
+30,US,Detroit,Hampton Inn Detroit Northville,"20600 Haggerty Rd., Northville, Michigan",530
+31,US,Detroit,Hampton Inn Detroit/Madison Heights/South Troy,"32420 Stephenson Hwy., Madison Heights, Michigan",800
+32,US,Detroit,DoubleTree by Hilton Hotel Detroit - Novi,"42100 Crescent Blvd, Novi, Michigan",712
+33,US,Detroit,Hampton Inn Detroit / Roseville,"33680 Gratiot Avenue, Clinton Township, Michigan",608
+34,US,Detroit,Howard Johnson by Wyndham Romulus Detroit Metro Airport,"31119 Flynn Dr, Romulus, Michigan",1155
+35,US,Detroit,Detroit Marriott Troy,"200 W. Big Beaver Rd., Troy, Michigan",558
+36,US,Detroit,Sheraton Detroit Metro Airport,"8000 Merriman Rd, Romulus, Michigan",603
+37,US,Detroit,DoubleTree by Hilton Hotel Detroit - Dearborn,"5801 Southfield Expressway, Detroit, Michigan",2227
+38,US,Detroit,Sheraton Detroit Novi Hotel,"21111 Haggerty Road, Novi, Michigan",437
+39,US,Detroit,Hampton Inn by Hilton Detroit Dearborn,"22324 Michigan Avenue, Dearborn, Michigan",459
+40,US,Detroit,Hollywood Casino At Greektown,"1200 Saint Antoine street, Detroit, Michigan",1396
+41,US,Detroit,Hampton Inn Detroit/Utica - Shelby Township,"51620 Shelby Parkway, Shelby Township, Michigan",682
+42,US,Detroit,Hampton Inn & Suites Detroit/Sterling Heights,"36400 Van Dyke Ave, Sterling Heights, Michigan",526
+43,US,Detroit,Red Roof Inn Detroit – Dearborn / Greenfield Village,"24130 Michigan Ave, Dearborn, Michigan",437
+44,US,Detroit,Radisson Hotel Detroit-Farmington Hills,"31525 W 12 Mile Road, Farmington Hills, Michigan",514
+45,US,Detroit,Baymont by Wyndham Detroit/Roseville,"20675 E 13 Mile Rd, Roseville, Michigan",569
+46,US,Detroit,Hampton Inn & Suites Detroit/Chesterfield Township,"45725 Marketplace Blvd, Chesterfield, Michigan",559
+47,US,Detroit,Sonesta ES Suites Auburn Hills Detroit,"2050 Featherstone Rd, Auburn Hills, Michigan",452
+48,US,Detroit,La Quinta Inn by Wyndham Detroit Southgate,"12888 Reeck Rd, Southgate, Michigan",440
+49,US,Detroit,Clarion Hotel Detroit Metro Airport,"8600 Merriman Rd, Romulus, Michigan",554
+50,US,Detroit,MotorCity Casino Hotel,"2901 Grand River Ave, Detroit, Michigan",1035
+51,US,Detroit,Fairfield Inn & Suites Detroit Metro Airport Romulus,"7800 Merriman Rd, Romulus, Michigan",503
+52,US,Detroit,Comfort Inn Metro Airport,"31800 Wick Rd, Romulus, Michigan",1194
+53,US,Detroit,Detroit Marriott Livonia,"17100 N Laurel Park Dr, Livonia, Michigan",374
+54,US,Detroit,Hyatt Place Detroit / Royal Oak,"422 N Main Street, Royal Oak, Michigan",336
+55,US,Detroit,"Staybridge Suites Detroit - Novi, an IHG Hotel","27000 Providence Pkwy, Novi, Michigan",256
+56,US,Detroit,Detroit Marriott Southfield,"27033 Northwestern Hwy, Southfield, Michigan",393
+57,US,Detroit,The Baronette Renaissance Detroit-Novi Hotel,"27790 Novi Rd, Novi, Michigan",345
+58,US,Detroit,Wyndham Garden Romulus Detroit Metro Airport,"9191 Wickham Rd, Romulus, Michigan",1302
+59,US,Detroit,"The Henry, Autograph Collection","300 Town Center Dr, Dearborn, Michigan",971
+60,US,Detroit,Hilton Garden Inn Detroit Troy,"200 Wilshire Dr, Troy, Michigan",367
+61,US,Detroit,Quality Inn & Suites Warren - Detroit,"30900 Van Dyke Ave, Warren, Michigan",279
+62,US,Detroit,La Quinta Inn by Wyndham Detroit Canton,"41211 Ford Rd, Canton, Michigan",617
+63,US,Detroit,La Quinta Inn & Suites by Wyndham Detroit Utica,"45311 Park Ave, Utica, Michigan",587
+64,US,Detroit,Red Roof Inn Detroit - Roseville/ St Clair Shores,"31800 Little Mack Ave, Roseville, Michigan",255
+65,US,Detroit,Hampton Inn Detroit / Auburn Hills - North (Great Lakes Crossing Area),"3988 Baldwin Rd, Auburn Hills, Michigan",920
+66,US,Detroit,Red Roof Inn Detroit - Troy,"2350 Rochester Ct, Troy, Michigan",255
+67,US,Detroit,Hampton Inn & Suites Detroit/Warren,"32035 Van Dyke Ave, Warren, Michigan",213
+68,US,Detroit,Americas Best Value Inn Romulus Detroit Airport,"7600 Merriman Rd, Romulus, Michigan",355
+69,US,Detroit,Sonesta Simply Suites Detroit Troy,"2550 Troy Center Dr, Troy, Michigan",379
+70,US,Detroit,Red Roof Inn Detroit Metro Airport - Taylor,"21230 Eureka Rd, Taylor, Michigan",268
+71,US,Detroit,SpringHill Suites by Marriott Detroit Auburn Hills,"4919 Interpark Dr N, Orion, Michigan",217
+72,US,Detroit,Hampton Inn Livonia Detroit,"28151 Schoolcraft Road, Livonia, Michigan",208
+73,US,Detroit,Homewood Suites by Hilton Detroit-Troy,"1495 Equity Dr, Troy, Michigan",697
+74,US,Detroit,Hilton Garden Inn Detroit/Novi,"27355 Cabaret Drive, Novi, Michigan",709
+75,US,Detroit,SpringHill Suites by Marriott Detroit Metro Airport Romulus,"8280 Merriman Rd, Romulus, Michigan",389
+76,US,Detroit,Delta Hotels by Marriott Detroit Metro Airport,"31500 Wick Road, Romulus, Michigan",341
+77,US,Detroit,Hostel Detroit,"2700 Vermont St, Detroit, Michigan",101
+78,US,Detroit,Fairfield Inn & Suites by Marriott Detroit Livonia,"17350 Fox Dr, Livonia, Michigan",226
+79,US,Detroit,TownePlace Suites by Marriott Detroit Warren,"7601 Chicago Road, Warren, Michigan",270
+80,US,Detroit,Hampton Inn & Suites Detroit-Canton,"1950 Haggerty Road North, Canton, Michigan",513
+81,US,Detroit,Hampton Inn Detroit/Belleville-Airport Area,"46280 N. I-94 Service Drive, Belleville, Michigan",382
+82,US,Detroit,Courtyard by Marriott Detroit Southfield,"27027 Northwestern Hwy, Southfield, Michigan",307
+83,US,Detroit,Baymont by Wyndham Madison Heights Detroit Area,"32800 Stephenson Hwy, Madison Heights, Michigan",381
+84,US,Detroit,Quality Inn & Suites Detroit Metro Airport,"9555 Middlebelt Rd, Romulus, Michigan",586
+85,US,Detroit,Homewood Suites by Hilton Warren Detroit,"31993 Van Dyke Avenue, Warren, Michigan",185
+86,US,Detroit,"Holiday Inn Express Romulus / Detroit Airport, an IHG hotel","7680 Merriman Rd, Romulus, Michigan",240
+87,US,Detroit,Red Roof Inn Detroit - Warren,"26300 Dequindre Rd, Warren, Michigan",270
+88,US,Detroit,Red Roof Inn Detroit - Plymouth/ Canton,"39700 Ann Arbor Rd E, Plymouth, Michigan",195
+89,US,Detroit,Red Roof Inn Detroit - Royal Oak/ Madison Heights,"32511 Concord Dr, Madison Heights, Michigan",174
+90,US,Detroit,Courtyard by Marriott Detroit Metro Airport Romulus,"30653 Flynn Drive, Romulus, Michigan",322
+91,US,Detroit,"Holiday Inn Detroit Metro Airport, an IHG Hotel","8400 Merriman Rd, Romulus, Michigan",293
+92,US,Detroit,Travelodge by Wyndham Romulus Detroit Airport,"9095 Wickham Rd, Romulus, Michigan",292
+93,US,Detroit,Sonesta Select Detroit Auburn Hills,"2550 Aimee Lane, Auburn Hills, Michigan",184
+94,US,Detroit,Courtyard by Marriott Detroit Brighton,"7799 Conference Center Drive, Brighton, Michigan",189
+95,US,Detroit,Red Roof Inn Detroit-Rochester Hills / Auburn Hills,"2580 Crooks Rd, Rochester Hills, Michigan",216
+96,US,Detroit,Red Roof Inn Detroit - Farmington Hills,"24300 Sinacola Ct, Farmington Hills, Michigan",209
+97,US,Detroit,Super 8 by Wyndham Taylor/Detroit Area,"15101 Huron St, Taylor, Michigan",309
+98,US,Detroit,"Holiday Inn Express Detroit-Birmingham, an IHG Hotel","35270 Woodward Avenue, Birmingham, Michigan",192
+99,US,Detroit,SpringHill Suites by Marriott Detroit Southfield,"28555 Northwestern Hwy, Southfield, Michigan",214
+100,US,Detroit,Trumbull and Porter Hotel,"1331 Trumbull St, Detroit, Michigan",422
+101,US,Detroit,Microtel Inn & Suites by Wyndham Roseville/Detroit Area,"20313 E 13 Mile Rd, Roseville, Michigan",531
+102,US,Detroit,"Holiday Inn Express & Suites Rochester Hills - Detroit Area, an IHG Hotel","3544 Marketplace Circle, Rochester Hills, Michigan",83
+103,US,Detroit,Extended Stay America - Detroit - Madison Heights,"32690 Stephenson Hwy, Madison Heights, Michigan",115
+104,US,Detroit,Best Western Greenfield Inn,"3000 Enterprise Dr, Allen Park, Michigan",1165
+105,US,Detroit,Residence Inn Detroit Pontiac/Auburn Hills,"3333 Centerpoint Pkwy., Pontiac, Michigan",200
+106,US,Detroit,Extended Stay America - Detroit - Novi - Haggerty Road,"21555 Haggerty Rd, Novi, Michigan",140
+107,US,Detroit,TownePlace Suites by Marriott Detroit Sterling Heights,"14800 Lakeside Circle, Sterling Heights, Michigan",141
+108,US,Detroit,Extended Stay America - Detroit - Farmington Hills,"27775 Stansbury Blvd, Farmington Hills, Michigan",152
+109,US,Detroit,Hampton Inn & Suites Detroit/Troy,"100 Wilshire Dr, Troy, Michigan",501
+110,US,Detroit,Residence Inn by Marriott Detroit Livonia,"17250 Fox Drive, Livonia, Michigan",93
+111,US,Detroit,Hampton Inn Detroit/Auburn Hills South,"2200 Featherstone Rd, Auburn Hills, Michigan",705
+112,US,Detroit,Extended Stay America - Detroit - Sterling Heights,"33400 Van Dyke Ave, Sterling Heights, Michigan",182
+113,US,Detroit,El Moore Lodge & Residences,"624 W Alexandrine St, Detroit, Michigan",116
+114,US,Detroit,The Townsend Hotel,"100 Townsend St, Birmingham, Michigan",1474
+115,US,Detroit,Hawthorn Suites by Wyndham Detroit Warren,"30180 N Civic Center Blvd, Warren, Michigan",586
+116,US,Detroit,"Holiday Inn Express & Suites Detroit North - Troy, an IHG Hotel","400 Stephenson Hwy, Troy, Michigan",174
+117,US,Detroit,Hampton Inn Commerce Novi,"169 Loop Rd, Commerce Township, Michigan",913
+118,US,Detroit,Hampton Inn Southfield / West Bloomfield,"33096 Northwestern Hwy, West Bloomfield, Michigan",769
+119,US,Detroit,Four Points by Sheraton Detroit Metro Airport,"8800 Wickham Road, Romulus, Michigan",308
+120,US,Detroit,Embassy Suites by Hilton Detroit Livonia Novi,"19525 Victor Parkway, Livonia, Michigan",700
+121,US,Detroit,Tru by Hilton Sterling Heights Detroit,"36599 Van Dyke, Sterling Heights, Michigan",141
+122,US,Detroit,Comfort Suites,"24977 Northwestern Hwy, Southfield, Michigan",429
+123,US,Detroit,Sonesta Simply Suites Detroit Novi,"42600 Eleven Mile Road, Novi, Michigan",96
+124,US,Detroit,Ann Arbor Marriott Ypsilanti at Eagle Crest,"1275 S Huron St, Ypsilanti, Michigan",523
+125,US,Detroit,Courtyard Detroit Pontiac/Auburn Hills,"3555 Centerpoint Pkwy, Pontiac, Michigan",176
+126,US,Detroit,Best Western Detroit Livonia,"16999 S Laurel Park Dr, Livonia, Michigan",571
+127,US,Detroit,"Holiday Inn Express & Suites Southfield - Detroit, an IHG Hotel","25100 Northwestern Highway, Southfield, Michigan",145
+128,US,Detroit,Extended Stay America - Detroit - Dearborn,"260 Town Center Dr, Dearborn, Michigan",114
+129,US,Detroit,Holiday Inn Express Detroit-warren (GM Tech Ctr),"11500 East 11 Mile Road, Warren, Michigan",116
+130,US,Detroit,Extended Stay America Detroit - Auburn Hills - Featherstone Rd.,"2100 Featherstone Rd, Auburn Hills, Michigan",114
+131,US,Detroit,"Staybridge Suites Detroit-Utica, an IHG Hotel","46155 Utica Park Blvd, Utica, Michigan",125
+132,US,Detroit,TownePlace Suites Detroit Commerce,"199 Loop Rd, Commerce Township, Michigan",110
+133,US,Detroit,Homewood Suites by Hilton Novi Detroit,"26150 Town Center Drive, Novi, Michigan",106
+134,US,Detroit,Fairfield Inn & Suites Detroit Farmington Hills,"27777 Stansbury Blvd, Farmington Hills, Michigan",263
+135,US,Detroit,Roberts Riverwalk Hotel,"1000 River Place Dr, Detroit, Michigan",510
+136,US,Detroit,Sonesta Select Detroit Novi,"42700 W 11 Mile Rd, Novi, Michigan",144
+137,US,Detroit,Sonesta Simply Suites Detroit Warren,"7010 Convention Blvd, Warren, Michigan",78
+138,US,Detroit,"Holiday Inn Express & Suites Dearborn SW - Detroit Area, an IHG Hotel","24041 Michigan Avenue, Dearborn, Michigan",99
+139,US,Detroit,Extended Stay America - Detroit - Novi - Orchard Hill Place,"39640 Orchard Hill Pl, Novi, Michigan",86
+140,US,Detroit,Courtyard by Marriott Detroit Troy,"1525 East Maple Road, Troy, Michigan",141
+141,US,Detroit,Saint John's Resort,"44045 Five Mile Rd, Plymouth, Michigan",324
+142,US,Detroit,TownePlace Suites Detroit Auburn Hills,"3900 Baldwin Rd, Auburn Hills, Michigan",234
+143,US,Detroit,Courtyard by Marriott Detroit Dearborn,"5200 Mercury Drive, Dearborn, Michigan",196
+144,US,Detroit,Fairfield Inn & Suites by Marriott Detroit Troy,"225 Stephenson Hwy, Troy, Michigan",58
+145,US,Detroit,"Country Inn & Suites by Radisson, Dearborn, MI","24555 Michigan Ave, Dearborn, Michigan",833
+146,US,Detroit,Courtyard by Marriott Detroit Livonia,"17200 N Laurel Park Dr, Livonia, Michigan",126
+147,US,Detroit,Days Inn & Suites by Wyndham Roseville/Detroit Area,"31327 Gratiot Ave, Roseville, Michigan",547
+148,US,Detroit,Super 8 by Wyndham Roseville/Detroit Area,"20445 Erin St, Roseville, Michigan",166
+149,US,Detroit,Best Western Warren Hotel,"7447 Convention Blvd, Warren, Michigan",865
+150,US,Detroit,Four Points by Sheraton Detroit Novi,"27000 S Karevich Dr, Novi, Michigan",65
+151,US,Detroit,Motel 6 Detroit-Southgate,"18777 Northline Rd, Southgate, Michigan",62
+152,US,Detroit,"Holiday Inn Express & Suites Farmington Hills - Detroit, an IHG Hotel","32769 Northwestern Highway, Farmington Hills, Michigan",86
+153,US,Detroit,Sonesta ES Suites Detroit Warren,"30120 N Civic Center Blvd, Warren, Michigan",162
+154,US,Detroit,Magnuson Hotel Detroit Airport,"8230 Merriman Rd, Romulus, Michigan",70
+155,US,Detroit,Comfort Inn & Suites Allen Park - Dearborn,"3600 Enterprise Dr, Allen Park, Michigan",299
+156,US,Detroit,Element Detroit At The Metropolitan,"33 John R St, Detroit, Michigan",214
+157,US,Detroit,Holiday Inn Express and Suites Detroit - Utica,"45555 Utica Park Blvd, Utica, Michigan",123
+158,US,Detroit,Best Western Woodhaven Inn,"21700 West Rd, Woodhaven, Michigan",257
+159,US,Detroit,Extended Stay America - Detroit - Ann Arbor - University South,"3265 Boardwalk St, Ann Arbor, Michigan",111
+160,US,Detroit,Extended Stay America - Detroit - Ann Arbor - Briarwood Mall,"1501 Briarwood Cir, Ann Arbor, Michigan",160
+161,US,Detroit,Home2 Suites by Hilton West Bloomfield Detroit,"33098 Northwestern Highway, West Bloomfield, Michigan",52
+162,US,Detroit,TownePlace Suites by Marriott Detroit Dearborn,"6141 Mercury Drive, Dearborn, Michigan",151
+163,US,Detroit,Residence Inn Detroit Troy/Madison Heights,"32650 Stephenson Highway, Madison Heights, Michigan",119
+164,US,Detroit,Residence Inn by Marriott Detroit Novi,"27477 Cabaret Drive, Novi, Michigan",162
+165,US,Detroit,Somerset Inn,"2601 West Big Beaver Road, Troy, Michigan",250
+166,US,Detroit,Hawthorn Suites by Wyndham Dearborn/Detroit MI,"5777 Southfield Service Drive, Detroit, Michigan",586
+167,US,Detroit,Extended Stay America - Detroit - Auburn Hills - I -75,"1180 Doris Rd, Auburn Hills, Michigan",80
+168,US,Detroit,Holiday Inn Express & Suites Detroit - Farmington Hills,"21100 Haggerty Road, Northville, Michigan",97
+169,US,Detroit,TownePlace Suites by Marriott Detroit Livonia,"17450 Fox Drive, Livonia, Michigan",146
+170,US,Detroit,Courtyard by Marriott Detroit Warren,"30190 Van Dyke Avenue, Warren, Michigan",113
+171,US,Detroit,Hotel St. Regis,"3071 W Grand Blvd, Detroit, Michigan",379
+172,US,Detroit,Sonesta Simply Suites Detroit Southfield,"1 Corporate Drive, Southfield, Michigan",85
+173,US,Detroit,The Shinola Hotel,"1400 Woodward Ave, Detroit, Michigan",156
+174,US,Detroit,Wyndham Garden Sterling Heights,"34911 Van Dyke Ave, Sterling Heights, Michigan",418
+175,US,Detroit,Baymont by Wyndham Downtown Detroit,"3250 E Jefferson Ave, Detroit, Michigan",264
+176,US,Detroit,Extended Stay America - Detroit - Warren,"30125 N Civic Center Blvd, Warren, Michigan",70
+177,US,Detroit,"Holiday Inn Express & Suites Sterling Heights-Detroit Area, an IHG Hotel","8515 15 Mile Road, Sterling Heights, Michigan",77
+178,US,Detroit,Sonesta Simply Suites Detroit Ann Arbor,"701 Waymarket Drive, Ann Arbor, Michigan",116
+179,US,Detroit,Extended Stay America - Detroit - Canton,"2000 N Haggerty Rd, Canton, Michigan",77
+180,US,Detroit,Courtyard by Marriott Detroit Utica,"46000 Utica Park Blvd, Utica, Michigan",133
+181,US,Detroit,Extended Stay America - Detroit - Roseville,"20200 E 13 Mile Rd, Roseville, Michigan",86
+182,US,Detroit,Royal Park Hotel,"600 E University Dr, Rochester, Michigan",704
+183,US,Detroit,"Country Inn & Suites by Radisson, Novi, MI","21625 Haggerty Rd, Novi, Michigan",299
+184,US,Detroit,Detroit / Ann Arbor KOA,"6680 Bunton Rd, Ypsilanti, Michigan",73
+185,US,Detroit,Baymont by Wyndham Belleville Airport Area,"45945 S I 94 Service Drive, Belleville, Michigan",300
+186,US,Detroit,TownePlace Suites by Marriott Detroit Canton,"5780 Haggerty Road, Canton, Michigan",51
+187,US,Detroit,Hampton Inn & Suites Wixom,"49025 Alpha Dr, Wixom, Michigan",248
+188,US,Detroit,Comfort Inn,"29235 Buckingham St, Livonia, Michigan",199
+189,US,Detroit,Sonder Gabriel Richard,"305 Michigan Ave, Detroit, Michigan",138
+190,US,Detroit,Quality Inn,"2537 Rochester Ct, Troy, Michigan",234
+191,US,Detroit,The Met Troy,"5500 Crooks Rd, Troy, Michigan",248
+192,US,Detroit,Holiday Inn Express & Suites Detroit-Novi,"39675 W 12 Mile Rd, Novi, Michigan",158
+193,US,Detroit,Wingate By Wyndham Roseville / Detroit,"31900 Little Mack Ave, Roseville, Michigan",124
+194,US,Detroit,Wyndham Garden Southgate,"17201 Northline Rd, Southgate, Michigan",206
+195,US,Detroit,Home2 Suites by Hilton Taylor Detroit,"14300 Pardee Rd, Taylor, Michigan",45
+196,US,Detroit,Sonder The Randolph,"139 Cadillac Square, Detroit, Michigan",101
+197,US,Detroit,Hotel Royal Oak,"811 E Eleven Mile Rd, Royal Oak, Michigan",185
+198,US,Detroit,Fairfield Inn & Suites Detroit Canton,"5760 N Haggerty Rd, Canton, Michigan",55
+199,US,Detroit,TownePlace Suites by Marriott Detroit Troy,"325 Stephenson Highway, Troy, Michigan",33
+200,US,Detroit,Red Roof Inn & Suites Detroit - Melvindale / Dearborn,"17600 DIX Rd, Melvindale, Michigan",59
+201,US,Detroit,Courtyard by Marriott Detroit Farmington,"33043 Hamilton Ct, Farmington Hills, Michigan",38
+202,US,Detroit,Extended Stay America - Detroit - Metropolitan Airport,"30325 Flynn Dr, Romulus, Michigan",48
+203,US,Detroit,Extended Stay America - Detroit - Auburn Hills - University Drive,"3315 University Dr, Auburn Hills, Michigan",61
+204,US,Detroit,Comfort Inn Downtown Detroit,"1999 E Jefferson Ave, Detroit, Michigan",192
+205,US,Detroit,Mint House Detroit - Grand Circus Park,"114 W Adams Ave, Detroit, Michigan",25
+206,US,Detroit,"Holiday Inn Express & Suites Belleville (Airport Area), an IHG Hotel","46194 N Interstate 94 Service Dr, Belleville, Michigan",177
+207,US,Detroit,"Holiday Inn Express & Suites Detroit Northwest - Livonia, an IHG Hotel","27451 Schoolcraft Road, Livonia, Michigan",28
+208,US,Detroit,"Holiday Inn Express & Suites Southgate - Detroit Area, An IHG Hotel","13333 Heritage Center Dr., Southgate, Michigan",35
+209,US,Detroit,"Holiday Inn & Suites Farmington Hills - Detroit NW, an IHG Hotel","33103 Hamilton Ct, Farmington Hills, Michigan",24
+210,US,Detroit,"Holiday Inn Express & Suites Auburn Hills, an IHG Hotel","3990 Baldwin Road, Auburn Hills, Michigan",354
+211,US,Detroit,Super 8 by Wyndham Sterling Heights/Detroit Area,"34550 Van Dyke Ave, Sterling Heights, Michigan",203
+212,US,Detroit,Mint House Detroit - New Center,"2911 W. Grand Blvd, Detroit, Michigan",14
+213,US,Detroit,"Extended Stay America - Detroit - Southfield - I-696, MI","26250 American Dr, Southfield, Michigan",44
+214,US,Detroit,Holiday Inn Express & Suites Detroit - Dearborn,"6355 Mercury Dr, Dearborn, Michigan",10
+215,US,Detroit,Comfort Inn Warren,"7001 Convention Blvd, Warren, Michigan",132
+216,US,Detroit,Mint House Detroit - Times Square,"415 Clifford St, Detroit, Michigan",46
+217,US,Detroit,"Staybridge Suites Sterling Heights - Detroit, an IHG Hotel","8333 15 Mile Road, Sterling Heights, Michigan",43
+218,US,Detroit,The Inn on Ferry Street,"84 E Ferry St, Detroit, Michigan",48
+219,US,Detroit,Americas Best Value Inn Livonia Detroit,"28512 Schoolcraft Rd, Livonia, Michigan",42
+220,US,Detroit,Motel 6 Detroit N.W. - Farmington Hills,"38300 Grand River Ave, Farmington Hills, Michigan",31
+221,US,Detroit,Hyatt Place Chicago / Lombard / Oak Brook,"2340 South Fountain Square Drive, Lombard, DuPage County, Illinois",969
+222,US,Detroit,My Place Hotel- Detroit West/Wixom,"48881 Alpha Dr, Wixom, Michigan",38
+223,US,Detroit,Tru By Hilton Troy Detroit,"1575 E Maple Rd, Troy, Michigan",26
+224,US,Detroit,The Detroit Club,"712 Cass Ave, Detroit, Michigan",28
+225,US,Detroit,Comfort Inn & Suites,"6778 South Telegraph Road, Taylor, Michigan",144
+226,US,Detroit,Comfort Suites Canton,"5730 N Haggerty Rd, Canton, Michigan",149
+227,US,Detroit,Rivertown Inn & Suites Downtown Detroit,"1316 E Jefferson Ave, Detroit, Michigan",176
+228,US,Detroit,Hotel Sterling,"109 W Front St, Monroe, Michigan",109
+229,US,Detroit,Motel 6 Detroit East - Warren,"8300 Chicago Rd, Warren, Michigan",24
+230,US,Detroit,The Kingsley Bloomfield Hills - a Doubletree by Hilton,"39475 Woodward Ave, Bloomfield Hills, Michigan",151
+231,US,Detroit,SpringHill Suites by Marriott Detroit Wixom,"49097 Alpha Dr, Wixom, Michigan",11
+232,US,Detroit,Quality Inn & Suites,"1225 N Dixie Hwy, Monroe, Michigan",162
+233,US,Detroit,"Hotel Indigo Detroit Downtown, an IHG Hotel","1020 Washington Blvd, Detroit, Michigan",43
+234,US,Detroit,Hampton Inn & Suites Bloomfield Hills Detroit,"1951 S. Telegraph Rd, Bloomfield Hills, Michigan",12
+235,US,Detroit,Super 8 by Wyndham Ottawa Starved Rock,"500 E Etna Rd, Ottawa, Illinois",521
+236,US,Detroit,Delta Hotels by Marriott Detroit Novi,"37529 Grand River Avenue, Farmington Hills, Michigan",10
+237,US,Detroit,Fairfield Inn & Suites by Marriott Detroit Chesterfield,"45800 Marketplace Blvd, Chesterfield, Michigan",30
+238,US,Detroit,Holiday Inn Detroit Northwest - Livonia,"17123 Laurel Park Dr. N, Livonia, Michigan",25
+239,US,Detroit,"Holiday Inn Express & Suites Plymouth - Ann Arbor Area, an IHG Hotel","15100 Beck Road, Plymouth, Michigan",62
+240,US,Detroit,The Inn at 97 Winder,"97 Winder St, Detroit, Michigan",57
+241,US,Detroit,Holiday Inn Express Auburn Hills South,"907 N Opdyke Rd, Auburn Hills, Michigan",42
+242,US,Detroit,Comfort Suites Southgate,"18950 Northline Rd, Southgate, Michigan",70
+243,US,Detroit,Baymont by Wyndham Monroe,"14774 Laplaisance Rd, Monroe, Michigan",618
+244,US,Detroit,"Holiday Inn Express & Suites Chesterfield - Selfridge Area, an IHG Hotel","45805 Marketplace Boulevard, Chesterfield, Michigan",149
+245,US,Detroit,Extended Stay America Suites - Detroit - Rochester Hills,"3576 Marketplace Cir, Rochester Hills, Michigan",17
+246,US,Detroit,Hampton Inn & Suites Ypsilanti,"515 James L Hart Parkway, Ypsilanti, Michigan",33
+247,US,Detroit,234 Winder St Inn,"234 Winder St, Detroit, Michigan",23
+248,US,Detroit,Days Inn by Wyndham Livonia - Detroit,"36655 Plymouth Rd, Livonia, Michigan",43
+249,US,Detroit,Quality Inn,"26111 Telegraph Rd, Southfield, Michigan",79
+250,US,Detroit,Millpond Inn,"155 N Main St, Clarkston, Michigan",64
+251,US,Detroit,Hampton Inn & Suites Allen Park,"16400 Southfield Rd, Allen Park, Michigan",154
+252,US,Detroit,The Cochrane House Luxury Historic Inn,"216 Winder St, Detroit, Michigan",7
+253,US,Detroit,A Victory Suites,"2020 Walter P Reuther Dr, Warren, Michigan",29
+254,US,Detroit,"Staybridge Suites Southgate - Detroit Area, an IHG Hotel","12600 Reeck Rd, Southgate, Michigan",7
+255,US,Detroit,Bishop's Cottage Bed & Breakfast,"7573 Macomb St, Grosse Ile, Michigan",8
+256,US,Detroit,Hotel Chataura,"13181 Michigan Ave, Dearborn, Michigan",48
+257,US,Detroit,Viking Motel,"2720 Grand River Ave, Detroit, Michigan",32
+258,US,Detroit,Honor and Folly,"2134 Michigan Ave, Detroit, Michigan",8
+259,US,Detroit,"Holiday Inn Express Wixom, an IHG Hotel","48953 Alpha Dr, Wixom, Michigan",96
+260,US,Detroit,"The Dearborn Inn, A Marriott Hotel","20301 Oakwood Blvd, Dearborn, Michigan",935
+261,US,Detroit,Americas Best Value Inn & Suites Warren Detroit,"7500 Miller Road, Warren, Michigan",33
+262,US,Detroit,Best Western Dundee,"102 Whitetail Dr, Dundee, Michigan",294
+263,US,Detroit,Harbortown RV Resort,"14931 Laplaisance Rd, Monroe, Michigan",53
+264,US,Detroit,"Holiday Inn Express & Suites Allen Park, an IHG Hotel","9000 Enterprise Dr, Allen Park, Michigan",30
+265,US,Detroit,America's Best Inn Warren Detroit,"25800 Dequindre Rd, Warren, Michigan",16
+266,US,Detroit,Hilton Garden Inn Detroit Utica,"44700 Hayes Rd, Clinton Township, Michigan",14
+267,US,Detroit,American Inn & Suites Metro Airport,"9863 Middlebelt Rd, Romulus, Michigan",249
+268,US,Detroit,Auburn Hills Marriott Pontiac,"3600 Centerpoint Pkwy, Pontiac, Michigan",588
+269,US,Detroit,Holiday Inn Express & Suites Brighton,"7850 Nemco Way, Brighton, Michigan",13
+270,US,Detroit,"Holiday Inn Express & Suites Detroit North - Roseville, an IHG Hotel","30300 Gratiot Ave, Roseville, Michigan",11
+271,US,Detroit,Marriott East Lansing at University Place,"300 Mac Ave, East Lansing, Ingham County, Michigan",324
+272,US,Detroit,Comfort Inn Near Greenfield Village,"20061 Michigan Ave, Dearborn, Michigan",507
+273,US,Detroit,"Crowne Plaza Auburn Hills, an IHG Hotel","1500 Opdyke Rd, Auburn Hills, Michigan",330
+274,US,Detroit,Hampton Inn Monroe,"1565 North Dixie Highway, Monroe, Michigan",375
+275,US,Detroit,Super 8 by Wyndham Canton / Livonia Area,"3933 S Lotz Rd, Canton, Michigan",340
+276,US,Detroit,MainStay Suites Detroit Auburn Hills,"1650 N Opdyke Rd, Auburn Hills, Michigan",9
+277,US,Detroit,Residence Inn Detroit Farmington Hills,"33163 Hamilton Ct, Farmington Hills, Michigan",10
+278,US,Detroit,Extended Stay America Southfie,"28500 Northwestern Hwy, Southfield, Michigan",133
+279,US,Detroit,Days Inn & Suites by Wyndham Madison Heights MI,"1331 W 14 Mile Rd, Madison Heights, Michigan",248
+280,US,Detroit,"Holiday Inn Express & Suites Woodhaven, an IHG Hotel","21500 West Road, Woodhaven, Michigan",122
+281,US,Detroit,"Holiday Inn Express & Suites Grand Blanc, an IHG Hotel","3405 Regency Park Drive, Grand Blanc, Michigan",126
+282,US,Detroit,Holiday Inn & Suites Warren,"30000 Van Dyke Ave, Warren, Michigan",116
+283,US,Detroit,"Holiday Inn Express & Suites Canton, an IHG Hotel","3950 S Lotz Rd, Canton, Michigan",114
+284,US,Detroit,TownePlace Suites Detroit Belleville,"46418 N I-94 Service Dr, Belleville, Michigan",8
+285,US,Detroit,The English Inn,"677 S Michigan Rd, Eaton Rapids, Eaton County, Michigan",132
+286,US,Detroit,HomeTowne Studios by Red Roof Detroit - Livonia,"11808 Middlebelt Rd, Livonia, Michigan",7
+287,US,Detroit,"Staybridge Suites Dearborn MI, an IHG Hotel","24105 Michigan Avenue, Dearborn, Michigan",95
+288,US,Detroit,Hilton Garden Inn Plymouth,"14600 N. Sheldon Road, Plymouth, Michigan",665
+289,US,Detroit,Firekeepers Casino Hotel,"11177 Michigan Ave E, Battle Creek, Calhoun County, Michigan",531
+290,US,Detroit,Soaring Eagle Casino & Resort,"6800 E Soaring Eagle Blvd, Mount Pleasant, Isabella County, Michigan",1305
+291,US,Detroit,A Night to Remember B & B,"5712 Main St, Lexington, Michigan",161
+292,US,Detroit,Edward Hotel & Conference Center,"600 Town Center Dr, Dearborn, Michigan",1096
+293,US,Detroit,"The Leo Collection Detroit, Ascend Hotel Collection","1805 John a Papalas Dr, Lincoln Park, Michigan",4
+294,US,Detroit,Cambria Hotel Detroit-Shelby Township,"50741 Corporate Dr, Shelby Township, Michigan",7
+295,US,Detroit,"Holiday Inn Express & Suites Monroe, an IHG Hotel","1687 North Dixie Highway, Monroe, Michigan",73
+296,US,Detroit,Rodeway Inn Metro Airport,"8500 Wickham Rd, Romulus, Michigan",44
+297,US,Detroit,Wingate by Wyndham Brighton,"8285 Movie Dr, Brighton, Michigan",168
+298,US,Detroit,Del Rio Suites & Spa,"215 E Elm Ave, Monroe, Michigan",1
+299,US,Detroit,A Victory Inn & Suites - Ann Arbor,"3750 Washtenaw Ave, Ann Arbor, Michigan",121
+300,US,Detroit,A Victory Inn - West Dearborn,"23730 Michigan Ave, Dearborn, Michigan",41
+301,US,Detroit,Comfort Inn Plymouth,"40455 Ann Arbor Rd E, Plymouth, Michigan",445
+302,US,Detroit,National House Inn,"102 S Parkview St, Marshall, Calhoun County, Michigan",128
+303,US,Detroit,Bambi Motel,"1100 E Bay St, East Tawas, Michigan",109
+304,US,Detroit,Parish House Inn,"103 S Huron St, Ypsilanti, Michigan",110
+305,US,Detroit,"Knights Inn Madison Heights, MI","26091 Dequindre Rd, Madison Heights, Michigan",22
+306,US,Detroit,Sun Outdoors Kensington Valley,"25800 Haas Rd, New Hudson, Michigan",36
+307,US,Detroit,Baymont by Wyndham Ferndale/Royal Oak,"11000 W 8 Mile Rd, Ferndale, Michigan",39
+308,US,Detroit,MainStay Suites Detroit Farmington Hills,"37555 Hills Tech Dr, Farmington Hills, Michigan",3
+309,US,Detroit,Fairfield Inn & Suites Saginaw,"5200 Cardinal Square Blvd, Saginaw, Michigan",257
+310,US,Detroit,Pellston Lodge Magnuson Hotel,"1600 Highway 31 North, Pellston, Emmet County, Michigan",267
+311,US,Detroit,Home2 Suites by Hilton Northville Detroit,"47450 W Five Mile Rd, Northville, Michigan",7
+312,US,Detroit,Camp Dearborn,"1700 General Motors Rd, Milford, Michigan",33
+313,US,Detroit,Daxton Hotel,"298 S Old Woodward Ave, Birmingham, Michigan",134
+314,US,Detroit,Riverside Motel & Marina,"520 Water St, Manistee, Manistee County, Michigan",48
+315,US,Detroit,Heather House,"409 N Main St, Marine City, Michigan",54
+316,US,Detroit,Hamtramck Hotel & Hostel,"2699 Holmes St, Detroit, Michigan",6
+317,US,Detroit,Rodeway Inn,"32703 Stephenson Hwy, Madison Heights, Michigan",57
+318,US,Detroit,"Holiday Inn Express & Suites Howell, an IHG Hotel","1397 N Burkhart Rd, Howell, Michigan",147
+319,US,Detroit,Courtyard by Marriott Flint Grand Blanc,"5205 Gateway Centre, Flint, Michigan",256
+320,US,Detroit,Royal Motor Inn,"27751 Plymouth Rd, Livonia, Michigan",4
+321,US,Detroit,Residence Inn by Marriott Decatur Forsyth,"230 Lucile Avenue, Forsyth, Illinois",152
+322,US,Detroit,Veterans Park Hotel,"8636 Joseph Campau St, Hamtramck, Michigan",12
+323,US,Detroit,TownePlace Suites by Marriott Detroit Allen Park,"16850 Southfield Rd, Allen Park, Michigan",5
+324,US,Detroit,Wayne County Fairgrounds & RV Park,"10871 Quirk Rd, Belleville, Michigan",6
+325,US,Detroit,Fellows Creek Lodge,"40064 Michigan Ave, Canton, Michigan",20
+326,US,Detroit,Knights Inn Farmington Hill,"37527 Grand River Ave, Farmington Hills, Michigan",46
+327,US,Detroit,Marvin's Garden Inn,"27650 Northwestern Hwy, Southfield, Michigan",48
+328,US,Detroit,Allen Park Motor Lodge,"14887 Southfield Rd, Allen Park, Michigan",26
+329,US,Detroit,American Heritage Inn,"1681 E Grand River Ave, Portland, Ionia County, Michigan",74
+330,US,Detroit,100 Walkscore Grand Circus Apartments by Barsala,"313 Park Ave, Detroit, Michigan",6
+331,US,Detroit,Econo Lodge Inn & Suites,"6500 E Albain Rd, Monroe, Michigan",136
+332,US,Detroit,Quality Inn & Suites Airport,"2361 Austins Pkwy, Flint, Michigan",139
+333,US,Detroit,Munro House Bed & Breakfast and Spa,"202 Maumee St, Jonesville, Michigan",94
+334,US,Detroit,Quality Inn & Suites Banquet Center,"30375 Plymouth Rd, Livonia, Michigan",106
+335,US,Detroit,York House,"1141 N York St, Dearborn, Michigan",4
+336,US,Detroit,Northpointe Shores RV Resort,"10413 Dixie Hwy, Fair Haven, Michigan",5
+337,US,Detroit,Red Apple Inn,"32707 Michigan Ave # 11, Wayne, Michigan",15
+338,US,Detroit,Comfort Inn,"30715 W 12 Mile Rd, Farmington Hills, Michigan",93
+339,US,Detroit,Drury Inn & Suites Frankenmuth,"260 S Main St, Frankenmuth, Michigan",1217
+340,US,Detroit,"Country Inn & Suites by Radisson, Dundee, MI","665 Tecumseh St, Dundee, Michigan",614
+341,US,Detroit,Little River Casino Resort,"2700 Orchard Hwy, Manistee, Manistee County, Michigan",487
+342,US,Detroit,Motel 6 Grand Rapids MI - Northeast,"3221 Plainfield Ave NE, Grand Rapids, Kent County, Michigan",57
+343,US,Detroit,Lodge Keeper Motel,"29101 23 Mile Rd, Chesterfield, Michigan",6
+344,US,Detroit,Hanson House Bed and Breakfast,"604 Peninsular Ave, Grayling, Crawford County, Michigan",23
+345,US,Detroit,Huron River Guest House,"3586 E Huron River Dr, Ann Arbor, Michigan",23
+346,US,Detroit,DE Lido,"20266 Woodward Ave, Detroit, Michigan",2
+347,US,Detroit,Hampton Inn Ann Arbor-South,"925 Victors Way, Ann Arbor, Michigan",740
+348,US,Detroit,Courtyard by Marriott Ann Arbor,"3205 Boardwalk, Ann Arbor, Michigan",293
+349,US,Detroit,Wyndham Garden Elk Grove Village/O'Hare,"2550 Landmeier Rd, Elk Grove Village, Illinois",465
+350,US,Detroit,Microtel Inn & Suites by Wyndham Ann Arbor,"3610 Plymouth Rd, Ann Arbor, Michigan",1438
+351,US,Detroit,Historic Webster House Bed and Breakfast,"900 5th St, Bay City, Michigan",459
+352,US,Detroit,Hampton Inn & Suites East Lansing / Okemos,"2200 Hampton Place, Okemos, Ingham County, Michigan",608
+353,US,Detroit,"avid hotel Detroit - Warren, an IHG Hotel","11570 E 11 Mile Rd, Warren, Michigan",2
+354,US,Detroit,Chelsea House Victorian Inn,"118 E Middle St, Chelsea, Michigan",253
+355,US,Detroit,Graduate East Lansing,"133 Evergreen Avenue, East Lansing, Ingham County, Michigan",262
+356,US,Detroit,Comfort Suites Auburn Hills,"1565 N Opdyke Rd, Auburn Hills, Michigan",323
+357,US,Detroit,Days Inn & Suites by Wyndham Monroe,"1900 Welcome Way, Monroe, Michigan",359
+358,US,Detroit,Baymont by Wyndham Canton,"5700 N Haggerty Rd, Canton, Michigan",530
+359,US,Detroit,St Clair RV Resort,"1299 Wadhams Road, Saint Clair, Michigan",286
+360,US,Detroit,Travelodge by Wyndham Jackson,"901 Rosehill Rd, Jackson, Michigan",515
+361,US,Detroit,A Victory Hotel & Suites,"27500 Northwestern Hwy, Southfield, Michigan",399
+362,US,Detroit,Super 8 by Wyndham Saginaw,"4848 Towne Centre Rd, Saginaw, Michigan",286
+363,US,Detroit,Comfort Inn Wings Stadium,"1550 E Kilgore Rd, Kalamazoo, Kalamazoo County, Michigan",257
+364,US,Detroit,WoodSpring Suites Detroit Farmington Hills,"22000 Haggerty Rd, Northville, Michigan",3
+365,US,Detroit,Super 8 by Wyndham Jackson MI,"2001 Shirley Dr, Jackson, Michigan",214
+366,US,Detroit,Hampton Inn Big Rapids,"15320 Waldron Way, Big Rapids, Mecosta County, Michigan",174
+367,US,Detroit,Fairfield Inn by Marriott Battle Creek,"4665 Beckley Rd, Battle Creek, Calhoun County, Michigan",186
+368,US,Detroit,Inn the Garden Bed and Breakfast,"7156 Huron Ave, Lexington, Michigan",136
+369,US,Detroit,Yarrow Golf & Conference Resort,"10499 N 48th St, Augusta, Kalamazoo County, Michigan",32
+370,US,Detroit,Shady Rest Bed & Breakfast,"3288 Lakeshore Rd, Lexington, Michigan",28
+371,US,Detroit,Super 8 by Wyndham Belleville,"45707 S Interstate 94 Service Dr, Belleville, Michigan",49
+372,US,Detroit,Shamrock Farms Bed and Breakfast,"2388 Millville Rd, Lapeer, Michigan",17
+373,US,Detroit,Fairfield Inn & Suites by Marriott Flint Fenton,"3125 W Silver Lake Rd, Fenton, Michigan",150
+374,US,Detroit,Tru by Hilton Jackson,"2401 Shirley Dr., Jackson, Michigan",164
+375,US,Detroit,Extended Stay America - Chicago - Midway,"7524 S State Rd, Bedford Park, Illinois",144
+376,US,Detroit,Red Roof Inn Kalamazoo East - Expo Center,"3701 E Cork St, Kalamazoo, Kalamazoo County, Michigan",163
+377,US,Detroit,Baymont by Wyndham Milan,"1230 Dexter St, Milan, Michigan",172
+378,US,Detroit,Baymont by Wyndham Flat Rock,"29101 Commerce Dr, Flat Rock, Michigan",161
+379,US,Detroit,Woodridge Inn & Suites,"7996 N Alger Rd, Alma, Gratiot County, Michigan",48
+380,US,Detroit,Adoba Hotel Naubinway,"W11655 US Highway 2, Naubinway, Mackinac County, Upper Peninsula, Michigan",118
+381,US,Detroit,Rodeway Inn,"2723 Niles Ave, Saint Joseph, Berrien County, Michigan",104
+382,US,Detroit,Lake Vista Resort,"168 W Spring St, Port Austin, Michigan",102
+383,US,Detroit,Comfort Inn & Suites,"17800 Silver Pkwy, Fenton, Michigan",104
+384,US,Detroit,The Harbor Grand Hotel,"111 W Water St., New Buffalo, Berrien County, Michigan",393
+385,US,Detroit,The Inn at Harbor Shores Resort,"800 Whitwam Dr, Saint Joseph, Berrien County, Michigan",353
+386,US,Detroit,Residence Inn by Marriott Detroit Sterling Heights,"44600 Hayes Road, Clinton Township, Michigan",2
+387,US,Detroit,Lakeside Inn,"15251 Lakeshore Rd, Lakeside, Berrien County, Michigan",149
+388,US,Detroit,Soaring Eagle Waterpark and Hotel,"5665 E Pickard St, Mount Pleasant, Isabella County, Michigan",522
+389,US,Detroit,Detroit Knights Inn,"10501 E Jefferson Ave, Detroit, Michigan",1
+390,US,Detroit,Super 8 Motel Dearborn / Detroit area,"2101 S Telegraph Rd, Dearborn, Michigan",1
+391,US,Detroit,Park Inn Detroit Metro Airport,"8270 Wickham Rd, Brownstown Township, Michigan",1
+392,US,Detroit,FRONTDESK The Ashley Apts Downtown Detroit,"Downtown, Detroit, Michigan",1
+393,US,Detroit,Detroit International House,"5746 Burns Avenue, Detroit, Michigan",1
+394,US,Detroit,Detroit Vacation Rentals,"8638 Joseph Campau St, Hamtramck, Michigan",1
+395,US,Detroit,Hampton Inn Chicago Downtown/N Loop/Michigan Ave,"68 E Wacker Pl, Chicago, Illinois",1257
+396,US,Detroit,Roam Inn,"815 W Munising Ave, Munising, Upper Peninsula, Michigan",664
+397,US,Detroit,Best Western Plus Hawthorne Terrace Hotel,"3434 N Broadway St, Chicago, Illinois",1423
+398,US,Detroit,Omni Chicago Hotel,"676 N Michigan Ave, Chicago, Illinois",4256
+399,US,Detroit,Courtyard by Marriott Chicago Downtown/Magnificent Mile,"165 East Ontario Street, Chicago, Illinois",2035
+400,US,Detroit,Hyatt Centric The Loop Chicago,"100 W Monroe St, Chicago, Illinois",1169
+401,US,Detroit,The H Hotel,"111 W Main St, Midland, Michigan",1747
+402,US,Detroit,Hampton Inn & Suites Saginaw,"2695 Tittabawassee Rd, Saginaw, Michigan",707
+403,US,Detroit,Chicago Getaway Hostel,"616 W Arlington Pl, Chicago, Illinois",1956
+404,US,Detroit,Huron House Bed and Breakfast,"3124 North US-23, Oscoda, Michigan",848
+405,US,Detroit,"Holiday Inn Express & Suites Cadillac, an IHG Hotel","7642 US Highway 131 S, Cadillac, Michigan",157
+406,US,Detroit,"Shoreline Inn & Conference Center, an Ascend Hotel Collection Member","750 Terrace Point Rd, Muskegon, Muskegon County, Michigan",689
+407,US,Detroit,DoubleTree by Hilton Hotel Chicago - North Shore Conference Center,"9599 Skokie Blvd, Skokie, Illinois",1486
+408,US,Detroit,The Kensington Hotel,"3500 South State Street, Ann Arbor, Michigan",1268
+409,US,Detroit,Sleep Inn & Suites,"5597 S 9th St, Kalamazoo, Kalamazoo County, Michigan",1462
+410,US,Detroit,Comfort Suites Wixom,"28049 S Wixom Rd, Wixom, Michigan",153
+411,US,Detroit,Ramada by Wyndham Marquette,"412 W Washington St, Marquette, Upper Peninsula, Michigan",963
+412,US,Detroit,Embassy Suites by Hilton Auburn Hills,"2300 Featherstone Road, Auburn Hills, Michigan",1194
+413,US,Detroit,Wyndham Garden Ann Arbor,"2900 Jackson Ave, Ann Arbor, Michigan",774
+414,US,Detroit,Days Inn by Wyndham Ann Arbor,"2380 Carpenter Rd, Ann Arbor, Michigan",1082
+415,US,Detroit,The Dunes Resort,"333 Blue Star Hwy, Douglas, Allegan County, Michigan",90
+416,US,Detroit,Americas Best Value Inn Gaylord,"2880 S Otsego Ave, Gaylord, Otsego County, Michigan",102
+417,US,Detroit,Rosemont Inn Resort B&B,"83 Lakeshore Dr, Douglas, Allegan County, Michigan",105
+418,US,Detroit,Baymont by Wyndham Port Huron,"1611 Range Rd, Port Huron, Michigan",1116
+419,US,Detroit,Comfort Inn & Suites,"1359 Grand Pointe Ct, Grand Blanc, Michigan",963
+420,US,Detroit,Holiday Inn Express and Suites Bad Axe,"55 Rapson Lane West, Bad Axe, Michigan",145
+421,US,Detroit,Bluewater Inn and Suites,"1030 S Harbor Dr, Grand Haven, Ottawa County, Michigan",118
+422,US,Detroit,Econo Lodge,"3750 Easy St, Kalamazoo, Kalamazoo County, Michigan",100
+423,US,Detroit,"Inn at Bay Harbor, Autograph Collection","3600 Village Harbor Drive, Bay Harbor, Petoskey, Emmet County, Michigan",698
+424,US,Detroit,Grand Hotel,"286 Grand Avenue, Mackinac Island, Mackinac County, Upper Peninsula, Michigan",5120
+425,US,Detroit,Embassy Suites by Hilton Chicago Downtown River North,"600 North State Street, Chicago, Illinois",3273
+426,US,Detroit,The Kalamazoo House,"447 W South St, Kalamazoo, Kalamazoo County, Michigan",623
+427,US,Detroit,South Channel Bed & Breakfast,"5850 Green Dr, Harsens Island, Michigan",4
+428,US,Detroit,Prospect Hill Bed & Breakfast,"429 Prospect St, Romeo, Michigan",5
+429,US,Detroit,Courtyard by Marriott Albion,"200 S Superior St, Albion, Calhoun County, Michigan",36
+430,US,Detroit,Blue Spruce & Lucky Horseshoe Motel and Cabins,"8527 Lake St, Port Austin, Michigan",49
+431,US,Detroit,Baymont by Wyndham Midland,"2200 W Wackerly St, Midland, Michigan",638
+432,US,Detroit,Super 8 by Wyndham West Branch,"2596 Austin Way, West Branch, Michigan",609
+433,US,Detroit,Greencrest Manor,"6174 Halbert Rd E, Battle Creek, Calhoun County, Michigan",29
+434,US,Detroit,The Garfield Inn,"8544 Lake St, Port Austin, Michigan",4
+435,US,Detroit,Suburban House Motel,"16920 Telegraph Rd, Detroit, Michigan",1
+436,US,Detroit,Watervale Inn,"1244 Watervale Rd, Arcadia, Manistee County, Michigan",10
+437,US,Detroit,Inn on Water Street - Waterfront Boutique Hotel,"560 S Water St, Marine City, Michigan",37
+438,US,Detroit,Royal Inn Motel,"1090 W 8 Mile Rd, Ferndale, Michigan",2
+439,US,Detroit,"The St. Clair Inn, A Tribute Portfolio Hotel","500 N Riverside Ave, Saint Clair, Michigan",15
+440,US,Detroit,The Buckhorn Resort,"N3919 Buckhorn Dr, Munising, Upper Peninsula, Michigan",41
+441,US,Detroit,Parkcrest Inn,"20000 Harper Ave, Harper Woods, Michigan",15
+442,US,Detroit,"Staybridge Suites Auburn Hills, an IHG Hotel","917 N. Opdyke Road, Auburn Hills, Michigan",19
+443,US,Detroit,Tru by Hilton Gaylord,"1048 West Main Street, Gaylord, Otsego County, Michigan",36
+444,US,Detroit,The Inn at Wrigleyville,"3617 N Sheffield Ave # 19, Chicago, Illinois",18
+445,US,Detroit,Belvedere Inn & Restaurant,"3656 63rd St, Saugatuck, Allegan County, Michigan",468
+446,US,Detroit,Plaza Motor Motel,"3901 I 75 Business Spur, Sault Ste. Marie, Upper Peninsula, Michigan",452
+447,US,Detroit,AmericInn by Wyndham Bay City,"3915 Three Mile Rd, Bay City, Michigan",289
+448,US,Detroit,"Holiday Inn Express & Suites Ann Arbor West, an IHG Hotel","323 North Zeeb Road, Ann Arbor, Michigan",294
+449,US,Detroit,Inn at Torch Lake,"9076 Helena, Alden, Antrim County, Michigan",139
+450,US,Detroit,Best Western Of Hartland,"10087 Highland Rd, Hartland, Michigan",312
+451,US,Detroit,Best Western Of Hartland,"10087 Highland Rd, Hartland, Michigan",312
+452,US,Detroit,The Harbor House Inn,"114 S Harbor Dr, Grand Haven, Ottawa County, Michigan",173
+453,US,Detroit,Standish Motel,"525 N Forest St, Standish, Michigan",34
+454,US,Detroit,Rodeway Inn & Suites,"2850 W 159th St, Markham, Illinois",35
+455,US,Detroit,A Victory Hotel,"23300 Telegraph Rd, Southfield, Michigan",17
+456,US,Detroit,Econo Lodge,"40500 Michigan Ave, Canton, Michigan",23
+457,US,Detroit,Travelodge by Wyndham Madison Heights MI,"32700 Barrington St, Madison Heights, Michigan",30
+458,US,Detroit,Fort Wilkins State Park,"Us 41, Copper Harbor, Upper Peninsula, Michigan",28
+459,US,Detroit,Bayview Motel,"7110 US 2-41 M35, Gladstone, Upper Peninsula, Michigan",21
+460,US,Detroit,Ossineke State Forest Campground,"Griffin Street, Ossineke, Michigan",7
+461,US,Detroit,Island View Resort,"930 E M 134, Cedarville, Mackinac County, Upper Peninsula, Michigan",11
+462,US,Detroit,Vitek's Motel,"980 N State St, Saint Ignace, Mackinac County, Upper Peninsula, Michigan",28
+463,US,Detroit,Moose Resort - Extended Vacation,"16086 US Highway 2, Cooks, Upper Peninsula, Michigan",47
+464,US,Detroit,Robyn's Inn,"932 Penniman Ave, Plymouth, Michigan",17
+465,US,Detroit,Williamston Inn Motel,"1133 E Grand River Rd, Williamston, Ingham County, Michigan",23
+466,US,Detroit,Trails End Motel,"10100 E Airport Rd, Saint Helen, Michigan",7
+467,US,Detroit,Travelers Motor Inn,"9939 Telegraph Rd, Redford, Michigan",1
+468,US,Detroit,Red Roof Inn Chicago - O'Hare Airport / Arlington Hts,"22 W Algonquin Rd, Arlington Heights, Illinois",593
+469,US,Detroit,McGuire's Motor Inn,"120 S Telegraph Rd, Waterford, Michigan",7
+470,US,Detroit,Deer Trail Motel,"3929 N Clare Ave, Harrison, Clare County, Michigan",7
+471,US,Detroit,TownePlace Suites by Marriott Ann Arbor,"1301 Briarwood Cir, Ann Arbor, Michigan",380
+472,US,Detroit,Woodland Motor Lodge,"267 S. I-75 Business Loop, Grayling, Crawford County, Michigan",83
+473,US,Detroit,Holiday Inn Effingham,"1301 Avenue of Mid America, Effingham, Illinois",245
+474,US,Detroit,Hilton Garden Inn Lansing West,"633 N. Canal Rd., Lansing, Ingham County, Michigan",84
+475,US,Detroit,The Pines Motor Lodge,"56 Blue Star Hwy, Douglas, Allegan County, Michigan",167
+476,US,Detroit,Birch Lodge & Motel,"21830 S Birch Lodge Dr, Trout Lake, Upper Peninsula, Michigan",70
+477,US,Detroit,Cadillac House Inn,"5502 Main St, Lexington, Michigan",135
+478,US,Detroit,New Buffalo Inn & Spa,"231 E Buffalo St, New Buffalo, Berrien County, Michigan",110
+479,US,Detroit,Quality Inn Auburn Hills,"1461 N Opdyke Rd, Auburn Hills, Michigan",403
+480,US,Detroit,Comfort Inn Utica,"11401 Hall Rd, Utica, Michigan",268
+481,US,Detroit,SpringHill Suites by Marriott Lansing West,"111 South Marketplace Boulevard, Lansing, Ingham County, Michigan",182
+482,US,Detroit,Lighthouse View Motel,"699 N Huron Ave, Mackinaw City, Cheboygan County, Michigan",150
+483,US,Detroit,Staybridge Suites Lansing-Okemos,"3553 Meridian Crossings, Okemos, Ingham County, Michigan",164
+484,US,Detroit,Duck Creek RV Resort,"1155 W Riley Thompson Rd, Muskegon, Muskegon County, Michigan",56
+485,US,Detroit,Secret of Saugatuck Suites,"560 Campbell Rd, Saugatuck, Allegan County, Michigan",120
+486,US,Detroit,Boyden House Inn,"301 S 5th St, Grand Haven, Ottawa County, Michigan",106
+487,US,Detroit,Baymont by Wyndham Paw Paw,"111 Ampey Rd, Paw Paw, Van Buren County, Michigan",452
+488,US,Detroit,Quality Inn & Suites,"4922 Paradise Rd, Mattoon, Illinois",218
+489,US,Detroit,Chimney Corners Resort,"1602 Crystal Dr, Frankfort, Benzie County, Michigan",55
+490,US,Detroit,Tee Pee Campground,"11262 US Hwy 23, Mackinaw City, Cheboygan County, Michigan",175
+491,US,Detroit,Holiday Inn Express & Suites Salem,"102 Holiday Ln, Salem, Illinois",106
+492,US,Detroit,LUDINGTON EAST / PERE MARQUETTE RIVER KOA,"11713 W 40th St, Ludington, Michigan",131
+493,US,Detroit,The Way Inn,"414 W Mansion St, Marshall, Calhoun County, Michigan",21
+494,US,Detroit,Atlanta Motel,"12520 State St, Atlanta, Michigan",23
+495,US,Detroit,"Self Realization Sevalight Centre for Pure Meditation, Healing & Counselling","7187 Drumheller Rd, Bath, Clinton County, Michigan",27
+496,US,Detroit,Sheraton Ann Arbor Hotel,"3200 Boardwalk Street, Ann Arbor, Michigan",476
+497,US,Detroit,Sonesta ES Suites Ann Arbor,"800 Victors Way, Ann Arbor, Michigan",274
+498,US,Detroit,Aloft Bolingbrook,"500 North Janes Avenue, Bolingbrook, DuPage County, Illinois",397
+499,US,Detroit,Cedar Hill Lodge,"680 US Highway 2 W, Saint Ignace, Mackinac County, Upper Peninsula, Michigan",392
+500,US,Detroit,Caberfae Peaks Ski & Golf Resort,"1 Caberfae Ln, Cadillac, Michigan",87
+501,US,Detroit,"Holiday Inn Express & Suites New Buffalo, MI, an IHG Hotel","11500 Holiday Drive, New Buffalo, Berrien County, Michigan",264
+502,US,Detroit,Super 8 by Wyndham Marysville/Port Huron Area,"1484 Gratiot Blvd, Marysville, Michigan",477
+503,US,Detroit,"Pine Mountain Resort, Trademark Collection by Wyndham","N3332 Pine Mountain Rd, Iron Mountain, Upper Peninsula, Michigan",169
+504,US,Detroit,Americas Best Value Inn St. Ignace,"1074 N State St, Saint Ignace, Mackinac County, Upper Peninsula, Michigan",178
+505,US,Detroit,Hotel Frankfort & Restaurant,"231 Main St, Frankfort, Benzie County, Michigan",239
+506,US,Detroit,Hampton Inn & Suites Kalamazoo-Oshtemo,"5059 South 9th Street, Kalamazoo, Kalamazoo County, Michigan",532
+507,US,Detroit,Red Roof PLUS+ Ann Arbor - U of Michigan North,"3621 Plymouth Rd, Ann Arbor, Michigan",413
+508,US,Detroit,"Country Inn & Suites by Radisson, Lansing, MI","6511 Centurion Dr, Lansing, Ingham County, Michigan",571
+509,US,Detroit,Best Western Gaylord,"1201 W Main St, Gaylord, Otsego County, Michigan",348
+510,US,Detroit,Knights Inn Traverse City,"360 Munson Ave, Traverse City, Grand Traverse County, Michigan",373
+511,US,Detroit,"Holiday Inn Express St. Ignace-Lake Front, an IHG Hotel","965 N State St, Saint Ignace, Mackinac County, Upper Peninsula, Michigan",422
+512,US,Detroit,Days Inn & Suites by Wyndham Rochester Hills MI,"1919 Star Batt Dr, Rochester Hills, Michigan",190
+513,US,Detroit,"Holiday Inn Grand Haven-Spring Lake, an IHG Hotel","940 W Savidge Street, Spring Lake, Ottawa County, Michigan",57
+514,US,Detroit,Baymont by Wyndham Auburn Hills,"1294 N Opdyke Rd, Auburn Hills, Michigan",566
+515,US,Detroit,Red Roof Inn & Suites Lake Orion / Auburn Hills,"2755 S Lapeer Rd, Lake Orion, Michigan",242
+516,US,Detroit,Bay Mills Resort & Casino,"11386 W Lakeshore Dr, Brimley, Upper Peninsula, Michigan",171
+517,US,Detroit,Baraga Lakeside Inn,"900 U.s. 41, Baraga, Upper Peninsula, Michigan",139
+518,US,Detroit,Cocoa Cottage Bed and Breakfast,"223 S Mears Ave, Whitehall, Muskegon County, Michigan",169

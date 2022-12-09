@@ -1,0 +1,812 @@
+Index,Country,City,Hotel,Address,Popularity
+1,CA,Toronto,Hyatt Regency Toronto,"370 King St West, Toronto, Ontario, Canada",4301
+2,CA,Toronto,Shangri-La Toronto,"188 University Avenue, Toronto, Ontario, Canada",1850
+3,CA,Toronto,St. Regis Toronto,"325 Bay Street, Toronto, Ontario, Canada",2302
+4,CA,Toronto,Cambridge Suites Toronto,"15 Richmond St. E., Toronto, Ontario, Canada",2164
+5,CA,Toronto,Chelsea Hotel Toronto,"33 Gerrard Street W, Toronto, Ontario, Canada",8708
+6,CA,Toronto,Hilton Toronto Airport Hotel & Suites,"5875 Airport Road, Mississauga, Ontario, Canada",2209
+7,CA,Toronto,Four Seasons Hotel Toronto,"60 Yorkville Avenue, Toronto, Ontario, Canada",3020
+8,CA,Toronto,Quality Inn Toronto Airport (formerly Comfort Inn Toronto Airport),"6355 Airport Rd, Mississauga, Ontario, Canada",1692
+9,CA,Toronto,Sheraton Centre Toronto Hotel,"123 Queen Street West, Toronto, Ontario, Canada",2528
+10,CA,Toronto,Delta Hotels by Marriott Toronto,"75 Lower Simcoe Street, Toronto, Ontario, Canada",2840
+11,CA,Toronto,"InterContinental Toronto Centre, an IHG Hotel","225 Front Street West, Toronto, Ontario, Canada",3334
+12,CA,Toronto,"The Ritz-Carlton, Toronto","181 Wellington St W, Toronto, Ontario, Canada",2050
+13,CA,Toronto,Hilton Toronto,"145 Richmond Street West, Toronto, Ontario, Canada",3987
+14,CA,Toronto,Alt Hotel Toronto Airport,"6080 Viscount Rd, Mississauga, Ontario, Canada",1456
+15,CA,Toronto,Hampton Inn & Suites by Hilton Toronto Airport,"3279 Caroga Dr, Mississauga, Ontario, Canada",1548
+16,CA,Toronto,Park Hyatt Toronto,"4 Avenue Rd, Toronto, Ontario, Canada",1959
+17,CA,Toronto,Toronto Marriott City Centre Hotel,"One Blue Jays Way, Toronto, Ontario, Canada",2512
+18,CA,Toronto,One King West Hotel & Residence,"1 King Street West, Toronto, Ontario, Canada",3193
+19,CA,Toronto,The Hazelton Hotel,"118 Yorkville Ave, Toronto, Ontario, Canada",1425
+20,CA,Toronto,"The Westin Harbour Castle, Toronto","1 Harbour Square, Toronto, Ontario, Canada",5462
+21,CA,Toronto,Four Points by Sheraton Toronto Airport,"6257 Airport Road, Mississauga, Ontario, Canada",1354
+22,CA,Toronto,Hilton Toronto / Markham Suites Conference Centre & Spa,"8500 Warden Avenue, Markham, Ontario, Canada",1304
+23,CA,Toronto,Le Germain Hotel Toronto Mercer,"30 Mercer St, Toronto, Ontario, Canada",1111
+24,CA,Toronto,Radisson Blu Toronto Downtown,"249 Queen's Quay West, Toronto, Ontario, Canada",2542
+25,CA,Toronto,Four Points by Sheraton Toronto Mississauga,"6090 Dixie Rd, Mississauga, Ontario, Canada",1376
+26,CA,Toronto,Hilton Garden Inn Toronto Downtown,"92 Peter St, Toronto, Ontario, Canada",1889
+27,CA,Toronto,"Holiday Inn Toronto Downtown Centre, an IHG Hotel","30 Carlton Street, Toronto, Ontario, Canada",2080
+28,CA,Toronto,Residence Inn Toronto Downtown/Entertainment District,"255 Wellington St W, Toronto, Ontario, Canada",1967
+29,CA,Toronto,Super 8 by Wyndham Downtown Toronto,"222 Spadina Ave., Toronto, Ontario, Canada",1897
+30,CA,Toronto,Marriott Downtown at CF Toronto Eaton Centre,"525 Bay Street, Toronto, Ontario, Canada",1893
+31,CA,Toronto,DoubleTree by Hilton Hotel Toronto Downtown,"108 Chestnut Street, Toronto, Ontario, Canada",2860
+32,CA,Toronto,Le Germain Hotel Toronto Maple Leaf Square,"75 Bremner Blvd, Toronto, Ontario, Canada",1580
+33,CA,Toronto,Radisson Suite Hotel Toronto Airport,"640 Dixon Road, Toronto, Ontario, Canada",1756
+34,CA,Toronto,Best Western Plus Toronto Airport Hotel,"5825 Dixie Rd, Mississauga, Ontario, Canada",2227
+35,CA,Toronto,Hampton Inn & Suites by Hilton Toronto Markham,"52 Bodrington Crt, Markham, Ontario, Canada",688
+36,CA,Toronto,Courtyard by Marriott Toronto Downtown,"475 Yonge Street, Toronto, Ontario, Canada",984
+37,CA,Toronto,Hampton Inn & Suites by Hilton Toronto Downtown,"300 Jarvis St, Toronto, Ontario, Canada",1834
+38,CA,Toronto,Hampton Inn by Hilton Toronto-Mississauga West,"2085 North Sheridan Way, Mississauga, Ontario, Canada",698
+39,CA,Toronto,Radisson Toronto Airport West,"175 Derry Rd E, Mississauga, Ontario, Canada",804
+40,CA,Toronto,Fairmont Royal York,"100 Front Street West Fairmont Gold Floor, Toronto, Ontario, Canada",1220
+41,CA,Toronto,Pantages Hotel Toronto Centre,"200 Victoria St, Toronto, Ontario, Canada",1256
+42,CA,Toronto,DoubleTree by Hilton Hotel Toronto Airport West,"5444 Dixie Rd, Mississauga, Ontario, Canada",547
+43,CA,Toronto,Bond Place Hotel,"65 Dundas St. East, Toronto, Ontario, Canada",3180
+44,CA,Toronto,The Strathcona Hotel,"60 York St, Toronto, Ontario, Canada",2229
+45,CA,Toronto,Hotel X Toronto by Library Hotel Collection,"111 Princes Blvd, Toronto, Ontario, Canada",945
+46,CA,Toronto,Hilton Garden Inn Toronto/Vaughan,"3201 Highway 7, Vaughan, Ontario, Canada",940
+47,CA,Toronto,Hilton Garden Inn Toronto Airport West/Mississauga,"1870 Matheson Blvd, Mississauga, Ontario, Canada",1134
+48,CA,Toronto,Homewood Suites by Hilton Toronto-Mississauga,"6430 Edwards Boulevard, Mississauga, Ontario, Canada",924
+49,CA,Toronto,The Omni King Edward Hotel,"37 King Street East, Toronto, Ontario, Canada",4524
+50,CA,Toronto,Delta Hotels by Marriott Toronto Mississauga,"3670 Hurontario St, Mississauga, Ontario, Canada",793
+51,CA,Toronto,Hampton Inn by Hilton Brampton Toronto,"8710 The Gore Rd, Brampton, Ontario, Canada",684
+52,CA,Toronto,Park Inn by Radisson Toronto-Markham,"555 Cochrane Drive, Markham, Ontario, Canada",846
+53,CA,Toronto,SPRINGHILL SUITES TORONTO VAUGHAN,"612 Applewood Cres, Vaughan, Ontario, Canada",563
+54,CA,Toronto,Novotel Toronto Vaughan Centre,"200 Bass Pro Mills Dr, Vaughan, Ontario, Canada",613
+55,CA,Toronto,Hilton Garden Inn Toronto / Burlington,"985 Syscon Road, Burlington, Ontario, Canada",643
+56,CA,Toronto,Fairfield Inn & Suites Toronto Airport,"3299 Caroga Dr, Mississauga, Ontario, Canada",674
+57,CA,Toronto,Sheraton Parkway Toronto North Hotel & Suites,"600 Highway 7, Richmond Hill, Ontario, Canada",794
+58,CA,Toronto,Best Western Parkway Hotel Toronto North,"600 Highway 7 E, Richmond Hill, Ontario, Canada",557
+59,CA,Toronto,Homewood Suites by Hilton Toronto-Oakville,"2095 Winston Park Drive, Oakville, Ontario, Canada",537
+60,CA,Toronto,Hilton Garden Inn Toronto / Markham,"300 Commerce Valley Dr. East, Markham, Ontario, Canada",874
+61,CA,Toronto,The Drake Hotel,"1150 Queen St W, Toronto, Ontario, Canada",778
+62,CA,Toronto,Hilton Garden Inn Toronto/Ajax,"500 Beck Cres, Ajax, Ontario, Canada",730
+63,CA,Toronto,Toronto Airport Marriott Hotel,"901 Dixon Road, Toronto, Ontario, Canada",1002
+64,CA,Toronto,Hilton Garden Inn Toronto / Brampton,"2648 Steeles Ave E, Brampton, Ontario, Canada",593
+65,CA,Toronto,Super 8 by Wyndham Ajax/Toronto ON,"210 Westney Rd S, Ajax, Ontario, Canada",505
+66,CA,Toronto,Old Mill Toronto Hotel,"9 Old Mill Rd, Toronto, Ontario, Canada",1078
+67,CA,Toronto,Hotel Victoria,"56 Yonge St, Toronto, Ontario, Canada",1295
+68,CA,Toronto,Hilton Garden Inn Toronto/Oakville,"2774 South Sheridan Way, Oakville, Ontario, Canada",673
+69,CA,Toronto,"Country Inn & Suites by Radisson, Toronto Mississauga, ON","7040 Edwards Boulevard, Mississauga, Ontario, Canada",480
+70,CA,Toronto,"Staybridge Suites Toronto - Vaughan South , an IHG hotel","3600 Steeles Ave W, Vaughan, Ontario, Canada",573
+71,CA,Toronto,Best Western Plus Travel Hotel Toronto Airport,"5503 Eglinton Ave W, Toronto, Ontario, Canada",1479
+72,CA,Toronto,Days Inn by Wyndham Toronto West Mississauga,"4635 Tomken Rd, Mississauga, Ontario, Canada",571
+73,CA,Toronto,Town Inn Suites,"620 Church St, Toronto, Ontario, Canada",1069
+74,CA,Toronto,"Crowne Plaza Toronto Airport, an IHG Hotel","33 Carlson Crt, Toronto, Ontario, Canada",1436
+75,CA,Toronto,Gladstone House,"1214 Queen St W, Toronto, Ontario, Canada",1057
+76,CA,Toronto,Hilton Garden Inn Toronto Airport,"3311 Caroga Dr, Mississauga, Ontario, Canada",1433
+77,CA,Toronto,Homewood Suites by Hilton Toronto Airport Corporate Centre,"5515 Eglinton Ave W, Toronto, Ontario, Canada",1250
+78,CA,Toronto,Hampton Inn by Hilton Toronto Airport Corporate Centre,"5515 Eglinton Avenue West, Toronto, Ontario, Canada",1286
+79,CA,Toronto,Executive Hotel Cosmopolitan,"8 Colborne St, Toronto, Ontario, Canada",1330
+80,CA,Toronto,Toronto Don Valley Hotel & Suites,"175 Wynford Dr, Toronto, Ontario, Canada",1147
+81,CA,Toronto,Sheraton Toronto Airport Hotel & Conference Centre,"801 Dixon Rd, Toronto, Ontario, Canada",1135
+82,CA,Toronto,Novotel Toronto North York,"3 Park Home Ave, Toronto, Ontario, Canada",1175
+83,CA,Toronto,Delta Hotels by Marriott Toronto East,"2035 Kennedy Rd, Toronto, Ontario, Canada",979
+84,CA,Toronto,The SoHo Hotel & Residences,"318 Wellington St W, Toronto, Ontario, Canada",1209
+85,CA,Toronto,Radisson Hotel Toronto East,"55 Hallcrown Pl, Toronto, Ontario, Canada",959
+86,CA,Toronto,TownePlace Suites by Marriott Mississauga-Airport Corporate Centre,"5050 Orbitor Drive, Mississauga, Ontario, Canada",891
+87,CA,Toronto,Sandman Signature Toronto Airport Hotel,"55 Reading Crt, Toronto, Ontario, Canada",1011
+88,CA,Toronto,Fairfield Inn & Suites Toronto Brampton,"150 Westcreek Blvd, Brampton, Ontario, Canada",365
+89,CA,Toronto,Courtyard by Marriott Toronto Brampton,"90 Biscayne Cres, Brampton, Ontario, Canada",333
+90,CA,Toronto,"Holiday Inn Express & Suites Toronto Airport West, an IHG Hotel","5599 Ambler Drive, Mississauga, Ontario, Canada",393
+91,CA,Toronto,Courtyard Toronto Mississauga/Meadowvale,"7015 Century Avenue, Mississauga, Ontario, Canada",332
+92,CA,Toronto,TownePlace Suites by Marriott Toronto Oakville,"754 Bronte Rd, Oakville, Ontario, Canada",233
+93,CA,Toronto,Sonesta ES Suites Toronto Markham,"355 South Park Road, Thornhill, Vaughan, Ontario, Canada",363
+94,CA,Toronto,Homewood Suites by Hilton Toronto Vaughan,"618 Applewood Cres, Vaughan, Ontario, Canada",930
+95,CA,Toronto,Monte Carlo Inn Toronto Markham,"8900 Woodbine Ave, Markham, Ontario, Canada",328
+96,CA,Toronto,"Holiday Inn Toronto International Airport, an IHG Hotel","970 Dixon Road, Toronto, Ontario, Canada",1020
+97,CA,Toronto,1 Hotel Toronto,"550 Wellington St W, Toronto, Ontario, Canada",397
+98,CA,Toronto,Residence Inn by Marriott Toronto Markham,"55 Minthorn Blvd, Markham, Ontario, Canada",251
+99,CA,Toronto,Delta Hotels by Marriott Toronto Markham,"50 East Valhalla Drive, Markham, Ontario, Canada",294
+100,CA,Toronto,Executive Residency By Best Western Toronto-Mississauga,"6791 Hurontario St, Mississauga, Ontario, Canada",199
+101,CA,Toronto,By The Park Bed and Breakfast,"92 Indian Grove, Toronto, Ontario, Canada",628
+102,CA,Toronto,Comfort Inn Toronto Northeast,"8330 Woodbine Ave, Markham, Ontario, Canada",273
+103,CA,Toronto,"Holiday Inn Express & Suites Toronto - Markham, an IHG Hotel","10 East Pearce Street, Richmond Hill, Ontario, Canada",290
+104,CA,Toronto,Best Western Plus Toronto North York Hotel & Suites,"50 Norfinch Dr, Toronto, Ontario, Canada",880
+105,CA,Toronto,Courtyard by Marriott Toronto Vaughan,"150 Interchange Way, Vaughan, Ontario, Canada",267
+106,CA,Toronto,Courtyard Toronto Northeast/Markham,"7095 Woodbine Avenue, Markham, Ontario, Canada",265
+107,CA,Toronto,Residence Inn by Marriott Toronto Vaughan,"11 Interchange Way, Vaughan, Ontario, Canada",309
+108,CA,Toronto,Courtyard by Marriott Toronto Markham,"65 Minthorn Boulevard, Markham, Ontario, Canada",270
+109,CA,Toronto,Home2 Suites by Hilton Toronto Brampton,"200 Steelwell Road, Brampton, Ontario, Canada",106
+110,CA,Toronto,Motel 6 Toronto Mississauga,"2935 Argentia Rd, Mississauga, Ontario, Canada",168
+111,CA,Toronto,Best Western Premier Toronto Airport Carlingview Hotel,"135 Carlingview Dr, Toronto, Ontario, Canada",618
+112,CA,Toronto,Hyatt Place Toronto/Mississauga Centre,"5787 Hurontario St, Mississauga, Ontario, Canada",158
+113,CA,Toronto,Fairfield Inn & Suites Toronto Mississauga,"35 Courtneypark Dr W, Mississauga, Ontario, Canada",233
+114,CA,Toronto,Homewood Suites by Hilton Toronto-Markham,"50 Bodrington Crt, Markham, Ontario, Canada",724
+115,CA,Toronto,Motel 6 Toronto East - Whitby,"165 Consumers Dr, Whitby, Ontario, Canada",202
+116,CA,Toronto,"Holiday Inn Express & Suites Mississauga-Toronto Southwest, an IHG Hotel","2125 North Sheridan Way, Mississauga, Ontario, Canada",199
+117,CA,Toronto,Hilton Garden Inn Toronto/Mississauga,"100 Traders Boulevard, Mississauga, Ontario, Canada",222
+118,CA,Toronto,Best Western Plus Executive Inn,"38 Estate Dr, Toronto, Ontario, Canada",815
+119,CA,Toronto,Comfy Guest House and Suite,"250 Gerrard St E, Toronto, Ontario, Canada",625
+120,CA,Toronto,Comfort Inn & Conference Centre Toronto Airport,"240 Belfield Rd, Toronto, Ontario, Canada",506
+121,CA,Toronto,Days Inn by Wyndham Toronto East Lakeview,"2151 Kingston Rd, Toronto, Ontario, Canada",480
+122,CA,Toronto,Bisha Hotel Toronto,"80 Blue Jays Way, Toronto, Ontario, Canada",455
+123,CA,Toronto,Fairfield Inn by Marriott Toronto Oakville,"2937 Sherwood Heights Dr, Oakville, Ontario, Canada",183
+124,CA,Toronto,Studio 6 Toronto - Mississauga,"60 Britannia Rd E, Mississauga, Ontario, Canada",84
+125,CA,Toronto,Embassy Suites by Hilton Toronto Airport,"262 Carlingview Dr, Toronto, Ontario, Canada",599
+126,CA,Toronto,Home2 Suites by Hilton Milton Ontario,"Home 2 Suites By Hilton 8490 Parkhill Dr, Milton, Ontario, Canada",459
+127,CA,Toronto,Days Inn by Wyndham Toronto East Beaches,"1684 Queen St E, Toronto, Ontario, Canada",554
+128,CA,Toronto,Quality Inn & Suites,"2930 South Sheridan Way, Oakville, Ontario, Canada",559
+129,CA,Toronto,"Motel 6 Brampton, On - Toronto","160 Steelwell Rd, Brampton, Ontario, Canada",93
+130,CA,Toronto,Monte Carlo Inn Toronto West Suites,"1886 Dundas St E, Mississauga, Ontario, Canada",144
+131,CA,Toronto,Quality Inn & Suites Mississauga,"5585 Ambler Dr, Mississauga, Ontario, Canada",476
+132,CA,Toronto,Hilton Garden Inn Toronto Brampton West,"200 Steelwell Road, Brampton, Ontario, Canada",65
+133,CA,Toronto,Courtyard Toronto Mississauga West,"290 Derry Road West, Mississauga, Ontario, Canada",101
+134,CA,Toronto,"Holiday Inn Toronto-Airport East, an IHG Hotel","600 Dixon Road, Toronto, Ontario, Canada",497
+135,CA,Toronto,Motel 6 Toronto West - Burlington - Oakville,"4345 North Service Rd, Burlington, Ontario, Canada",175
+136,CA,Toronto,DoubleTree by Hilton Toronto Airport,"925 Dixon Rd, Toronto, Ontario, Canada",424
+137,CA,Toronto,HI Toronto,"76 Church St, Toronto, Ontario, Canada",521
+138,CA,Toronto,Hotel Carlingview Toronto Airport,"221 Carlingview Dr, Toronto, Ontario, Canada",694
+139,CA,Toronto,Monte Carlo Inn & Suites Downtown Markham,"7255 Warden Ave, Markham, Ontario, Canada",743
+140,CA,Toronto,Super 8 by Wyndham Toronto East on,"3280 Kingston Rd, Toronto, Ontario, Canada",385
+141,CA,Toronto,"Homewood Suites by Hilton Ajax, Ontario, Canada","600 Beck Cres, Ajax, Ontario, Canada",485
+142,CA,Toronto,Windsor Arms Hotel,"18 Saint Thomas St, Toronto, Ontario, Canada",440
+143,CA,Toronto,Courtyard by Marriott Toronto Airport,"231 Carlingview Drive, Toronto, Ontario, Canada",437
+144,CA,Toronto,Sandman Signature Mississauga Hotel,"5400 Dixie Rd, Mississauga, Ontario, Canada",775
+145,CA,Toronto,Toronto Plaza Airport Hotel,"1677 Wilson Ave, Toronto, Ontario, Canada",371
+146,CA,Toronto,Monte Carlo Inn Vaughan Suites,"705 Applewood Cres, Vaughan, Ontario, Canada",821
+147,CA,Toronto,Best Western Plus Burlington Inn & Suites,"2412 Queensway Dr, Burlington, Ontario, Canada",529
+148,CA,Toronto,Delta Hotels by Marriott Kingston Waterfront,"1 Johnson St, Kingston, Ontario, Canada",758
+149,CA,Toronto,Making Waves Boatel,"539 Queens Quay W, Toronto, Ontario, Canada",236
+150,CA,Toronto,Toronto North Cookstown KOA,"139 Reive Blvd, Innisfil, Ontario, Canada",62
+151,CA,Toronto,Howard Johnson by Wyndham Toronto Downtown West,"14 Roncesvalles Ave, Toronto, Ontario, Canada",443
+152,CA,Toronto,Knights Inn Toronto East,"22 Metropolitan Rd, Toronto, Ontario, Canada",528
+153,CA,Toronto,Courtyard by Marriott Kingston Highway 401 / Division Street,"103 Dalton Ave, Kingston, Ontario, Canada",693
+154,CA,Toronto,Quality Inn Airport West,"50 Britannia Rd E, Mississauga, Ontario, Canada",386
+155,CA,Toronto,Planet Traveler Hostel,"357 College St, Toronto, Ontario, Canada",443
+156,CA,Toronto,The Anndore House,"15 Charles St E, Toronto, Ontario, Canada",457
+157,CA,Toronto,Element Vaughan Southwest,"6170 Highway 7, Vaughan, Ontario, Canada",386
+158,CA,Toronto,Toronto Marriott Markham,"170 Enterprise Blvd, Markham, Ontario, Canada",142
+159,CA,Toronto,The Briars Resort & Spa,"55 Hedge Rd, Jacksons Point, Georgina, Ontario, Canada",634
+160,CA,Toronto,Quality Hotel Burlington,"950 Walker's Line, Burlington, Ontario, Canada",491
+161,CA,Toronto,Best Western Parkway Inn & Conference Centre,"1515 Vincent Massey Dr, Cornwall, Ontario, Canada",1151
+162,CA,Toronto,Liberty Suites Hotel,"7191 Yonge Street, Thornhill, Vaughan, Ontario, Canada",305
+163,CA,Toronto,"Holiday Inn Express & Suites Toronto-Mississauga, an IHG hotel","40 Admiral Blvd, Mississauga, Ontario, Canada",183
+164,CA,Toronto,Knights Inn Toronto Scarborough,"4694 Kingston Rd, Toronto, Ontario, Canada",239
+165,CA,Toronto,Best Western Voyageur Place Hotel,"17565 Yonge St, Newmarket, Ontario, Canada",571
+166,CA,Toronto,Sandman Hotel Oakville,"3451 South Service Rd W, Oakville, Ontario, Canada",752
+167,CA,Toronto,"Holiday Inn Express & Suites Vaughan-Southwest, an IHG Hotel","6100 Hwy 7, Vaughan, Ontario, Canada",343
+168,CA,Toronto,Admiral Inn & Suites,"2161 North Sheridan Way, Mississauga, Ontario, Canada",414
+169,CA,Toronto,"Holiday Inn Oakville (Centre), an IHG Hotel","590 Argus Road, Oakville, Ontario, Canada",403
+170,CA,Toronto,Residence Inn by Marriott Mississauga-Airport Corporate Centre West,"5070 Creekbank Rd., Mississauga, Ontario, Canada",309
+171,CA,Toronto,"Holiday Inn Mississauga Toronto West, an IHG Hotel","100 Britannia Rd E, Mississauga, Ontario, Canada",147
+172,CA,Toronto,"The Saint James Hotel, Ascend Hotel Collection","26 Gerrard St E, Toronto, Ontario, Canada",472
+173,CA,Toronto,Novotel Toronto Centre,"45 The Esplanade, Toronto, Ontario, Canada",511
+174,CA,Toronto,The Westin Toronto Airport,"950 Dixon Rd, Toronto, Ontario, Canada",411
+175,CA,Toronto,Super 8 by Wyndham Mississauga,"6625 Kennedy Rd, Mississauga, Ontario, Canada",471
+176,CA,Toronto,The Yorkville Royal Sonesta Hotel Toronto,"220 Bloor Street West, Toronto, Ontario, Canada",333
+177,CA,Toronto,Travelodge Toronto East,"20 Milner Business Court, Toronto, Ontario, Canada",367
+178,CA,Toronto,Canadas Best Value Inn Richmond Hill Toronto N,"13100 Yonge Street, Richmond Hill, Ontario, Canada",36
+179,CA,Toronto,Glenerin Inn & Spa,"1695 The Collegeway, Mississauga, Ontario, Canada",360
+180,CA,Toronto,Residence Inn by Marriott Toronto Airport,"17 Reading Crt, Toronto, Ontario, Canada",431
+181,CA,Toronto,Hilton Mississauga/Meadowvale,"6750 Mississauga Rd, Mississauga, Ontario, Canada",1160
+182,CA,Toronto,Taboo Muskoka Resort,"1209 Muskoka Beach Rd, Gravenhurst, Muskoka District, Ontario, Canada",534
+183,CA,Toronto,"Holiday Inn Express & Suites Oshawa Downtown - Toronto Area, an IHG Hotel","67 Simcoe St N, Oshawa, Ontario, Canada",164
+184,CA,Toronto,Downtown Home Inn,"2 Monteith St, Toronto, Ontario, Canada",377
+185,CA,Toronto,Best Western Milton,"161 Chisholm Dr, Milton, Ontario, Canada",303
+186,CA,Toronto,"Holiday Inn Burlington-Hotel & Conf Centre, an IHG Hotel","3063 South Service Rd., Burlington, Ontario, Canada",391
+187,CA,Toronto,Courtyard by Marriott Mississauga-Airport Corporate Centre West,"5050 Creekbank Rd, Mississauga, Ontario, Canada",209
+188,CA,Toronto,NU Hotel,"6465 Airport Rd, Mississauga, Ontario, Canada",316
+189,CA,Toronto,"Holiday Inn & Suites Oakville @ Bronte, an IHG Hotel","2525 Wyecroft Road, Oakville, Ontario, Canada",308
+190,CA,Toronto,Comfort Inn Pickering,"533 Kingston Rd, Pickering, Ontario, Canada",256
+191,CA,Toronto,Fairmont The Queen Elizabeth,"900 Blvd. Rene Levesque West, Montreal, Quebec, Canada",1513
+192,CA,Toronto,Woodbine Hotel & Suites,"30 Vice Regent Blvd, Toronto, Ontario, Canada",346
+193,CA,Toronto,Comfort Hotel Airport North,"445 Rexdale Blvd, Toronto, Ontario, Canada",401
+194,CA,Toronto,"Holiday Inn Express Toronto-North York, an IHG Hotel","30 Norfinch Drive, Toronto, Ontario, Canada",201
+195,CA,Toronto,Holiday Inn & Suites Mississauga West - Meadowvale,"2565 Argentia Rd, Mississauga, Ontario, Canada",282
+196,CA,Toronto,Days Inn by Wyndham Brampton,"260 Queen St E, Brampton, Ontario, Canada",388
+197,CA,Toronto,TownePlace Suites Toronto Northeast / Markham,"7095 Woodbine Ave., Markham, Ontario, Canada",142
+198,CA,Toronto,Cambridge Suites Mississauga,"7005 Century Ave, Mississauga, Ontario, Canada",197
+199,CA,Toronto,Pembroke Inn,"117 Pembroke St, Toronto, Ontario, Canada",305
+200,CA,Toronto,Delta Hotels by Marriott Toronto Airport & Conference Centre,"655 Dixon Road, Toronto, Ontario, Canada",289
+201,CA,Toronto,Comfort Inn Toronto North,"66 Norfinch Dr, Toronto, Ontario, Canada",195
+202,CA,Toronto,Toronto West KOA,"9301 Second Line Nassagaweya, Campbellville, Milton, Ontario, Canada",51
+203,CA,Toronto,Howard Johnson by Wyndham Lindsay,"354 Lindsay St S, Lindsay, Kawartha Lakes, Ontario, Canada",445
+204,CA,Toronto,The Lodge at Pine Cove,"1013 528a Hwy, Wolseley Bay, French River, Northeastern Ontario, Ontario, Canada",294
+205,CA,Toronto,"The Grand Tappattoo Resort, Ascend Hotel Collection","30 Tapatoo Trail, Parry Sound, Northeastern Ontario, Ontario, Canada",261
+206,CA,Toronto,Element Toronto Airport,"6257 Airport Road, Mississauga, Ontario, Canada",19
+207,CA,Toronto,Whispering Springs Wilderness Retreat,"141 Mercer Lane, Grafton, Ontario, Canada",231
+208,CA,Toronto,Isabella Hotel and Suites,"556 Sherbourne St, Toronto, Ontario, Canada",400
+209,CA,Toronto,Stay Inn,"560 Evans Avenue, Toronto, Ontario, Canada",333
+210,CA,Toronto,Nottawasaga Inn Resort,"6015 Highway 89, Alliston, New Tecumseth, Ontario, Canada",807
+211,CA,Toronto,Madison Manor Boutique Hotel,"20 Madison Ave, Toronto, Ontario, Canada",278
+212,CA,Toronto,"Holiday Inn Express & Suites Clarington - Bowmanville, an IHG Hotel","37 Spicer Sq, Bowmanville, Ontario, Canada",197
+213,CA,Toronto,"Staybridge Suites Oakville-Burlington, an IHG Hotel","2511 Wyecroft Rd, Oakville, Ontario, Canada",198
+214,CA,Toronto,"Holiday Inn Express Toronto East - Scarborough, an IHG Hotel","50 Estate Drive, Toronto, Ontario, Canada",347
+215,CA,Toronto,Quality Suites,"1700 Champlain Ave, Whitby, Ontario, Canada",212
+216,CA,Toronto,Monte Carlo Inn - Brampton Suites,"45 Coventry Rd, Brampton, Ontario, Canada",308
+217,CA,Toronto,The Rex Hotel,"194 Queen St W, Toronto, Ontario, Canada",345
+218,CA,Toronto,Sheraton Gateway Hotel in Toronto International Airport,"Terminal 3, Toronto AMF, Mississauga, Ontario, Canada",52
+219,CA,Toronto,City Centre Hotel,"321 Jarvis St, Toronto, Ontario, Canada",329
+220,CA,Toronto,Quality Inn & Suites,"30 Clark Blvd, Brampton, Ontario, Canada",221
+221,CA,Toronto,Residence Inn Toronto Mississauga West,"55 Courtneypark Drive West, Mississauga, Ontario, Canada",18
+222,CA,Toronto,Kimpton Saint George,"280 Bloor St W, Toronto, Ontario, Canada",245
+223,CA,Toronto,Ace Hotel Toronto,"51 Camden St, Toronto, Ontario, Canada",24
+224,CA,Toronto,College Backpackers,"280 Augusta Ave, Toronto, Ontario, Canada",93
+225,CA,Toronto,Comfort Inn Airport West,"1500 Matheson Blvd E, Mississauga, Ontario, Canada",791
+226,CA,Toronto,Yogi Bear's Jellystone Park and Camp-Resort Toronto,"3666 Simcoe County Road 88, Bradford West Gwillimbury, Ontario, Canada",47
+227,CA,Toronto,DelSuites Furnished Accommodations,"Head Office: 4800 Dufferin Street, Toronto, Ontario, Canada",200
+228,CA,Toronto,"Holiday Inn Express Toronto Downtown, an IHG Hotel","111 Lombard Street, Toronto, Ontario, Canada",275
+229,CA,Toronto,Sonder The Beverley,"335 Queen St W, Toronto, Ontario, Canada",251
+230,CA,Toronto,Toronto Garden Inn,"142 Seaton St, Toronto, Ontario, Canada",276
+231,CA,Toronto,King Blue Hotel Toronto,"355 King St W, Toronto, Ontario, Canada",23
+232,CA,Toronto,Econo Lodge Inn & Suites Downtown,"335 Jarvis St, Toronto, Ontario, Canada",254
+233,CA,Toronto,Hyatt Place Toronto/Brampton,"3455 Queen Street East, Brampton, Ontario, Canada",28
+234,CA,Toronto,Hotel Ocho,"195 Spadina Ave, Toronto, Ontario, Canada",200
+235,CA,Toronto,Quality Hotel & Suites Woodstock,"580 Bruin Blvd, Woodstock, Ontario, Canada",181
+236,CA,Toronto,Four Points by Sheraton Toronto Airport East,"2180 Islington Avenue, Toronto, Ontario, Canada",48
+237,CA,Toronto,A Seaton Dream B & B,"243 Seaton St, Toronto, Ontario, Canada",141
+238,CA,Toronto,Residence & Conference Centre - Toronto Downtown,"80 Cooperage St, Toronto, Ontario, Canada",35
+239,CA,Toronto,Canadas Best Value Inn Toronto,"650 Evans Ave, Toronto, Ontario, Canada",214
+240,CA,Toronto,Alexandra Hotel,"77 Ryerson Ave, Toronto, Ontario, Canada",228
+241,CA,Toronto,Sonder at The Liberty,"1100 King St W, Toronto, Ontario, Canada",85
+242,CA,Toronto,W Toronto,"90 Bloor Street East, Toronto, Ontario, Canada",22
+243,CA,Toronto,Arise N Shine Toronto B&B,"110 Pape Ave, Toronto, Ontario, Canada",45
+244,CA,Toronto,Baldwin Village Inn,"9 Baldwin St, Toronto, Ontario, Canada",95
+245,CA,Toronto,INDEXG B&B,"50 Gladstone Ave, Toronto, Ontario, Canada",82
+246,CA,Toronto,Hampton Inn & Suites by Hilton Burlington Toronto,"1215 Appleby Line, Burlington, Ontario, Canada",11
+247,CA,Toronto,Living Suites Toronto,"250 Wellington St W, Toronto, Ontario, Canada",21
+248,CA,Toronto,Annex Quest House,"83 Spadina Rd, Toronto, Ontario, Canada",173
+249,CA,Toronto,Atlantis Suites - Toronto Furnished Apartment on York Street,"12 -14 York Street, Toronto, Ontario, Canada",20
+250,CA,Toronto,Park Suites Toronto - Front St. West,"373 Front St W, Toronto, Ontario, Canada",13
+251,CA,Toronto,Aloft Vaughan Mills,"151 Bass Pro Mills Dr, Vaughan, Ontario, Canada",818
+252,CA,Toronto,Best Western Plus Edmundston Hotel,"280 Boul Hebert, Edmundston, New Brunswick, Canada",1361
+253,CA,Toronto,Cambridge Suites - Halifax,"1583 Brunswick St, Halifax, Halifax Regional Municipality, Nova Scotia, Canada",4013
+254,CA,Toronto,JJ Furnished Apartments & Private Suites Toronto,"80 John St, Toronto, Ontario, Canada",14
+255,CA,Toronto,Samesun Toronto,"278 Augusta Ave, Toronto, Ontario, Canada",75
+256,CA,Toronto,Clifton Victoria Inn at the Falls,"5591 Victoria Ave, Niagara Falls, Ontario, Canada",1879
+257,CA,Toronto,Days Inn & Suites by Wyndham Collingwood,"15 Cambridge, Collingwood, Ontario, Canada",1390
+258,CA,Toronto,University of Toronto-New College Residence - 45 Willcocks Residence,"45 Willcocks St, Toronto, Ontario, Canada",20
+259,CA,Toronto,Jarvis House Bed And Breakfast Inn Downtown Toronto,"344 Jarvis St, Toronto, Ontario, Canada",63
+260,CA,Toronto,Park Suites Toronto Blue Jay Way,"20 Blue Jays Way, Toronto, Ontario, Canada",27
+261,CA,Toronto,Hampton Inn by Hilton London,"840 Exeter Rd, London, Ontario, Canada",825
+262,CA,Toronto,Toronto Furnished Apartments - University Plaza,"140 Simcoe St, Toronto, Ontario, Canada",16
+263,CA,Toronto,Ambassador Inn Downtown Toronto Bed and Breakfast,"280 Jarvis St, Toronto, Ontario, Canada",17
+264,CA,Toronto,Via Veneto,"215 Mary Street, Niagara-on-the-Lake, Ontario, Canada",261
+265,CA,Toronto,Atlas Suites - CN Tower & Convention Centre Toronto,"300 Front St W, Toronto, Ontario, Canada",55
+266,CA,Toronto,Best Western Colonel Butler Inn,"278 Mary St, Niagara-on-the-Lake, Ontario, Canada",747
+267,CA,Toronto,Best Western Plus Otonabee Inn,"84 Lansdowne St E, Peterborough, Ontario, Canada",820
+268,CA,Toronto,Residence Inn by Marriott Whitby,"160 Consumers Dr, Whitby, Ontario, Canada",330
+269,CA,Toronto,Four Points by Sheraton Mississauga Meadowvale,"2501 Argentia Rd, Mississauga, Ontario, Canada",420
+270,CA,Toronto,Monte Carlo Inn Airport Suites,"7035 Edwards Blvd, Mississauga, Ontario, Canada",452
+271,CA,Toronto,Toronto Travellers Home,"588 Dundas St W, Toronto, Ontario, Canada",70
+272,CA,Toronto,Residence & Conference Centre - Toronto,"Seneca Residence/Conf Centre 1760 Finch Ave E, Toronto, Ontario, Canada",52
+273,CA,Toronto,Grand Motel Toronto,"4626 Kingston Rd, Toronto, Ontario, Canada",49
+274,CA,Toronto,Trillium Suites toronto,"5 Mariner Terr, Toronto, Ontario, Canada",33
+275,CA,Toronto,Algonquin House,"1 Algonquin Ave, Toronto, Ontario, Canada",93
+276,CA,Toronto,The Waterside Inn,"15 Stavebank Rd S, Mississauga, Ontario, Canada",250
+277,CA,Toronto,Manoir Hovey,"575 Rue Hovey, North Hatley, Quebec, Canada",1636
+278,CA,Toronto,"Holiday Inn Vancouver Airport- Richmond, an IHG Hotel","10720 Cambie Road, Richmond, British Columbia, Canada",863
+279,CA,Toronto,Hotel Metro,"32 Covent Market Pl, London, Ontario, Canada",714
+280,CA,Toronto,Super 8 by Wyndham Thunder Bay,"439 Memorial Ave, Thunder Bay, Thunder Bay District, Ontario, Canada",514
+281,CA,Toronto,Comfort Suites Downtown,"1214 Crescent St, Montreal, Quebec, Canada",925
+282,CA,Toronto,Sweetheart Bed and Breakfast,"72 Henry St, Toronto, Ontario, Canada",43
+283,CA,Toronto,Algonquin Log Cabin and Cottage Outpost,"Surprise Lake, Kawawaymog Lake, Northeastern Ontario, Ontario, Canada",155
+284,CA,Toronto,Killarney Mountain Lodge,"3 Commissioner St, Killarney, Northeastern Ontario, Ontario, Canada",1000
+285,CA,Toronto,"Holiday Inn Express & Suites Brampton, an IHG Hotel","10 Nevets Rd, Brampton, Ontario, Canada",173
+286,CA,Toronto,Courtyard by Marriott Burlington,"1110 Burloak Drive, Burlington, Ontario, Canada",151
+287,CA,Toronto,Langdon Hall Country House Hotel & Spa,"1 Langdon Dr, Cambridge, Region of Waterloo, Ontario, Canada",732
+288,CA,Toronto,Elliott House B&B,"157 Dowling Ave, Toronto, Ontario, Canada",115
+289,CA,Toronto,Studio 6 Toronto,"165 Grange Ave, Toronto, Ontario, Canada",213
+290,CA,Toronto,Pan Pacific Toronto,"900 York Mills Road, Toronto, Ontario, Canada",105
+291,CA,Toronto,Northumberland Heights Wellness Retreat and Spa,"795 Northumberland Heights Rd, Cobourg, Ontario, Canada",122
+292,CA,Toronto,The Willowdale Hotel Toronto North York,"170 Willowdale Ave, Toronto, Ontario, Canada",12
+293,CA,Toronto,Elm Hurst Inn & Spa,"Hwy 401 415 Harris St RR 5, Ingersoll, Ontario, Canada",650
+294,CA,Toronto,Newmarket Inn,"18667 Old Yonge St, Newmarket, Ontario, Canada",111
+295,CA,Toronto,Comfort Inn Mississauga,"31 Topflight Dr, Mississauga, Ontario, Canada",148
+296,CA,Toronto,The French Connection,"102 Burnside Dr, Toronto, Ontario, Canada",29
+297,CA,Toronto,University of Toronto - New College Residence - Wilson Hall Residence,"40 Willcocks St, Toronto, Ontario, Canada",79
+298,CA,Toronto,Victoria's Mansion Guest House,"68 Gloucester St, Toronto, Ontario, Canada",165
+299,CA,Toronto,Homewood Inn,"65 Homewood Ave, Toronto, Ontario, Canada",53
+300,CA,Toronto,The Broadview Hotel,"106 Broadview Ave, Toronto, Ontario, Canada",154
+301,CA,Toronto,Long Point Provincial Campground,"Port Rowan, Norfolk County, Ontario, Canada",108
+302,CA,Toronto,The Winchester Toronto-Tourist Home,"137 Winchester St, Toronto, Ontario, Canada",7
+303,CA,Toronto,The Ivy at Verity,"111D Queen St E, Toronto, Ontario, Canada",154
+304,CA,Toronto,Residence Inn by Marriott Toronto Mississauga Southwest,"2145 North Sheridan Way, Mississauga, Ontario, Canada",8
+305,CA,Toronto,Newton Villa,"8 Merrydale Court, Brampton, Ontario, Canada",99
+306,CA,Toronto,The Westlake,"2847 Lake Shore Blvd W, Toronto, Ontario, Canada",30
+307,CA,Toronto,Creekside B&B and Guest Suite,"3158 Pinemeadow Dr, Burlington, Ontario, Canada",94
+308,CA,Toronto,Plantation House Bed and Breakfast,"14 North St, Port Hope, Ontario, Canada",149
+309,CA,Toronto,Cottage by the Lake,"5463 Blezard Dr, Beamsville, Lincoln, Ontario, Canada",64
+310,CA,Toronto,Chesley's Inn,"40 First St W, Cornwall, Ontario, Canada",112
+311,CA,Toronto,Hotel-Motel Drummond,"105 Blvd Saint Joseph West, Drummondville, Quebec, Canada",296
+312,CA,Toronto,Yonge Suites Furnished Apartments,"209 Yonge St, Toronto, Ontario, Canada",39
+313,CA,Toronto,Comfort Inn,"605 Bloor St W, Oshawa, Ontario, Canada",142
+314,CA,Toronto,Indian Line Campground,"7625 Finch Ave, Brampton, Ontario, Canada",51
+315,CA,Toronto,Canada Suites Toronto Furnished Rentals,"55 Bloor St E, Toronto, Ontario, Canada",81
+316,CA,Toronto,Seaway Manor Bed and Breakfast,"465 Stone St S, Gananoque, Ontario, Canada",126
+317,CA,Toronto,Osler House,"30 South St W, Dundas, Hamilton, Ontario, Canada",102
+318,CA,Toronto,The Percy Bed & Breakfast,"6 Percy St, Toronto, Ontario, Canada",29
+319,CA,Toronto,Sonder The Elm,"159 Elm St, Toronto, Ontario, Canada",7
+320,CA,Toronto,The Rosemont Residences,"50 John St 2nd Floor, Toronto, Ontario, Canada",35
+321,CA,Toronto,Whitehall Suites - Toronto,"270 Wellington St W, Toronto, Ontario, Canada",10
+322,CA,Toronto,Est Hotel,"1790 Albion Rd, Toronto, Ontario, Canada",79
+323,CA,Toronto,Toronto Rooms and Suites,"357 Spadina Ave, Toronto, Ontario, Canada",8
+324,CA,Toronto,The Only Backpackers Inn,"966 Danforth Ave, Toronto, Ontario, Canada",71
+325,CA,Toronto,Montecassino Place Suites Hotel,"3710 Chesswood Dr, Toronto, Ontario, Canada",157
+326,CA,Toronto,Travelodge by Wyndham North Bay Lakeshor,"718 Lakeshore Dr, North Bay, Northeastern Ontario, Ontario, Canada",651
+327,CA,Toronto,Green Acres Motel,"1303 Lakeshore Rd E, Mississauga, Ontario, Canada",41
+328,CA,Toronto,Fox Motor Inn,"297 Dundas St W, Napanee, Lennox and Addington County, Ontario, Canada",348
+329,CA,Toronto,Algonquin Eco-Lodge,"3594 Elephant Lake Rd, Algonquin Provincial Park, Ontario, Canada",142
+330,CA,Toronto,Toronto Luxury Accommodations - 263 Wellington Street West,"263 Wellington St W, Toronto, Ontario, Canada",6
+331,CA,Toronto,Best Western Hotel Universel Drummondville,"915 Rue Hains, Drummondville, Quebec, Canada",688
+332,CA,Toronto,Rose Garden Bed and Breakfast,"1030 Bathurst St, Toronto, Ontario, Canada",70
+333,CA,Toronto,Kaisar Guest House,"372A College St, Toronto, Ontario, Canada",41
+334,CA,Toronto,Glenn-Burney Lodge Cabins,"49 Glen Burney Rd, Parry Sound, Northeastern Ontario, Ontario, Canada",80
+335,CA,Toronto,Sonder The Slate,"348 Adelaide St W, Toronto, Ontario, Canada",54
+336,CA,Toronto,"Holiday Inn Express & Suites Milton, an IHG Hotel","2750 High Point Drive, Milton, Ontario, Canada",170
+337,CA,Toronto,Pimblett's Downtown Toronto B&B,"242 Gerrard St E, Toronto, Ontario, Canada",110
+338,CA,Toronto,Global Village Backpackers,"460 King St W, Toronto, Ontario, Canada",166
+339,CA,Toronto,Lord Nelson Motel,"1664 Highway 15, Kingston, Ontario, Canada",257
+340,CA,Toronto,Pelicanstay at Square One Mall,"3880 Duke of York Blvd, Mississauga, Ontario, Canada",77
+341,CA,Toronto,Butterfingers B&B,"105 Sumach St, Toronto, Ontario, Canada",14
+342,CA,Toronto,Travelodge Mississauga Toronto,"1767 Dundas St E, Mississauga, Ontario, Canada",7
+343,CA,Toronto,Brighton Inn,"40 Young St, Brighton, Ontario, Canada",142
+344,CA,Toronto,Toronto Downtown - East Furnished Apartments,"4 Newbold Ave, Toronto, Ontario, Canada",7
+345,CA,Toronto,Royal Oak Inn,"376 Dundas St E, Toronto, Ontario, Canada",200
+346,CA,Toronto,Glen Rouge Campground,"7450 Kingston Rd, Toronto, Ontario, Canada",59
+347,CA,Toronto,Lowther Suites,"88 Lowther Ave, Toronto, Ontario, Canada",7
+348,CA,Toronto,Inverness - High Park B & B,"287 Humberside Ave, Toronto, Ontario, Canada",69
+349,CA,Toronto,Simply Comfort Gorgeous Apartments in the Heart of Toronto,"12-14 York St, Toronto, Ontario, Canada",9
+350,CA,Toronto,University Apartment,"16 Willison Square, Toronto, Ontario, Canada",43
+351,CA,Toronto,The Clarence Park,"7 Clarence Sq, Toronto, Ontario, Canada",163
+352,CA,Toronto,Chestnut Residence & Conference Centre,"89 Chestnut St, Toronto, Ontario, Canada",159
+353,CA,Toronto,Glen Grove Conservatory Tower,"736 Bay St, Toronto, Ontario, Canada",114
+354,CA,Toronto,Walnut House B&B,"134 Forsythe St, Oakville, Ontario, Canada",43
+355,CA,Toronto,Toronto's Favourite Urban B&B,"51 Bowie Ave, Toronto, Ontario, Canada",5
+356,CA,Toronto,Life Suites Loft - CN Tower,"20 John St, Toronto, Ontario, Canada",45
+357,CA,Toronto,Ryerson University - Pitman Hall Residence,"160 Mutual St, Toronto, Ontario, Canada",40
+358,CA,Toronto,Hampton House Bed & Breakfast,"146 Hampton Ave, Toronto, Ontario, Canada",2
+359,CA,Toronto,Canada Suites on Bay,"736 Bay St, Toronto, Ontario, Canada",107
+360,CA,Toronto,The Annex,"296 Brunswick Ave, Toronto, Ontario, Canada",49
+361,CA,Toronto,Smiley's B&B,"4 Dacotah Ave, Toronto, Ontario, Canada",6
+362,CA,Toronto,Ada's Guesthouse,"29 Linden St, Toronto, Ontario, Canada",60
+363,CA,Toronto,Keppner Guesthouse,"41 Huntley St, Toronto, Ontario, Canada",75
+364,CA,Toronto,Margie Townhome Suite,"44 McGill St, Toronto, Ontario, Canada",37
+365,CA,Toronto,Filmores Hotel,"212 Dundas St E, Toronto, Ontario, Canada",38
+366,CA,Toronto,Barrie KOA Holiday,"3138 Penetanguishene Road, Springwater, Ontario, Canada",59
+367,CA,Toronto,Global Guest House,"9 Spadina Rd, Toronto, Ontario, Canada",51
+368,CA,Toronto,Hotel Le Germain Montreal,"2050, Rue Mansfield, Montreal, Quebec, Canada",860
+369,CA,Toronto,Kensington Suites,"102 Bellevue Ave, Toronto, Ontario, Canada",15
+370,CA,Toronto,Massey College Summer Rentals,"4 Devonshire Pl, Toronto, Ontario, Canada",17
+371,CA,Toronto,Comfort Inn Riviere-du-Loup,"85 boul. Cartier, Riviere du Loup, Bas-Saint-Laurent, Quebec, Canada",171
+372,CA,Toronto,Somerset Bed & Breakfast,"111 Front Street, Niagara-on-the-Lake, Ontario, Canada",40
+373,CA,Toronto,Deluxe Inn,"1554 The Queensway, Toronto, Ontario, Canada",70
+374,CA,Toronto,Econo Lodge,"205, Chemin Des Poiriers, Montmagny, Chaudiere-Appalaches, Quebec, Canada",129
+375,CA,Toronto,The Avalon,"574 Sherbourne St, Toronto, Ontario, Canada",42
+376,CA,Toronto,Chinatown Travelers Home,"31 Grange Ave, Toronto, Ontario, Canada",74
+377,CA,Toronto,The Avalon Yorkville,"155 Yorkville Ave, Toronto, Ontario, Canada",70
+378,CA,Toronto,Castlegate Bed & Breakfast Inn,"219 Spadina Rd, Toronto, Ontario, Canada",73
+379,CA,Toronto,Atlas Suites - Mariner Furnished Apartments,"35 Mariner Terr, Toronto, Ontario, Canada",66
+380,CA,Toronto,Beverley Place,"226 Beverley St, Toronto, Ontario, Canada",63
+381,CA,Toronto,Neill-Wycik Backpackers Hotel,"96 Gerrard St E, Toronto, Ontario, Canada",150
+382,CA,Toronto,Havinn International Guest House,"118 Spadina Rd, Toronto, Ontario, Canada",80
+383,CA,Toronto,Rheinhessen Estate Bed & Breakfast,"1108 Lakeshore Road West Fireline 600, St. Catharines, Ontario, Canada",29
+384,CA,Toronto,Saint Lawrence Residences & Suites,"135 Jarvis St, Toronto, Ontario, Canada",77
+385,CA,Toronto,Veeds Private Suites,"300 Front St W, Toronto, Ontario, Canada",29
+386,CA,Toronto,Posh Digs,"414 Markham St, Toronto, Ontario, Canada",17
+387,CA,Toronto,Hampton Inn & Suites by Hilton Belleville,"784 Bell Blvd., Belleville, Ontario, Canada",77
+388,CA,Toronto,Drake Devonshire Inn,"24 Wharf Street, Wellington, Prince Edward County, Ontario, Canada",322
+389,CA,Toronto,Tigh-na-Mara Bed and Breakfast,"27 Shelley Ave, St. Catharines, Ontario, Canada",17
+390,CA,Toronto,The Republic Delsuites,"70 Roehampton Ave, Toronto, Ontario, Canada",6
+391,CA,Toronto,Bombay Suites,"6843 Simpson Pioneer Trail, Mississauga, Ontario, Canada",71
+392,CA,Toronto,Inn on the Moraine,"15535 Mount Pleasant Rd, Caledon, Ontario, Canada",70
+393,CA,Toronto,Mina's Guesthouse,"246 Sherbourne St, Toronto, Ontario, Canada",51
+394,CA,Toronto,Harmony Outdoor Inn,"6 Harmony Lane, Parry Sound, Northeastern Ontario, Ontario, Canada",70
+395,CA,Toronto,Hotel Levesque,"171 Fraser St, Riviere du Loup, Bas-Saint-Laurent, Quebec, Canada",852
+396,CA,Toronto,Rawley Resort,"2900 Kellys Road, Port Severn, Severn Township, Ontario, Canada",426
+397,CA,Toronto,"Holiday Inn Express & Suites 1000 Islands - Gananoque, an IHG Hotel","777 King St E, Gananoque, Ontario, Canada",606
+398,CA,Toronto,Admiral Saint George B&B,"305 St. George St, Toronto, Ontario, Canada",31
+399,CA,Toronto,The Manse Boutique Inn & Spa,"10 Chapel St, Picton, Prince Edward County, Ontario, Canada",274
+400,CA,Toronto,Bonnevue Manor Bed & Breakfast Place,"33 Beaty Ave, Toronto, Ontario, Canada",55
+401,CA,Toronto,bE SixFifty Hotel,"650 Bay St, Toronto, Ontario, Canada",112
+402,CA,Toronto,Waterfront Hotel Downtown Burlington,"2020 Lakeshore Rd, Burlington, Ontario, Canada",580
+403,CA,Toronto,Sandman Hotel Vancouver Airport,"3233 St. Edwards Dr, Richmond, British Columbia, Canada",577
+404,CA,Toronto,Residence & Conference Centre - Brampton,"7897 McLaughlin Rd, Brampton, Ontario, Canada",33
+405,CA,Toronto,West Queen West Hotel,"1521 Queen St W, Toronto, Ontario, Canada",95
+406,CA,Toronto,Edward Hotel North York,"185 Yorkland Blvd, Toronto, Ontario, Canada",50
+407,CA,Toronto,Elmhirst's Resort,"1045 Settlers Line, Keene, Otonabee-South Monaghan, Ontario, Canada",279
+408,CA,Toronto,Urban Living Suites,"791 Dundas St W, Toronto, Ontario, Canada",67
+409,CA,Toronto,Milton Heights Campground,"8690 Tremaine Rd, Milton, Ontario, Canada",56
+410,CA,Toronto,Glen Grove Suites at The Maple Leaf,"390 Queens Quay W, Toronto, Ontario, Canada",48
+411,CA,Toronto,Kingbridge Conference Centre & Hotel,"12750 Jane St, King City, Ontario, Canada",75
+412,CA,Toronto,Hotel Brossard,"7365 Marie-Victorin Blvd, Brossard, Quebec, Canada",587
+413,CA,Toronto,Windermere House Resort & Hotel,"2508 Windermere Road, Windermere, Muskoka Lakes, Muskoka District, Ontario, Canada",274
+414,CA,Toronto,Four Points by Sheraton St. Catharines Niagara Suites,"3530 Schmon Parkway, Thorold, Ontario, Canada",456
+415,CA,Toronto,Best Western Plus Durham Hotel & Conference Centre,"559 Bloor St W, Oshawa, Ontario, Canada",474
+416,CA,Toronto,"Staybridge Suites Hamilton - Downtown, an IHG Hotel","20 Caroline Street South, Hamilton, Ontario, Canada",337
+417,CA,Toronto,Hamilton Plaza Hotel and Conference Center,"150 King St E, Hamilton, Ontario, Canada",306
+418,CA,Toronto,Monte Carlo Inn - Oakville Suites,"374 South Service Rd E, Oakville, Ontario, Canada",286
+419,CA,Toronto,All Days House #3,"572 Sherbourne St, Toronto, Ontario, Canada",24
+420,CA,Toronto,Super 5 Inn,"2171 Dundas St E, Mississauga, Ontario, Canada",43
+421,CA,Toronto,Park Motel,"3126 Kingston Rd, Toronto, Ontario, Canada",24
+422,CA,Toronto,TownePlace Suites by Marriott Belleville,"400 Bell Blvd, Belleville, Ontario, Canada",268
+423,CA,Toronto,Park Plaza Hotel & Conf Ctr Toronto,"360 Oakville Place Dr, Toronto, Ontario, Canada",5
+424,CA,Toronto,Auberge Cap Martin,"93, Route 132 Ouest, La Pocatiere, Bas-Saint-Laurent, Quebec, Canada",62
+425,CA,Toronto,Vaughan Inn,"6700 Highway 7, Woodbridge, Vaughan, Ontario, Canada",41
+426,CA,Toronto,Viamede Resort,"595 Mt Julian Viamede Rd, North Kawartha, Ontario, Canada",445
+427,CA,Toronto,"Holiday Inn Sudbury, an IHG Hotel","1696 Regent Street, Sudbury, Northeastern Ontario, Ontario, Canada",286
+428,CA,Toronto,Waverley Hotel,"484 Spadina Ave, Toronto, Ontario, Canada",9
+429,CA,Toronto,Shuter House,"118 Shuter St, Toronto, Ontario, Canada",33
+430,CA,Toronto,Quality Suites Drummondville,"2125 Rue Canadien, Drummondville, Quebec, Canada",430
+431,CA,Toronto,Fairfield Inn & Suites Sault Ste. Marie,"633 Great Northern Rd, Sault Ste. Marie, Northeastern Ontario, Ontario, Canada",415
+432,CA,Toronto,Beacon Shore Bed & Breakfast,"128 Midland Point Rd, Midland, Ontario, Canada",287
+433,CA,Toronto,"Holiday Inn Express Deer Lake, an IHG Hotel","38 Bennett's Ave, Deer Lake, Newfoundland, Newfoundland and Labrador, Canada",513
+434,CA,Toronto,Best Northern Motel and Restaurant,"150 Hwy 17 south, Wawa, Northeastern Ontario, Ontario, Canada",214
+435,CA,Toronto,The Edward Bed & Breakfast,"662 County Road 7, North Marysburgh, Prince Edward County, Ontario, Canada",23
+436,CA,Toronto,Rideau Rendezvous,"4200 Mangan Blvd, Kingston, Ontario, Canada",21
+437,CA,Toronto,Parkside Student Residence,"111 Carlton St, Toronto, Ontario, Canada",13
+438,CA,Toronto,Voyageur's Lodge & Cookhouse,"Highway 17 North, Batchawana Bay, Northeastern Ontario, Ontario, Canada",106
+439,CA,Toronto,Motel 6 Kingston,"1542 Robinson Court, Kingston, Ontario, Canada",475
+440,CA,Toronto,HydeWest - Iceboat Terrace Furnished Townhome,"15 Iceboat Terr, Toronto, Ontario, Canada",11
+441,CA,Toronto,The Highlands Motel & Lodge,"15102 Highway 35 1064 Omagaki Road, Minden, Ontario, Canada",144
+442,CA,Toronto,Silver Birches by-the-Lake B&B,"4902 Mountainview Rd, Niagara-on-the-Lake, Ontario, Canada",174
+443,CA,Toronto,Ramada by Wyndham Trenton,"99 Glen Miller Rd, Trenton, Quinte West, Ontario, Canada",783
+444,CA,Toronto,Sarkar Suites - Maple Leaf Square,"Maple Leaf Square - South Towe 55 Bremner Blvd, Toronto, Ontario, Canada",6
+445,CA,Toronto,Petryla Estates Furnished Apartments,"46 Waniska Ave, Toronto, Ontario, Canada",17
+446,CA,Toronto,Ovation,"3880 Duke of York Blvd, Mississauga, Ontario, Canada",13
+447,CA,Toronto,Diamond Vacation Homes - York St,"12 York St, Toronto, Ontario, Canada",19
+448,CA,Toronto,Locarno Hostel,"287 Parliament St, Toronto, Ontario, Canada",20
+449,CA,Toronto,Residence & Conference Centre - King City,"13980 Dufferin St, King City, Ontario, Canada",41
+450,CA,Toronto,Kensington Market House,"112 Oxford St, Toronto, Ontario, Canada",28
+451,CA,Toronto,Best Western Halton Hills,"365 Guelph St, Georgetown, Halton Hills, Ontario, Canada",201
+452,CA,Toronto,Cedar Springs Motel,"12363 Hwy 7 R.R.1, Georgetown, Halton Hills, Ontario, Canada",46
+453,CA,Toronto,High Falls Motel and Cabins,"280 King's Highway 17, Wawa, Northeastern Ontario, Ontario, Canada",287
+454,CA,Toronto,Sir Isaac Brock B&B Luxury Suites,"89 Church St, Brockville, Ontario, Canada",312
+455,CA,Toronto,Comfort Inn & Suites,"210 Essa Rd, Barrie, Ontario, Canada",234
+456,CA,Toronto,Canadas Best Value Inn St. Catharines,"420 Ontario St, St. Catharines, Ontario, Canada",242
+457,CA,Toronto,Sky Suites Yorkville,"85 Bloor St E, Toronto, Ontario, Canada",7
+458,CA,Toronto,Marmora And Lake Inn B&B,"29 Bursthall St, Marmora, Ontario, Canada",54
+459,CA,Toronto,The Lodges at Blue Mountain,"796468 Grey Road 19, Blue Mountains, Grey County, Ontario, Canada",266
+460,CA,Toronto,The Secret Garden Inn at Argyle Place,"73 Sydenham St, Kingston, Ontario, Canada",309
+461,CA,Toronto,Homestead House Bed & Breakfast,"3272 Homestead Drive, Mount Hope, Hamilton, Ontario, Canada",58
+462,CA,Toronto,Woodland Gardens Bed and Breakfast,"8250 Woodland Ave, Campbellcroft, Port Hope, Ontario, Canada",106
+463,CA,Toronto,The Courthouse Hotel,"277 Camelot St, Thunder Bay, Thunder Bay District, Ontario, Canada",94
+464,CA,Toronto,"Sunny Point Resort, Cottages & Inn","41 Sunny Point Rd, Parry Sound, Northeastern Ontario, Ontario, Canada",113
+465,CA,Toronto,Trunk Road Motel,"759 Trunk Rd, Sault Ste. Marie, Northeastern Ontario, Ontario, Canada",104
+466,CA,Toronto,TownePlace Suites by Marriott London,"800 Exeter Rd, London, Ontario, Canada",388
+467,CA,Toronto,Comfort Inn Timmins,"939 Algonquin Blvd. E., Timmins, Northeastern Ontario, Ontario, Canada",109
+468,CA,Toronto,Islington B&B House,"1411 Islington Ave, Toronto, Ontario, Canada",8
+469,CA,Toronto,Amsterdam Guest House,"209 Carlton St, Toronto, Ontario, Canada",31
+470,CA,Toronto,Backpackers on Dundas,"On M5g 1R3-126 Chestnut St, Toronto, Ontario, Canada",32
+471,CA,Toronto,Sonder The Wellesley,"29 Wellesley St E, Toronto, Ontario, Canada",23
+472,CA,Toronto,"Chandni Victoria, BW Signature Collection","SW Quadrant of Airport Rd. & Drew Rd., Mississauga, Ontario, Canada",17
+473,CA,Toronto,Best Western Plus Bowmanville,"160 Liberty St S, Bowmanville, Ontario, Canada",290
+474,CA,Toronto,Northern Edge Algonquin,"Kawawaymog Lake, Northeastern Ontario, Ontario, Canada",156
+475,CA,Toronto,Russell Manor Bed and Breakfast,"36 First Street, Morrisburg, Ontario, Canada",170
+476,CA,Toronto,Hotel Carlyle & Restaurant,"86 John St, Port Hope, Ontario, Canada",182
+477,CA,Toronto,Sandman Hotel Calgary Airport,"25 Hopewell Way NE, Calgary, Alberta, Canada",421
+478,CA,Toronto,Dundas Apartments & Suites,"787 Dundas St W, Toronto, Ontario, Canada",29
+479,CA,Toronto,Howard Johnson by Wyndham Cornwall,"1142 Brookdale Ave, Cornwall, Ontario, Canada",119
+480,CA,Toronto,Tucked Inn the Harbour B&B,"197 Robins Point Rd, Victoria Harbour, Ontario, Canada",402
+481,CA,Toronto,Chinatown Inn Toronto,"525 Dundas St W, Toronto, Ontario, Canada",4
+482,CA,Toronto,Sandman Hotel & Suites Regina,"1800 Victoria Ave E, Regina, Saskatchewan, Canada",260
+483,CA,Toronto,"Park Inn by Radisson Brampton, ON","150 Nexus Avenue, Brampton, Ontario, Canada",62
+484,CA,Toronto,Casino Rama Resort,"5899 Rama Rd, Rama, Ontario, Canada",754
+485,CA,Toronto,"Holiday Inn Peterborough-Waterfront, an IHG Hotel","150 George St, Peterborough, Ontario, Canada",544
+486,CA,Toronto,Motel Bel-Eau,"600 Notre-Dame, Montebello, Outaouais Region, Quebec, Canada",119
+487,CA,Toronto,Hotel Belvedere,"141 King St E, Kingston, Ontario, Canada",194
+488,CA,Toronto,Comfort Inn & Suites,"1394 Route Des Rivieres, Levis, Chaudiere-Appalaches, Quebec, Canada",210
+489,CA,Toronto,Sleep Inn,"510 Muskoka Rd 118 W, Bracebridge, Muskoka District, Ontario, Canada",172
+490,CA,Toronto,Taylor-Made B&B,"Lion's Head, Bruce Peninsula, Bruce County, Ontario, Canada",237
+491,CA,Toronto,Stone Maiden Inn,"123 Church St, Stratford, Ontario, Canada",449
+492,CA,Toronto,Turtle Island Bed and Breakfast,"415 Stone St S, Gananoque, Ontario, Canada",155
+493,CA,Toronto,Hilton Garden Inn Niagara-on-the-Lake,"500 York Road, Niagara-on-the-Lake, Ontario, Canada",1784
+494,CA,Toronto,Ye Olde Walkerville Bed & Breakfast,"1104 Monmouth Rd, Windsor, Ontario, Canada",84
+495,CA,Toronto,Comfort Inn & Suites Thousand Islands Harbour District,"22 Main St, Gananoque, Ontario, Canada",391
+496,CA,Toronto,The Parkway Place,"501 Oriole Pky, Toronto, Ontario, Canada",24
+497,CA,Toronto,The Opinicon,"1697 Chaffeys Locks Rd, Elgin, Rideau Lakes, Ontario, Canada",211
+498,CA,Toronto,Ambiance by the Falls Bed and Breakfast,"4467 John St., Niagara Falls, Ontario, Canada",255
+499,CA,Toronto,The Waddell,"1 Walton St, Port Hope, Ontario, Canada",124
+500,CA,Toronto,The Arlington Hotel,"32990 Highway 62, Maynooth, Ontario, Canada",40
+501,CA,Toronto,Homewood Suites by Hilton Sudbury,"2270 Regent St, Sudbury, Northeastern Ontario, Ontario, Canada",698
+502,CA,Toronto,Homewood Suites by Hilton Burlington,"975 Syscon Road, Burlington, Ontario, Canada",451
+503,CA,Toronto,Best Western Plus Woodstock Inn & Suites,"811 Athlone Ave, Woodstock, Ontario, Canada",643
+504,CA,Toronto,Red Pine Inn & Conference Centre,"497 Victoria St E, Alliston, New Tecumseth, Ontario, Canada",135
+505,CA,Toronto,White River Motel,"210 Highway 17, White River, Northeastern Ontario, Ontario, Canada",114
+506,CA,Toronto,Homewood Suites by Hilton Ottawa Airport,"3605 Paul Anka Drive, Ottawa, Ontario, Canada",251
+507,CA,Toronto,Stillwater on the Lake,"1-641 Lakeview Cres, Peterborough, Ontario, Canada",357
+508,CA,Toronto,"Homewood Suites by Hilton Cambridge-Waterloo, Ontario","800 Jamieson Pky, Cambridge, Region of Waterloo, Ontario, Canada",731
+509,CA,Toronto,Hampton Inn & Suites by Hilton Brantford Conference Centre ON,"20 Fen Ridge Crt, Brantford, Ontario, Canada",748
+510,CA,Toronto,Hotel Le Dauphin Saint-Hyacinthe,"1250 Johnson West, Saint Hyacinthe, Quebec, Canada",133
+511,CA,Toronto,Stokely Creek Lodge,"194 Pickard Road, Sault Ste. Marie, Northeastern Ontario, Ontario, Canada",35
+512,CA,Toronto,Breakers on the Lake,"94 Green St, Cobourg, Ontario, Canada",104
+513,CA,Toronto,Best Western Plus Barrie,"35 Hart Dr, Barrie, Ontario, Canada",737
+514,CA,Toronto,Best Western Plus Orangeville Inn & Suites,"7 Buena Vista Dr, Orangeville, Ontario, Canada",489
+515,CA,Toronto,La Quinta Inn & Suites Oshawa,"63 King St E, Oshawa, Ontario, Canada",481
+516,CA,Toronto,Arlington Hotel,"106 Grand River St N, Paris, Ontario, Canada",239
+517,CA,Toronto,Carolyn Beach Inn & Restaurant,"1 Lakeside Drive, Thessalon, Northeastern Ontario, Ontario, Canada",234
+518,CA,Toronto,Blairpen House Country Inn,"287 Davy Street, Niagara-on-the-Lake, Ontario, Canada",103
+519,CA,Toronto,Four Points by Sheraton Levis Convention Centre,"5800 Rue J.B. Michaud, Levis, Chaudiere-Appalaches, Quebec, Canada",458
+520,CA,Toronto,The Bear's Inn,"1979 4th Line Rd, Ohsweken, Ontario, Canada",20
+521,CA,Toronto,Maplewood Suites,"3525 Kariya Dr, Mississauga, Ontario, Canada",7
+522,CA,Toronto,International Living Learning Centre Residence,"240 Jarvis St, Toronto, Ontario, Canada",3
+523,CA,Toronto,Amanda's Bed & Breakfast,"304 Raymerville Dr, Markham, Ontario, Canada",20
+524,CA,Toronto,Victoria University,"140 Charles St W, Toronto, Ontario, Canada",12
+525,CA,Toronto,Wellesley Guest House,"292 Wellesley St E, Toronto, Ontario, Canada",7
+526,CA,Toronto,King Waldorf's,"9015 Stanley Ave, Niagara Falls, Ontario, Canada",50
+527,CA,Toronto,Mountain Springs Resort,"796468 Grey Road 19, Blue Mountains, Grey County, Ontario, Canada",225
+528,CA,Toronto,Maple Ki Forest and Spirit Water,"1728 Arden Road, Tamworth, Lennox and Addington County, Ontario, Canada",38
+529,CA,Toronto,Rock Island Lodge,"10 Government Dock, Wawa, Northeastern Ontario, Ontario, Canada",146
+530,CA,Toronto,Chalet Bed and Breakfast,"982 Line 6 Rd, Niagara-on-the-Lake, Ontario, Canada",152
+531,CA,Toronto,Hotel L'Oiseliere Levis,"165 A, President Kennedy Rd, Levis, Chaudiere-Appalaches, Quebec, Canada",254
+532,CA,Toronto,Hotel & Suites Le Dauphin Drummondville,"600 Boulevard Saint-Joseph, Drummondville, Quebec, Canada",496
+533,CA,Toronto,Ottawa Backpackers Inn,"203 York St, Ottawa, Ontario, Canada",424
+534,CA,Toronto,Au NIDaigle,"1582 Principale St, Edmundston, New Brunswick, Canada",112
+535,CA,Toronto,Aquarius Motel,"17518 Highway 7, Perth, Ontario, Canada",103
+536,CA,Toronto,The Water's Edge Inn,"149 Queen Street, Campbellford, Trent Hills, Ontario, Canada",87
+537,CA,Toronto,The Rose Manor,"41 Frazer St, Welland, Ontario, Canada",94
+538,CA,Toronto,Knights Inn Kingston,"1155 Princess St, Kingston, Ontario, Canada",116
+539,CA,Toronto,Dressel's Jordan Valley Campground,"3902 21st. Street, Jordan, Lincoln, Ontario, Canada",89
+540,CA,Toronto,Forks of the Credit Inn,"1498 Cataract Rd, Caledon, Ontario, Canada",39
+541,CA,Toronto,The Colonel's Inn,"408 East Street, Prescott, Ontario, Canada",80
+542,CA,Toronto,Brighton 401 KOA,"15051 Telephone Road, Brighton, Ontario, Canada",35
+543,CA,Toronto,Nestleton Waters Inn,"3440 Beacock Rd, Nestleton, Ontario, Canada",147
+544,CA,Toronto,Algonquin Moon,"32 Swallowdale Rd, Huntsville, Muskoka District, Ontario, Canada",128
+545,CA,Toronto,Red Dog Inn,"Highway 17 Terrace Bay Ontario CA, Terrace Bay, Thunder Bay District, Ontario, Canada",84
+546,CA,Toronto,Queen Regent Bed & Breakfast,"175 Regent Street, Niagara-on-the-Lake, Ontario, Canada",110
+547,CA,Toronto,Fairfield Inn & Suites by Marriott - Guelph,"35 Cowan Pl, Guelph, Ontario, Canada",129
+548,CA,Toronto,Dorchester House Bed and Breakfast,"351 Dorchester St., Niagara-on-the-Lake, Ontario, Canada",42
+549,CA,Toronto,Hillsdale House,"332 Main Street, Bloomfield, Prince Edward County, Ontario, Canada",22
+550,CA,Toronto,The Cider House Bed & Breakfast,"74 Prince Edward Street, Brighton, Ontario, Canada",23
+551,CA,Toronto,The Loyalist Bed & Breakfast,"1 Loyalist Crt, Niagara-on-the-Lake, Ontario, Canada",29
+552,CA,Toronto,Bayside Vacation Resort,"50 Erie Blvd, Port Rowan, Norfolk County, Ontario, Canada",63
+553,CA,Toronto,Ridgemoor B&B,"902 Shaver Rd, Ancaster, Hamilton, Ontario, Canada",73
+554,CA,Toronto,Fireside Lodge,"Hwy 72, Fireside Road, Sioux Lookout, Kenora District, Ontario, Canada",37
+555,CA,Toronto,Sequel Inn Creemore,"3476 Garden of Eden Road, Creemore, Clearview Township, Ontario, Canada",40
+556,CA,Toronto,Algonquin Mists Guest Home and Retreat,"1080 Walker's Glenn Cres, Huntsville, Muskoka District, Ontario, Canada",74
+557,CA,Toronto,Casa Wasaga,"1 Tamarack Way, Wasaga Beach, Ontario, Canada",41
+558,CA,Toronto,Absolute 1000 Islands Suites,"22 Church St, Gananoque, Ontario, Canada",60
+559,CA,Toronto,Signatures on Bloor,"55 Bloor St E, Toronto, Ontario, Canada",5
+560,CA,Toronto,Comfort Inn - Barrie / Hart Dr.,"75 Hart Dr, Barrie, Ontario, Canada",136
+561,CA,Toronto,Trading Post Motel Ignace - Motel 1,"1001 Main St Highway 17, Ignace, Kenora District, Ontario, Canada",125
+562,CA,Toronto,"Holiday Inn Express & Suites Guelph, an IHG Hotel","540 Silvercreek Parkway North, Guelph, Ontario, Canada",198
+563,CA,Toronto,Motel Des Erables,"44 Route 201, Coteau-du-Lac, Quebec, Canada",36
+564,CA,Toronto,Ports Hotel,"30 Port St E, Mississauga, Ontario, Canada",14
+565,CA,Toronto,Walker Lake Resort,"1040 Walker Lake Dr, Huntsville, Muskoka District, Ontario, Canada",88
+566,CA,Toronto,Hotel L'Oiseliere - Montmagny,"105 chemin des Poirier, Montmagny, Chaudiere-Appalaches, Quebec, Canada",220
+567,CA,Toronto,Sutton Park Inn,"1126 Sutton St, Kincardine, Bruce County, Ontario, Canada",92
+568,CA,Toronto,Villa Lucera,"71 Woodland Dr, Wasaga Beach, Ontario, Canada",141
+569,CA,Toronto,Comfort Inn Airport (North Bay),"1200 O'Brien St, North Bay, Northeastern Ontario, Ontario, Canada",79
+570,CA,Toronto,Sheraton Vancouver Wall Centre,"1000 Burrard Street, Vancouver, British Columbia, Canada",1785
+571,CA,Toronto,GLo Best Western Mississauga Corporate Centre,"40 Admiral Blvd, Mississauga, Ontario, Canada",19
+572,CA,Toronto,Jet Furnished Suites,"155 Yorkville Ave, Toronto, Ontario, Canada",8
+573,CA,Toronto,Elevate Rooms near Allan Gardens,"23 Homewood Ave, Toronto, Ontario, Canada",6
+574,CA,Toronto,Bobcaygeon Inn & Conference Centre,"31 Main St., Bobcaygeon, Kawartha Lakes, Ontario, Canada",65
+575,CA,Toronto,Super 8 by Wyndham Lachenaie/Terrebonne,"1155 Yves Blais, Terrebonne, Quebec, Canada",481
+576,CA,Toronto,Green Acres Inn,"2480 Princess St, Kingston, Ontario, Canada",403
+577,CA,Toronto,Trillium Resort and Spa,"848 Clearwater Lake Rd, Port Sydney, Huntsville, Muskoka District, Ontario, Canada",247
+578,CA,Toronto,Hotel Alt Quebec,"1200 Avenue De Germain-Des-Pres, Quebec City, Quebec, Canada",492
+579,CA,Toronto,Comfort Inn Lakeshore - North Bay,"676 Lakeshore Dr, North Bay, Northeastern Ontario, Ontario, Canada",175
+580,CA,Toronto,Hotel Kennedy,"129, Route du President Kennedy, Levis, Chaudiere-Appalaches, Quebec, Canada",175
+581,CA,Toronto,Motel de la Montagne,"169, Rue Varin, St-Pascal, Bas-Saint-Laurent, Quebec, Canada",42
+582,CA,Toronto,Residence & Conference Centre - Hamilton,"245 Fennell Ave W, Hamilton, Ontario, Canada",57
+583,CA,Toronto,"Bloom Mississauga, Tapestry Collection by Hilton","6950 Kennedy Road, Mississauga, Ontario, Canada",13
+584,CA,Toronto,Two Peas Pod Hostel,"403 Spadina Ave, Toronto, Ontario, Canada",22
+585,CA,Toronto,Valley Inn Motel Hotel,"500 Notre-Dame St E, Sudbury, Northeastern Ontario, Ontario, Canada",39
+586,CA,Toronto,The Station Inn,"200 Railway Street, Cochrane, Northeastern Ontario, Ontario, Canada",62
+587,CA,Toronto,Bridgewaters Inn,"2702 County Road 2, Johnstown, Ontario, Canada",31
+588,CA,Toronto,Hillside Motel,"1131-1141 Manawagonish Rd, Saint John, New Brunswick, Canada",223
+589,CA,Toronto,Inn By The Falls,"5525 Victoria Ave, Niagara Falls, Ontario, Canada",69
+590,CA,Toronto,Grand Royal Condos - CN Tower,"300 Front St W, Toronto, Ontario, Canada",11
+591,CA,Toronto,Blackstone Inn,"5643 Ellen Ave, Niagara Falls, Ontario, Canada",53
+592,CA,Toronto,Tea Lake Campground,"Hwy 60 at km 11.4, Algonquin Provincial Park, Ontario, Canada",17
+593,CA,Toronto,New Plaza Motel,"4584 Kingston Rd, Toronto, Ontario, Canada",17
+594,CA,Toronto,Clarkson Village Motel,"1815 Lakeshore Rd W, Mississauga, Ontario, Canada",28
+595,CA,Toronto,The Parkdale Hostellerie,"83 Elm Grove Ave, Toronto, Ontario, Canada",17
+596,CA,Toronto,"Knights Inn Burlington, ON","517 Plains Rd E, Burlington, Ontario, Canada",61
+597,CA,Toronto,Toronto Luxury Guesthouse,"75 Thorncrest Rd, Toronto, Ontario, Canada",1
+598,CA,Toronto,Sheraton Hamilton Hotel,"116 King Street West, Hamilton, Ontario, Canada",861
+599,CA,Toronto,Best Western Downtown Sudbury Centreville,"151 Larch St, Sudbury, Northeastern Ontario, Ontario, Canada",729
+600,CA,Toronto,The Old Rectory Bed & Breakfast,"218 Ontario St, Stratford, Ontario, Canada",170
+601,CA,Toronto,Sage Wellness B'n'B Hostel and Spa,"1849A Eglinton Ave W, Toronto, Ontario, Canada",13
+602,CA,Toronto,Park Place Motel,"43 Victoria S, Tweed, Ontario, Canada",49
+603,CA,Toronto,The Atmosphere Boutique Suites,"300 Front St W, Toronto, Ontario, Canada",14
+604,CA,Toronto,Embassy Motel,"2404 Princess St, Kingston, Ontario, Canada",30
+605,CA,Toronto,Serpent River Campground,"4696 Hwy 17 West, Spragge, Northeastern Ontario, Ontario, Canada",49
+606,CA,Toronto,Drew House,"120 Mill St E, Elora, Centre Wellington, Ontario, Canada",84
+607,CA,Toronto,Auberge l'Ile de France,"2188, Chemin Du Tour Du Lac, Nominingue, Quebec, Canada",155
+608,CA,Toronto,The York Boutique Suites,"14 York St, Toronto, Ontario, Canada",9
+609,CA,Toronto,York Street Apartment,"12 York St, Toronto, Ontario, Canada",4
+610,CA,Toronto,Maple Leaf Motel,"4540 Kingston Rd, Toronto, Ontario, Canada",8
+611,CA,Toronto,All Days House#2,"281A George St, Toronto, Ontario, Canada",5
+612,CA,Toronto,Bridgestreet Qwest,"Quest 168 Simcoe St, Toronto, Ontario, Canada",8
+613,CA,Toronto,Tropicana Inn,"8674 Lundy's Lane, Niagara Falls, Ontario, Canada",54
+614,CA,Toronto,Nap Station,"6171 Conin Dr, Mississauga, Ontario, Canada",3
+615,CA,Toronto,Courtyard by Marriott Montreal Airport,"7000 Place Robert-Joncas, Montreal, Quebec, Canada",408
+616,CA,Toronto,Cabins at the Domain,"1282 Carroll Road, Haliburton, Ontario, Canada",104
+617,CA,Toronto,Marten River Lodge,"36 Marten River Rd, Marten River, Temagami, Northeastern Ontario, Ontario, Canada",105
+618,CA,Toronto,Motel Marie-Dan,"311 Rue des Bouleaux, Sainte-Eulalie, Quebec, Canada",32
+619,CA,Toronto,Royal Stays Suites - Blue Jays Way,"250 Wellington St W, Toronto, Ontario, Canada",17
+620,CA,Toronto,Bare Oaks Family Naturist Park,"20237 Kennedy Rd, East Gwillimbury, Ontario, Canada",72
+621,CA,Toronto,Smoothwater Outfitters & Lodge,"34 Smoothwater Rd, Temagami, Northeastern Ontario, Ontario, Canada",29
+622,CA,Toronto,Achray Campground,"Southeast tip of Grand Lake, Algonquin Provincial Park, Ontario, Canada",30
+623,CA,Toronto,Fronterra Farm,"240 County Road 27, Hillier, Prince Edward County, Ontario, Canada",67
+624,CA,Toronto,Windhover County,"1109 County Road 8, Picton, Prince Edward County, Ontario, Canada",25
+625,CA,Toronto,Quality Hotel & Conference Centre,"110 Chief Joanna Blvd, Edmundston, New Brunswick, Canada",36
+626,CA,Toronto,Comfort Inn,"3290 South Service Rd, Burlington, Ontario, Canada",236
+627,CA,Toronto,Footprints Resort,"Hastings Highlands, Bancroft, Ontario, Canada",78
+628,CA,Toronto,Haya Toronto House,"594 Dundas St W, Toronto, Ontario, Canada",4
+629,CA,Toronto,Woodhaven Country Lodge,"97 Fire Route 51, Lakehurst, Municipality of Trent Lakes, Ontario, Canada",80
+630,CA,Toronto,Parry Sound Inn and Suites,"292 Louisa St, Parry Sound, Northeastern Ontario, Ontario, Canada",477
+631,CA,Toronto,Clarion Hotel,"117 Elm St, Sudbury, Northeastern Ontario, Ontario, Canada",297
+632,CA,Toronto,Budget Inn,"4510 County 2 Rd, Port Hope, Ontario, Canada",70
+633,CA,Toronto,Rosseau's Northern Landing Bed and Breakfast,"18 Knowles Crescent, Rosseau, Northeastern Ontario, Ontario, Canada",34
+634,CA,Toronto,Travelodge Bracebridge,"320 Taylor Rd, Bracebridge, Muskoka District, Ontario, Canada",352
+635,CA,Toronto,Creemore House Inn,"201 Mill St, Creemore, Clearview Township, Ontario, Canada",37
+636,CA,Toronto,Arbour Garden Bed & Breakfast,"46 Waterloo St N, Stratford, Ontario, Canada",47
+637,CA,Toronto,St. Andrews House Bed & Breakfast,"330 Gate Street, Niagara-on-the-Lake, Ontario, Canada",52
+638,CA,Toronto,Hidden Cove Cottage Resort,"Rr1 2040 Hartsmere Rd RR 1, McArthurs Mills, Ontario, Canada",47
+639,CA,Toronto,Cedar Gables Bed and Breakfast,"107 Flynn Street, Niagara-on-the-Lake, Ontario, Canada",51
+640,CA,Toronto,Simcoe Suites on the Henley,"20 Simcoe St, St. Catharines, Ontario, Canada",36
+641,CA,Toronto,Jabberwock Guesthouse,"12700 5th Line, Rockwood, Ontario, Canada",28
+642,CA,Toronto,Robbins' Tuktawayin B&B,"130 Sixth St, Gravenhurst, Muskoka District, Ontario, Canada",37
+643,CA,Toronto,Limestone B&B,"47 Forsyth Street, Marmora, Ontario, Canada",45
+644,CA,Toronto,Arrowhead RV Park,"1375 A Major Trail, Ile-des-Chenes, Manitoba, Canada",37
+645,CA,Toronto,"Holiday Inn Express & Suites Barrie, an IHG Hotel","506 Bryne Dr, Barrie, Ontario, Canada",204
+646,CA,Toronto,"Holiday Inn Express Whitby Oshawa, an IHG Hotel","180 Consumers Drive, Whitby, Ontario, Canada",213
+647,CA,Toronto,Admiral Inn Burlington,"3500 Billings Court, Burlington, Ontario, Canada",258
+648,CA,Toronto,Quality Inn Leamington,"279 Erie St S, Leamington, Ontario, Canada",223
+649,CA,Toronto,Plank Road Cottages & Marina,"5303 Plank Road, Gores Landing, Ontario, Canada",28
+650,CA,Toronto,Villa Alexandrea Bed & Breakfast,"5287 River Rd, Niagara Falls, Ontario, Canada",111
+651,CA,Toronto,Waterfalls Lodge,"432 Waterfalls Road, Spanish, Northeastern Ontario, Ontario, Canada",96
+652,CA,Toronto,Casa Java Bed & Breakfast,"2499 Keitel Dr, Peterborough, Ontario, Canada",91
+653,CA,Toronto,Lost Lake Wilderness Lodge,"Highway 560 West, Elk Lake, Northeastern Ontario, Ontario, Canada",108
+654,CA,Toronto,Auberge Aucoin,"87 De l'Eglise St, Edmundston, New Brunswick, Canada",102
+655,CA,Toronto,"Holiday Inn Laval - Montreal, an IHG Hotel","2900 Boul Le Carrefour, Laval, Quebec, Canada",264
+656,CA,Toronto,Fern Glen Inn B&B,"1462 Fern Glen Road, Emsdale, Northeastern Ontario, Ontario, Canada",63
+657,CA,Toronto,Four Winds Cottage Resort,"508 Hurdville Rd, Parry Sound, Northeastern Ontario, Ontario, Canada",69
+658,CA,Toronto,Mackechnie House Bed and Breakfast,"173 Tremaine St, Cobourg, Ontario, Canada",63
+659,CA,Toronto,Mill Lake Cottage Resort,"56 Mill Lake Shores, Parry Sound, Northeastern Ontario, Ontario, Canada",42
+660,CA,Toronto,Red Bay Lodge,"462 Huron Rd, Red Bay, Bruce County, Ontario, Canada",91
+661,CA,Toronto,Sauble Beach Lodge,"213 Second Ave N, Sauble Beach, Bruce County, Ontario, Canada",184
+662,CA,Toronto,Wild Swan Bed & Breakfast Inn,"65 Invergordon Street, Minden, Ontario, Canada",53
+663,CA,Toronto,Oakwood Escape,"7445 Highway 3 West, Dunnville, Haldimand, Ontario, Canada",31
+664,CA,Toronto,Northwest Lodge Bed & Breakfast,"Trepassey, Newfoundland, Newfoundland and Labrador, Canada",187
+665,CA,Toronto,HI Calgary City Centre,"520 7 Ave SE, Calgary, Alberta, Canada",218
+666,CA,Toronto,Sunset Inn on the Park,"641 Lakeshore Dr, North Bay, Northeastern Ontario, Ontario, Canada",191
+667,CA,Toronto,Motel Loupi,"50 rue de l'Ancrage, Riviere du Loup, Bas-Saint-Laurent, Quebec, Canada",247
+668,CA,Toronto,Auberge Sur Mer,"363 Du Fleuve Rd, Notre-Dame-du-Portage, Bas-Saint-Laurent, Quebec, Canada",204
+669,CA,Toronto,Hotel 1212,"612, Avenue Principale, Degelis, Bas-Saint-Laurent, Quebec, Canada",81
+670,CA,Toronto,Bay Motel,"4335 Highway 11 N, North Bay, Northeastern Ontario, Ontario, Canada",39
+671,CA,Toronto,Travel Inn & Suites,"915 George Street, Hearst, Northeastern Ontario, Ontario, Canada",64
+672,CA,Toronto,Four Winds Motel,"100 Keewatin Avenue, Longlac, Thunder Bay District, Ontario, Canada",87
+673,CA,Toronto,Hotel Centre-Ville,"3 boulevard Tache Est, Montmagny, Chaudiere-Appalaches, Quebec, Canada",226
+674,CA,Toronto,Econo Lodge St. Apollinaire,"372 rue Laurier, Saint-Apollinaire, Chaudiere-Appalaches, Quebec, Canada",71
+675,CA,Toronto,Historic Snowbridge - Resort Homes by Blue Mountain Resort,"108 Jozo Weider Blvd, Blue Mountains, Grey County, Ontario, Canada",37
+676,CA,Toronto,Friday Harbour Resort,"391 Big Bay Point Rd, Innisfil, Ontario, Canada",30
+677,CA,Toronto,Auberge Eldo Inn,"3 White Road, Blind River, Northeastern Ontario, Ontario, Canada",65
+678,CA,Toronto,Comfort Inn Trois Rivieres,"6255 rue Corbeil, Trois-Rivieres, Quebec, Canada",105
+679,CA,Toronto,Safari Inn Motel,"810 South Service Rd E, Swift Current, Saskatchewan, Canada",62
+680,CA,Toronto,Pleasant Manor Motel,"Off Highway 26-9656 Beachwood Rd, Collingwood, Ontario, Canada",48
+681,CA,Toronto,Comfort Inn,"2 Dunlop Dr, St. Catharines, Ontario, Canada",156
+682,CA,Toronto,Trinity House Inn,"90 Stone St S, Gananoque, Ontario, Canada",222
+683,CA,Toronto,"Knights Inn Huntsville, ON","69 Main St W, Huntsville, Muskoka District, Ontario, Canada",200
+684,CA,Toronto,The Marigold Hotel,"226 Queen St E, Brampton, Ontario, Canada",186
+685,CA,Toronto,Iron Kettle B&B,"7005 Essex County Rd 46, Comber, Lakeshore, Ontario, Canada",117
+686,CA,Toronto,Canadas Best Value Inn & Suites Woodstock,"168 Route 555, Woodstock, New Brunswick, Canada",124
+687,CA,Toronto,Deer Lake Motel,"15 Trans Canada Hwy, Deer Lake, Newfoundland, Newfoundland and Labrador, Canada",112
+688,CA,Toronto,Mountain View Motel,"18508 Hwy 60, Barry's Bay, Ontario, Canada",71
+689,CA,Toronto,"Holiday Inn Express & Suites Gatineau - Ottawa, an IHG Hotel","11 Impasse de la Gare-Talon, Gatineau, Outaouais Region, Quebec, Canada",120
+690,CA,Toronto,Century Motel,"1209 Brookdale Ave, Cornwall, Ontario, Canada",85
+691,CA,Toronto,Travelodge by Wyndham Trois-Rivieres,"3600 Boul. Gene H Kruger, Trois-Rivieres, Quebec, Canada",327
+692,CA,Toronto,Pine Grove Motel,"1515 Trunk Road, Highway 17 East, Sault Ste. Marie, Northeastern Ontario, Ontario, Canada",68
+693,CA,Toronto,Lantern Bay Resort - Great Blue Resorts,"1336 Morrison Lake Rd S, Gravenhurst, Muskoka District, Ontario, Canada",30
+694,CA,Toronto,Courtyard by Marriott Montreal Downtown,"380 Rene-Levesque Boulevard West, Montreal, Quebec, Canada",1187
+695,CA,Toronto,The Bavarian Inn,"9181 Hwy 17, Bruce Mines, Northeastern Ontario, Ontario, Canada",67
+696,CA,Toronto,Best Western Fireside Inn,"1217 Princess St, Kingston, Ontario, Canada",1521
+697,CA,Toronto,Sheraton Fallsview Hotel,"5875 Falls Avenue, Niagara Falls, Ontario, Canada",9415
+698,CA,Toronto,Fairmont Chateau Laurier,"1 Rideau Street, Ottawa, Ontario, Canada",4346
+699,CA,Toronto,White Fang Motel,"Hwy 17 S, Wawa, Northeastern Ontario, Ontario, Canada",101
+700,CA,Toronto,Orange Bicycle Guesthouse and Gardens,"5 Warner Bay Rd, Tobermory, Bruce County, Ontario, Canada",91
+701,CA,Toronto,Wolseley Lodge,"2652 Highway 528, Wolseley Bay, French River, Northeastern Ontario, Ontario, Canada",57
+702,CA,Toronto,Daniel's Musical Hideaway,"118 Isabella St, Toronto, Ontario, Canada",4
+703,CA,Toronto,Skydome Furnished Residences,"373 Front St W, Toronto, Ontario, Canada",1
+704,CA,Toronto,Hotel Clique Calgary Airport,"24 Aero Cres NE, Calgary, Alberta, Canada",1354
+705,CA,Toronto,Quattro Hotel & Conference Centre,"229 Great Northern Rd, Sault Ste. Marie, Northeastern Ontario, Ontario, Canada",1138
+706,CA,Toronto,Motel Au Vieux Piloteux,"185 rue Fraser, Riviere du Loup, Bas-Saint-Laurent, Quebec, Canada",157
+707,CA,Toronto,Haliburton Heights Resort,"1701 Wigamog Rd, Haliburton, Ontario, Canada",101
+708,CA,Toronto,Lumina Resort,"1348 Fox Point Rd, Muskoka District, Ontario, Canada",69
+709,CA,Toronto,Hotel Repotel Duplessis - Aeroport,"6555 Wilfrid-Hamel Blvd, L'Ancienne-Lorette, Quebec, Canada",226
+710,CA,Toronto,Lakeshore Bed and Breakfast,"667 Lakeshore Rd, Fort Erie, Ontario, Canada",79
+711,CA,Toronto,South in Milford,"2832 County Road 10, Picton, Prince Edward County, Ontario, Canada",3
+712,CA,Toronto,Wade's Place Bed & Breakfast,"7 Beck Dr, Markham, Ontario, Canada",4
+713,CA,Toronto,Streeter's Landing Bed & Breakfast,"Utterson, Bracebridge, Muskoka District, Ontario, Canada",2
+714,CA,Toronto,Fairfield Inn & Suites Belleville,"407 North Front St, Belleville, Ontario, Canada",346
+715,CA,Toronto,Hilton Garden Inn Kitchener,"746 Old Hespeler Road, Cambridge, Region of Waterloo, Ontario, Canada",704
+716,CA,Toronto,Yellow Door Bed And Breakfast,"308 Helen St., Crystal Beach, Fort Erie, Ontario, Canada",101
+717,CA,Toronto,Comfort Inn - Highway 401,"55 Warne Cres, Kingston, Ontario, Canada",247
+718,CA,Toronto,Atlas Suites - Rogers Centre,"250 Wellington St W, Toronto, Ontario, Canada",1
+719,CA,Toronto,Ste. Anne's Spa,"1009 Massey Rd, Grafton, Ontario, Canada",1692
+720,CA,Toronto,"The Algonquin Resort St. Andrews by-the-Sea, Autograph Collection","184 Adolphus Street, Saint Andrews, New Brunswick, Canada",1423
+721,CA,Toronto,Fairmont Le Chateau Frontenac,"1 Rue des Carrieres, Quebec City, Quebec, Canada",7422
+722,CA,Toronto,Oban Inn,"160 Front Street, Niagara-on-the-Lake, Ontario, Canada",779
+723,CA,Toronto,Delta Hotels by Marriott St. John's Conference Centre,"120 New Gower St, St. John's, Newfoundland, Newfoundland and Labrador, Canada",1242
+724,CA,Toronto,O'Canada Guest House,"230 Shuter St, Toronto, Ontario, Canada",3
+725,CA,Toronto,Kensington Guest House,"3 Kensington Ave, Toronto, Ontario, Canada",2
+726,CA,Toronto,E Residential Luxury Rental,"Monteith Street, Toronto, Ontario, Canada",3
+727,CA,Toronto,E.s.i Furnished Suites At Fly Condos,"352 Front St W, Toronto, Ontario, Canada",1
+728,CA,Toronto,Alisa Guest Suites,"100 Pembroke St, Toronto, Ontario, Canada",1
+729,CA,Toronto,Chinatown Family House,"584 Dundas St W, Toronto, Ontario, Canada",4
+730,CA,Toronto,Kingsbridge Inn,"268 Main St, Wasaga Beach, Ontario, Canada",65
+731,CA,Toronto,CampusOne Student Residence Downtown Toronto,"Campusone 253 College St, Toronto, Ontario, Canada",7
+732,CA,Toronto,HI- Niagara Falls,"4549 Cataract Ave, Niagara Falls, Ontario, Canada",218
+733,CA,Toronto,M Montreal,"1245 rue St-Andre, Montreal, Quebec, Canada",503
+734,CA,Toronto,The Bruce Hotel,"89 Parkview Dr, Stratford, Ontario, Canada",298
+735,CA,Toronto,Renaissance Montreal Downtown Hotel,"1250 Boulevard Robert-Bourassa, Montreal, Quebec, Canada",529
+736,CA,Toronto,"Homewood Suites by Hilton Hamilton, Ontario, Canada","40 Bay St S, Hamilton, Ontario, Canada",997
+737,CA,Toronto,Applewood Bed and Breakfast,"1208 Greening Ave, Mississauga, Ontario, Canada",1
+738,CA,Toronto,Les Suites de Laviolette Ascend Hotel Collection,"7201 rue Notre-Dame Ouest, Trois-Rivieres, Quebec, Canada",194
+739,CA,Toronto,Auberge du Chemin Faisant,"12 Vieux Chemin, Temiscouata-sur-le-Lac, Bas-Saint-Laurent, Quebec, Canada",57
+740,CA,Toronto,MGM Seashore Bed & Breakfast,"4950 Fillinger Cres, Nanaimo, Vancouver Island, British Columbia, Canada",229
+741,CA,Toronto,AWAY in the County,"166 County Rd 18, Picton, Prince Edward County, Ontario, Canada",212
+742,CA,Toronto,Heather Lodge,"14483 35 Hwy, Minden, Ontario, Canada",274
+743,CA,Toronto,Hav A Nap Motel,"2733 Kingston Rd, Toronto, Ontario, Canada",14
+744,CA,Toronto,Rising Spirit B&B Retreat,"7167 Carscadden Rd, Ontario, Canada",6
+745,CA,Toronto,Horseshoe Resort,"1101 Horseshoe Valley Rd W, Barrie, Ontario, Canada",2047
+746,CA,Toronto,Couples Resort,"139 End Galeairy Lake Road, Whitney, Northeastern Ontario, Ontario, Canada",1143
+747,CA,Toronto,Old Stone Inn Boutique Hotel,"6080 Fallsview Blvd, Niagara Falls, Ontario, Canada",1308
+748,CA,Toronto,Confederation Place Hotel,"237 Ontario St, Kingston, Ontario, Canada",480
+749,CA,Toronto,DoubleTree Fallsview Resort & Spa by Hilton - Niagara Falls,"6039 Fallsview Blvd, Niagara Falls, Ontario, Canada",4043
+750,CA,Toronto,Hockley Valley Resort,"793522 Mono 3rd Line, Mono, Ontario, Canada",907
+751,CA,Toronto,The Inn at Spry Point,"222 Ark Lane, Annandale-Little Pond-Howe Bay, Prince Edward Island, Canada",90
+752,CA,Toronto,Hotel Halifax,"1990 Barrington St, Halifax, Halifax Regional Municipality, Nova Scotia, Canada",858
+753,CA,Toronto,Lakeside Suites Crystal Beach,"3827 Crystal Beach Drive, Crystal Beach, Fort Erie, Ontario, Canada",32
+754,CA,Toronto,Seafarer's Bed and Breakfast,"1212 Lynn Rd, Tofino, Clayoquot Sound, Alberni-Clayoquot Regional District, Vancouver Island, British Columbia, Canada",55
+755,CA,Toronto,Le Germain Hotel Calgary,"899 Centre St SW, Calgary, Alberta, Canada",1144
+756,CA,Toronto,Delta Hotels by Marriott Waterloo,"110 Erb St W, Waterloo, Region of Waterloo, Ontario, Canada",428
+757,CA,Toronto,Pinery Provincial Park,"Rr 2, Grand Bend, Lambton Shores, Ontario, Canada",231
+758,CA,Toronto,Knights Inn Kitchener,"1455 Weber St E, Kitchener, Region of Waterloo, Ontario, Canada",130
+759,CA,Toronto,Place St-Bernard,"135 Chemin de Kandahar, Mont Tremblant, Quebec, Canada",287
+760,CA,Toronto,The Piano Inn 1884,"217 Queen St, Port Perry, Ontario, Canada",155
+761,CA,Toronto,The Dawson House,"122 North River Rd, Charlottetown, Prince Edward Island, Canada",160
+762,CA,Toronto,Blue Gables Bed & Breakfast,"4305 Simcoe St, Niagara Falls, Ontario, Canada",229
+763,CA,Toronto,Auberge West Brome,"128 Route 139, West Brome, Lac-Brome, Quebec, Canada",443
+764,CA,Toronto,Lazy Bear Lodge,"313 Kelsey Blvd., Churchill, Manitoba, Canada",253
+765,CA,Toronto,Accueil Chez Francois B&B,"4031 Papineau, Montreal, Quebec, Canada",386
+766,CA,Toronto,Stone Gate Inn,"437 Laclie St, Orillia, Ontario, Canada",753
+767,CA,Toronto,Camping in Muskoka,"1083 Reay Rd E, Gravenhurst, Muskoka District, Ontario, Canada",35
+768,CA,Toronto,Travelodge Barrie On Bayfield,"300 Bayfield St, Barrie, Ontario, Canada",962
+769,CA,Toronto,Atlas Suites Toronto,"15 Iceboat Terr, Toronto, Ontario, Canada",10
+770,CA,Toronto,Four Points by Sheraton Vaughan,"3400 Steeles Avenue West, Concord, Vaughan, Ontario, Canada",4
+771,CA,Toronto,Days Inn by Wyndham London,"1100 Wellington Rd, London, Ontario, Canada",678
+772,CA,Toronto,Ellis House Bed and Breakfast,"4284 Ellis St, Niagara Falls, Ontario, Canada",169
+773,CA,Toronto,Ahmic Lake Resort,"50 Robinson Rd, Ahmic Harbour, Northeastern Ontario, Ontario, Canada",28
+774,CA,Toronto,Airport Motor Inn Marathon,"Trans-Canada Highway 17 & Peninsula Road, Marathon, Thunder Bay District, Ontario, Canada",153
+775,CA,Toronto,Novotel Montreal Centre,"1180 Rue de la Montagne, Montreal, Quebec, Canada",2215
+776,CA,Toronto,Niagara Falls Marriott Fallsview Hotel & Spa,"6740 Fallsview Blvd, Niagara Falls, Ontario, Canada",8984
+777,CA,Toronto,Travelodge by Wyndham Niagara Falls Fallsview,"5599 River Rd, Niagara Falls, Ontario, Canada",1308
+778,CA,Toronto,Aloft Montreal Airport,"500 McMillan Ave, Dorval, Quebec, Canada",958
+779,CA,Toronto,Moffat Inn,"60 Picton St., Niagara-on-the-Lake, Ontario, Canada",339
+780,CA,Toronto,Auberge Saintlo Montreal,"1030 Mackay, Montreal, Quebec, Canada",460
+781,CA,Toronto,TownePlace Suites by Marriott Saskatoon,"247 Willis Crescent, Saskatoon, Saskatchewan, Canada",115
+782,CA,Toronto,Panorama Camp - Cottages and Trailer Park,"121A Du Lac Ave, Lavigne, Northeastern Ontario, Ontario, Canada",14
+783,CA,Toronto,Tincup Wilderness Lodges,"Tincup Lake, Tincup Lake, Yukon, Canada",19
+784,CA,Toronto,"The Water Tower Inn, BW Premier Collection","360 Great Northern Rd, Sault Ste. Marie, Northeastern Ontario, Ontario, Canada",1046
+785,CA,Toronto,Days Inn by Wyndham Ste. Helene-de-Bagot,"410 rue Couture, Sainte-Helene-de-Bagot, Quebec, Canada",151
+786,CA,Toronto,Harlem Stonegate B&B,"2341 Harlem Rd., Elgin, Rideau Lakes, Ontario, Canada",53
+787,CA,Toronto,Elegant Suite at Bloor Bathurst,"700 Bathurst St, Toronto, Ontario, Canada",2
+788,CA,Toronto,Blue Pigeon Resort,"79 Fire Rt 103B, Municipality of Trent Lakes, Ontario, Canada",66
+789,CA,Toronto,Comfort Inn Simcoe,"85 Queensway E, Simcoe, Norfolk County, Ontario, Canada",116
+790,CA,Toronto,Comfort Inn & Suites,"20 Samnah Cres, Ingersoll, Ontario, Canada",137
+791,CA,Toronto,Comfort Inn Hamilton,"183 Centennial Pky N, Hamilton, Ontario, Canada",154
+792,CA,Toronto,Bissell's Hideaway,"205 Metler Rd, Pelham, Ontario, Canada",187
+793,CA,Toronto,Newmarket Hotel and Suites,"100 Pony Dr, Newmarket, Ontario, Canada",269
+794,CA,Toronto,Norfolk Guest House,"102 Eramosa Rd, Guelph, Ontario, Canada",186
+795,CA,Toronto,The Red Coat,"5 Front Street South, Queenston, Niagara-on-the-Lake, Ontario, Canada",201
+796,CA,Toronto,B&B Le Cartier,"1219 Rue Cartier, Montreal, Quebec, Canada",190
+797,CA,Toronto,Pine Lodge Inn,"484 Muskoka Rd 10, Port Sydney, Huntsville, Muskoka District, Ontario, Canada",158
+798,CA,Toronto,Twin Maples Bed and Breakfast,"226 Water St, Cobourg, Ontario, Canada",33
+799,CA,Toronto,Days Inn by Wyndham Trois-Rivieres,"3155 Boulevard Saint Jean, Trois-Rivieres, Quebec, Canada",238
+800,CA,Toronto,Red Rock Inn,"145 White Boulevard, Red Rock, Thunder Bay District, Ontario, Canada",97
+801,CA,Toronto,Massey Motel,"295 Sable St W, Massey, Northeastern Ontario, Ontario, Canada",39
+802,CA,Toronto,Good Night Motel,"664 Main St W, Port Colborne, Ontario, Canada",55
+803,CA,Toronto,Swallowdale Inn B & B,"46 Roe Rd, Huntsville, Muskoka District, Ontario, Canada",87
+804,CA,Toronto,Terrace Guest House,"298 Jarvis Street, Suite 303, Toronto, Ontario, Canada",2
+805,CA,Toronto,Motel Le Magistral,"556 Chemin de Desserte Nord, Villeroy, Quebec, Canada",4
+806,CA,Toronto,Merland Park Cottages,"12488 Loyalist Parkway, Picton, Prince Edward County, Ontario, Canada",86
+807,CA,Toronto,Blue Water Acres,"1052 Rat Bay Rd, Huntsville, Muskoka District, Ontario, Canada",81
+808,CA,Toronto,The Roehampton Hotel,"808 Mount Pleasant Rd, Toronto, Ontario, Canada",1
+809,CA,Toronto,Ansaku,"RR#2 606127 Sideroad 13a, Markdale, Grey County, Ontario, Canada",14
+810,CA,Toronto,Gite Passion Tendresse (B&B),"130 Chemin de Fulford, Shefford, Quebec, Canada",14
+811,CA,Toronto,Thistlebrae B&B,"146 Garafraxa St E, Fergus, Centre Wellington, Ontario, Canada",10
