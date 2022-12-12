@@ -1,0 +1,718 @@
+Index,Country,City,Hotel,Address,Popularity,Latitude,Longitude
+1,US,Chicago,Hyatt Regency Chicago,"151 East Wacker Drive, Chicago, Illinois",10744,41.88756,-87.62193
+2,US,Chicago,Hyatt Regency O'Hare Chicago,"9300 Bryn Mawr Ave, Rosemont, Illinois",5018,41.98133,-87.85901
+3,US,Chicago,Virgin Hotels Chicago,"203 N Wabash Ave, Chicago, Illinois",2881,41.88592,-87.62614
+4,US,Chicago,"LondonHouse Chicago, Curio Collection by Hilton","85 E Wacker Drive, Chicago, Illinois",3322,41.88795,-87.62503
+5,US,Chicago,Trump International Hotel & Tower Chicago,"401 N. Wabash Avenue, Chicago, Illinois",4354,41.88902,-87.62655
+6,US,Chicago,Loews Chicago O'Hare Hotel,"5300 N River Rd, Rosemont, Illinois",2502,41.97427,-87.86354
+7,US,Chicago,Swissotel Chicago,"323 East Upper Wacker Drive, Chicago, Illinois",6112,41.88733,-87.6195
+8,US,Chicago,Chicago Athletic Association Hotel,"12 S Michigan Ave, Chicago, Illinois",3072,41.88165,-87.62502
+9,US,Chicago,"InterContinental Chicago Magnificent Mile, an IHG Hotel","505 North Michigan Ave, Chicago, Illinois",6704,41.89101,-87.6239
+10,US,Chicago,Waldorf Astoria Chicago,"11 E. Walton St, Chicago, Illinois",3284,41.89985,-87.62757
+11,US,Chicago,Hyatt Lodge Oak Brook Chicago,"2815 Jorie Blvd, Oak Brook, DuPage County, Illinois",1561,41.8365,-87.94724
+12,US,Chicago,"The Langham, Chicago","330 N. Wabash Avenue, Chicago, Illinois",3514,41.88865,-87.62746
+13,US,Chicago,Hilton Chicago,"720 South Michigan Avenue, Chicago, Illinois",6686,41.87253,-87.62478
+14,US,Chicago,Thompson Chicago,"21 East Bellevue Place, Chicago, Illinois",3264,41.90139,-87.6274
+15,US,Chicago,Sofitel Chicago Magnificent Mile,"20 East Chestnut St - Downtown, Chicago, Illinois",5270,42.26842,-89.09202
+16,US,Chicago,Four Seasons Hotel Chicago,"120 E. Delaware Place, Chicago, Illinois",3967,41.89932,-87.62494
+17,US,Chicago,Fairmont Chicago Millennium Park,"200 N Columbus Dr, Chicago, Illinois",3977,41.88606,-87.62114
+18,US,Chicago,The Godfrey Hotel Chicago,"127 West Huron at LaSalle, Chicago, Illinois",3371,41.89459,-87.63196
+19,US,Chicago,"Hotel Chicago Downtown, Autograph Collection","333 N Dearborn St, Chicago, Illinois",1785,41.88853,-87.62899
+20,US,Chicago,Hyatt Centric Chicago Magnificent Mile,"633 North Saint Clair Street, Chicago, Illinois",3390,41.89381,-87.62258
+21,US,Chicago,Loews Chicago Hotel,"455 N Park Dr, Chicago, Illinois",3494,41.89005,-87.61909
+22,US,Chicago,Kimpton Hotel Monaco Chicago,"225 N Wabash Ave, Chicago, Illinois",2760,41.88634,-87.62614
+23,US,Chicago,Hampton Inn Majestic Chicago Theatre District,"22 W. Monroe, Chicago, Illinois",2733,41.88083,-87.62849
+24,US,Chicago,"Ambassador Chicago, JDV by Hyatt","1301 N State Pkwy, Chicago, Illinois",1324,41.90581,-87.62868
+25,US,Chicago,Omni Chicago Hotel,"676 N Michigan Ave, Chicago, Illinois",4256,41.89474,-87.62494
+26,US,Chicago,Silversmith Hotel Chicago Downtown,"10 S Wabash Ave, Chicago, Illinois",2557,41.88184,-87.62635
+27,US,Chicago,W Chicago - City Center,"172 West Adams Street, Chicago, Illinois",2924,41.87973,-87.63314
+28,US,Chicago,Viceroy Chicago,"1118 N State Street, Chicago, Illinois",1430,41.90261,-87.62857
+29,US,Chicago,"Staypineapple, An Iconic Hotel, The Loop Chicago","1 W Washington St, Chicago, Illinois",3013,41.8831,-87.62815
+30,US,Chicago,Best Western Chicago Downtown-River North,"125 W Ohio St, Chicago, Illinois",3195,41.89218,-87.63231
+31,US,Chicago,The Westin Michigan Avenue Chicago,"909 North Michigan Avenue, Chicago, Illinois",3069,41.8995,-87.62349
+32,US,Chicago,Hilton Garden Inn Chicago Downtown/Magnificent Mile,"10 E. Grand Avenue, Chicago, Illinois",3067,41.8918,-87.62762
+33,US,Chicago,Embassy Suites by Hilton Chicago Downtown River North,"600 North State Street, Chicago, Illinois",3274,41.89287,-87.62858
+34,US,Chicago,Embassy Suites by Hilton Chicago Downtown Magnificent Mile,"511 North Columbus Drive, Chicago, Illinois",4246,41.89142,-87.61968
+35,US,Chicago,The Peninsula Chicago,"108 E Superior St, Chicago, Illinois",2063,41.89623,-87.62497
+36,US,Chicago,Sheraton Grand Chicago,"301 East North Water Street, Chicago, Illinois",5794,41.88914,-87.61945
+37,US,Chicago,Renaissance Chicago Downtown Hotel,"1 W Wacker Dr, Chicago, Illinois",2133,41.8863,-87.62848
+38,US,Chicago,"Radisson Blu Aqua Hotel, Chicago","221 North Columbus Drive, Chicago, Illinois",6085,41.88652,-87.62025
+39,US,Chicago,The Royal Sonesta Chicago River North,"505 N. State Street, Chicago, Illinois",3185,41.89111,-87.62764
+40,US,Chicago,"Club Quarters Hotel Central Loop, Chicago","111 W Adams St, Chicago, Illinois",2903,41.87934,-87.63094
+41,US,Chicago,theWit Chicago - a DoubleTree by Hilton Hotel,"201 N. State Street, Chicago, Illinois",3453,41.88604,-87.6276
+42,US,Chicago,Homewood Suites by Hilton Chicago-Downtown,"40 East Grand Avenue, Chicago, Illinois",3446,41.89181,-87.62644
+43,US,Chicago,Chicago Marriott Downtown Magnificent Mile,"540 N Michigan Ave, Chicago, Illinois",3345,41.89195,-87.6244
+44,US,Chicago,Park Hyatt Chicago,"800 N Michigan Ave, Chicago, Illinois",2301,41.89679,-87.62437
+45,US,Chicago,Chicago South Loop Hotel,"11 West 26th Street, Chicago, Illinois",2297,41.84536,-87.62753
+46,US,Chicago,Chicago Getaway Hostel,"616 W Arlington Pl, Chicago, Illinois",1956,41.92683,-87.64464
+47,US,Chicago,Hampton Inn & Suites Chicago-Downtown,"33 West Illinois, Chicago, Illinois",3260,41.83465,-87.62786
+48,US,Chicago,SpringHill Suites Chicago O'Hare,"8101 W Higgins Rd, Rosemont, Illinois",1289,41.99413,-87.8688
+49,US,Chicago,Hotel Versey Days Inn by Wyndham Chicago,"644 W Diversey Pkwy, Chicago, Illinois",3198,41.93292,-87.64529
+50,US,Chicago,Hilton Chicago/Magnificent Mile Suites,"198 E. Delaware Place, Chicago, Illinois",2789,41.89956,-87.62215
+51,US,Chicago,Hampton Inn Chicago-Midway Airport,"6540 S. Cicero Ave., Bedford Park, Illinois",955,41.77394,-87.74258
+52,US,Chicago,W Chicago - Lakeshore,"644 N Lake Shore Dr, Chicago, Illinois",2285,41.894,-87.61533
+53,US,Chicago,Fairfield Inn & Suites by Marriott Chicago Downtown/Magnificent Mile,"216 E Ontario St, Chicago, Illinois",2075,41.89348,-87.622
+54,US,Chicago,Aloft Chicago O'Hare,"9700 Balmoral Ave, Rosemont, Illinois",1114,41.97732,-87.86714
+55,US,Chicago,The Westin Chicago Lombard,"70 Yorktown Shopping Ctr, Lombard, DuPage County, Illinois",1016,41.84271,-88.00225
+56,US,Chicago,The Westin Chicago River North,"320 North Dearborn Street, Chicago, Illinois",2282,41.88823,-87.62962
+57,US,Chicago,Warwick Allerton - Chicago,"701 N Michigan Avenue, Chicago, Illinois",2780,41.89508,-87.62402
+58,US,Chicago,Hilton Chicago/Oak Brook Hills Resort & Conference Center,"3500 Midwest Road, Oak Brook, DuPage County, Illinois",1708,41.82137,-87.97267
+59,US,Chicago,Hilton Chicago/Oak Lawn,"9333 South Cicero Avenue, Oak Lawn, Illinois",1074,41.7229,-87.74067
+60,US,Chicago,Gale Chicago,"201 E Delaware Pl, Chicago, Illinois",2461,41.89899,-87.62159
+61,US,Chicago,Travelodge by Wyndham Downtown Chicago,"65 E Harrison St, Chicago, Illinois",2627,41.87424,-87.62551
+62,US,Chicago,SpringHill Suites Chicago Downtown/River North,"410 North Dearborn Street, Chicago, Illinois",1601,41.88963,-87.62987
+63,US,Chicago,Hyatt Place Chicago / River North,"66 W Illinois St, Chicago, Illinois",2606,41.89094,-87.63045
+64,US,Chicago,Sheraton Suites Chicago O'Hare,"6501 Mannheim Road, Rosemont, Illinois",1124,41.99717,-87.88381
+65,US,Chicago,Hampton Inn & Suites Chicago-North Shore/Skokie,"5201 Old Orchard Road, Skokie, Illinois",1437,42.06168,-87.75665
+66,US,Chicago,La Quinta Inn & Suites by Wyndham Chicago Downtown,"One South Franklin, Chicago, Illinois",1832,41.87808,-87.6352
+67,US,Chicago,Renaissance Chicago North Shore Hotel,"933 Skokie Blvd, Northbrook, Illinois",685,42.13523,-87.78826
+68,US,Chicago,Hilton Garden Inn Chicago/Midway Airport,"6530 S Cicero Ave, Bedford Park, Illinois",653,41.77423,-87.7464
+69,US,Chicago,Hyatt Place Chicago / Downtown - The Loop,"28 N Franklin St, Chicago, Illinois",1842,41.88287,-87.63562
+70,US,Chicago,Millennium Knickerbocker Hotel Chicago,"163 East Walton Place, Chicago, Illinois",1652,41.90016,-87.62311
+71,US,Chicago,DoubleTree by Hilton Hotel Chicago O'Hare Airport - Rosemont,"5460 N River Rd, Rosemont, Illinois",1826,41.97832,-87.8634
+72,US,Chicago,Inn of Chicago Magnificent Mile,"162 E.Ohio St., Chicago, Illinois",2375,41.89267,-87.62348
+73,US,Chicago,JW Marriott Chicago,"151 W Adams St, Chicago, Illinois",1851,41.87917,-87.63282
+74,US,Chicago,DoubleTree by Hilton Hotel Chicago - North Shore Conference Center,"9599 Skokie Blvd, Skokie, Illinois",1486,42.05451,-87.74561
+75,US,Chicago,Residence Inn Chicago Downtown/River North,"410 North Dearborn Street, Chicago, Illinois",1916,41.88963,-87.62987
+76,US,Chicago,Hampton Inn Chicago-O'Hare International Airport,"3939 N. Mannheim Rd., Schiller Park, Illinois",1383,41.9499,-87.88526
+77,US,Chicago,Courtyard by Marriott Chicago Downtown/Magnificent Mile,"165 East Ontario Street, Chicago, Illinois",2035,41.89313,-87.62311
+78,US,Chicago,Chicago Marriott Suites O'Hare,"6155 N River Rd, Rosemont, Illinois",642,41.9885,-87.85913
+79,US,Chicago,Hilton Garden Inn Chicago OHare Airport,"2930 South River Road, Des Plaines, Illinois",1663,42.00081,-87.86456
+80,US,Chicago,Hotel Blake,"500 S Dearborn St, Chicago, Illinois",2428,41.87541,-87.62936
+81,US,Chicago,Embassy Suites by Hilton Chicago North Shore Deerfield,"1445 Lake Cook Rd, Deerfield, Lake County, Illinois",1464,42.15036,-87.86418
+82,US,Chicago,"The Gwen, a Luxury Collection Hotel, Michigan Avenue Chicago","521 North Rush Street, Chicago, Illinois",1359,41.8915,-87.62522
+83,US,Chicago,DoubleTree by Hilton Hotel Chicago - Oak Brook,"1909 Spring Road, Oak Brook, DuPage County, Illinois",1392,41.8528,-87.94677
+84,US,Chicago,Hilton Garden Inn Chicago / Oakbrook Terrace,"1000 Drury Lane, Oakbrook Terrace, DuPage County, Illinois",946,41.86023,-87.95123
+85,US,Chicago,Hyatt House Chicago/Schaumburg,"1251 American Ln, Schaumburg, Illinois",892,42.047,-88.0491
+86,US,Chicago,Hyatt Place Chicago/O'Hare Airport,"6810 Mannheim Rd, Rosemont, Illinois",1036,42.0021,-87.88497
+87,US,Chicago,Hilton Garden Inn Chicago North Shore/Evanston,"1818 Maple Avenue, Evanston, Illinois",909,42.05081,-87.68493
+88,US,Chicago,Hyatt Place Chicago / Lombard / Oak Brook,"2340 South Fountain Square Drive, Lombard, DuPage County, Illinois",970,41.84395,-87.99605
+89,US,Chicago,Hampton Inn & Suites Rosemont Chicago O'Hare,"9480 W. Higgins Road, Rosemont, Illinois",936,41.99229,-87.86241
+90,US,Chicago,The Drake,"140 East Walton Place, Chicago, Illinois",4989,41.90044,-87.6234
+91,US,Chicago,Red Roof Inn Chicago - O'Hare Airport / Arlington Hts,"22 W Algonquin Rd, Arlington Heights, Illinois",593,42.04506,-87.98403
+92,US,Chicago,DoubleTree by Hilton Hotel Chicago - Alsip,"5000 West 127th Street, Alsip, Illinois",1119,41.66309,-87.74448
+93,US,Chicago,Embassy Suites by Hilton Chicago Schaumburg Woodfield,"1939 N Meacham Rd, Schaumburg, Illinois",1238,42.06633,-88.04281
+94,US,Chicago,DoubleTree by Hilton Hotel Chicago Wood Dale - Elk Grove,"1200 N. Mittel Blvd, Wood Dale, DuPage County, Illinois",821,41.98546,-87.98829
+95,US,Chicago,Hilton Chicago/Northbrook,"2855 Milwaukee Ave, Northbrook, Illinois",860,42.1016,-87.88189
+96,US,Chicago,DoubleTree Suites by Hilton Hotel & Conference Center Chicago-Downers Grove,"2111 Butterfield Rd., Downers Grove, DuPage County, Illinois",1019,41.83087,-88.03491
+97,US,Chicago,Fairfield Inn & Suites Chicago Downtown/River North,"60 W Illinois St, Chicago, Illinois",1386,41.89091,-87.62843
+98,US,Chicago,Hyatt House Chicago / West Loop - Fulton Market,"105 N May St, Chicago, Illinois",650,41.88362,-87.65553
+99,US,Chicago,Embassy Suites by Hilton Chicago O'Hare Rosemont,"5500 N River Rd, Rosemont, Illinois",590,41.97907,-87.86319
+100,US,Chicago,Pendry Chicago,"230 N Michigan Ave, Chicago, Illinois",451,41.88662,-87.62475
+101,US,Chicago,Hampton Inn & Suites Chicago Deer Park,"21660 W Lake Cook Rd, Deer Park, Lake County, Illinois",495,42.15454,-88.05639
+102,US,Chicago,Super 8 by Wyndham Chicago O'Hare Airport,"2951 Touhy Ave, Elk Grove Village, Illinois",1094,42.00726,-87.93602
+103,US,Chicago,Hyatt House Chicago / Oak Brook,"210 W 22nd St, Oak Brook, DuPage County, Illinois",558,41.84836,-87.9254
+104,US,Chicago,Hampton Inn and Suites Chicago/Lincolnshire,"1400 Milwaukee Ave, Lincolnshire, Lake County, Illinois",934,42.17905,-87.92651
+105,US,Chicago,Hyatt House Chicago/Evanston,"1515 Chicago Ave, Evanston, Illinois",680,42.04562,-87.67963
+106,US,Chicago,Homewood Suites by Hilton Chicago - Schaumburg,"815 American Ln, Schaumburg, Illinois",914,42.04739,-88.05889
+107,US,Chicago,Wyndham Garden Schaumburg Chicago Northwest,"1725 E Algonquin Rd, Schaumburg, Illinois",513,42.06507,-88.03647
+108,US,Chicago,Red Roof PLUS+ Chicago - Hoffman Estates,"2500 Hassell Rd, Hoffman Estates, Illinois",471,42.06316,-88.14192
+109,US,Chicago,"Country Inn & Suites by Radisson, Chicago O'Hare South, IL","777 E Grand Ave, Bensenville, DuPage County, Illinois",922,41.93196,-87.92501
+110,US,Chicago,Hampton Inn Chicago/Gurnee,"5550 Grand Ave., Gurnee, Lake County, Illinois",757,42.37941,-87.9382
+111,US,Chicago,The Westin Chicago Northwest,"400 Park Blvd, Itasca, DuPage County, Illinois",674,41.98707,-88.01942
+112,US,Chicago,Hampton Inn Chicago Naperville,"1087 East Diehl Rd., Naperville, DuPage County, Illinois",750,41.80323,-88.13028
+113,US,Chicago,Hotel Chicago West Loop,"1622 W Jackson Blvd, Chicago, Illinois",1305,41.87774,-87.66729
+114,US,Chicago,Hyatt Place Chicago/Naperville/Warrenville,"27576 Maecliff Drive, Warrenville, DuPage County, Illinois",657,41.81207,-88.16132
+115,US,Chicago,Embassy Suites by Hilton Chicago Naperville,"1823 Abriter Ct, Naperville, DuPage County, Illinois",768,41.80524,-88.13035
+116,US,Chicago,Chicago Marriott Schaumburg,"50 N Martingale Road, Schaumburg, Illinois",647,42.03002,-88.03267
+117,US,Chicago,Hampton Inn & Suites Chicago-Libertyville,"2061 Shell Drive, Libertyville, Lake County, Illinois",606,42.3047,-88.00329
+118,US,Chicago,Courtyard Chicago Schaumburg/Woodfield Mall,"1311 American Ln, Schaumburg, Illinois",519,42.04587,-88.04769
+119,US,Chicago,Hampton Inn Chicago Downtown/N Loop/Michigan Ave,"68 E Wacker Pl, Chicago, Illinois",1257,41.88704,-87.62542
+120,US,Chicago,Ohio House Motel,"600 North LaSalle Street, Chicago, Illinois",779,39.91513,-87.82284
+121,US,Chicago,La Quinta Inn by Wyndham Chicago O'Hare Airport,"1900 Oakton St, Elk Grove Village, Illinois",674,42.02307,-87.95842
+122,US,Chicago,Sophy-Hyde Park,"1411 E 53rd St, Chicago, Illinois",1037,41.7991,-87.59113
+123,US,Chicago,River Hotel Chicago,"75 East Wacker Drive, Chicago, Illinois",1599,41.88794,-87.62517
+124,US,Chicago,Hampton Inn Chicago Downtown / Magnificent Mile,"160 E. Huron St., Chicago, Illinois",1616,41.89524,-87.62321
+125,US,Chicago,The Westin Chicago North Shore,"601 N Milwaukee Ave, Wheeling, Illinois",548,42.15059,-87.91152
+126,US,Chicago,Sonesta ES Suites Chicago - Schaumburg,"901 East Woodfield Office Court, Schaumburg, Illinois",449,42.04498,-88.05891
+127,US,Chicago,Best Western Plus Chicago Hillside,"4400 Frontage Rd, Hillside, Illinois",540,41.87202,-87.89374
+128,US,Chicago,La Quinta Inn by Wyndham Chicago Willowbrook,"855 79th St, Willowbrook, DuPage County, Illinois",478,41.74511,-87.94216
+129,US,Chicago,DoubleTree by Hilton Hotel Chicago - Arlington Heights,"75 W. Algonquin Road, Arlington Heights, Illinois",789,42.04434,-87.9854
+130,US,Chicago,Super 8 by Wyndham Chicago Northlake O'Hare South,"2080 N Mannheim Rd, Northlake, Illinois",726,41.91529,-87.88463
+131,US,Chicago,Chicago Marriott Naperville,"1801 N Naper Blvd, Naperville, DuPage County, Illinois",511,41.80346,-88.12162
+132,US,Chicago,Hampton Inn Chicago-Carol Stream,"205 W. North Avenue, Carol Stream, DuPage County, Illinois",597,41.9055,-88.12497
+133,US,Chicago,Hilton Garden Inn Chicago/Tinley Park,"18335 Lagrange Rd, Tinley Park, Illinois",710,41.55758,-87.85116
+134,US,Chicago,Hampton Inn Chicago/Tinley Park,"18501 North Creek Drive, Tinley Park, Illinois",454,41.55565,-87.79478
+135,US,Chicago,The Allegro Royal Sonesta Hotel Chicago Loop,"171 W. Randolph Street, Chicago, Illinois",1375,41.88427,-87.63269
+136,US,Chicago,SureStay Plus Hotel By Best Western Chicago Lombard,"222 E 22nd St, Lombard, DuPage County, Illinois",457,41.84647,-88.00968
+137,US,Chicago,Hilton Chicago / Oak Brook Suites,"10 Drury Lane, Oakbrook Terrace, DuPage County, Illinois",1332,41.85954,-87.95405
+138,US,Chicago,Majestic Hotel Chicago,"528 W Brompton Ave, Chicago, Illinois",1296,41.94739,-87.64424
+139,US,Chicago,Hyatt Regency McCormick Place,"2233 S Martin Luther King Dr., Chicago, Illinois",6557,41.80918,-87.61624
+140,US,Chicago,The Talbott Hotel,"20 E Delaware Place, Chicago, Illinois",4436,41.89925,-87.62734
+141,US,Chicago,Palmer House a Hilton Hotel,"17 East Monroe Street, Chicago, Illinois",11299,41.88037,-87.62677
+142,US,Chicago,The Robey,"2018 W North Ave, Chicago, Illinois",1452,41.91053,-87.67826
+143,US,Chicago,Chicago Marriott Suites Downers Grove,"1500 Opus Pl, Downers Grove, DuPage County, Illinois",415,41.82902,-88.02437
+144,US,Chicago,Homewood Suites by Hilton Chicago-Lincolnshire,"10 Westminster Way, Lincolnshire, Lake County, Illinois",1042,42.19959,-87.89233
+145,US,Chicago,Renaissance Chicago O'Hare Suites Hotel,"8500 W Bryn Mawr Ave, Chicago, Illinois",1282,41.98313,-87.84093
+146,US,Chicago,Courtyard by Marriott Chicago O'Hare,"2950 S. River Road, Des Plaines, Illinois",425,41.99981,-87.86539
+147,US,Chicago,"The Blackstone, Autograph Collection","636 S Michigan Ave, Chicago, Illinois",2846,41.8737,-87.62455
+148,US,Chicago,"Holiday Inn Chicago-Elk Grove, an IHG Hotel","1000 Busse Road, Elk Grove Village, Illinois",481,42.01052,-87.96075
+149,US,Chicago,Crowne Plaza Chicago O'Hare Hotel & Conference Center,"5440 N River Rd, Rosemont, Illinois",1456,41.97747,-87.86447
+150,US,Chicago,"Crowne Plaza Chicago West Loop, an IHG Hotel","25 South Halsted Street, Chicago, Illinois",1372,41.88144,-87.64728
+151,US,Chicago,"The Ritz-Carlton, Chicago","160 E Pearson St, Chicago, Illinois",879,41.89801,-87.62292
+152,US,Chicago,Regal Inn Chicago- O'hare Airport Franklin Park,"2448 Mannheim Rd, Franklin Park, Illinois",561,41.92315,-87.88498
+153,US,Chicago,"Hotel EMC2, Autograph Collection","228 East Ontario Street, Chicago, Illinois",659,41.89368,-87.62149
+154,US,Chicago,Hyatt Place Chicago-South/University Medical Center,"5225 S Harper Ave, Chicago, Illinois",1196,41.80016,-87.58873
+155,US,Chicago,DoubleTree by Hilton Hotel Chicago - Schaumburg,"800 National Parkway, Schaumburg, Illinois",908,42.04429,-88.0508
+156,US,Chicago,Sonesta Chicago O'Hare Airport Rosemont,"10233 West Higgins Road, Rosemont, Illinois",414,41.99729,-87.88081
+157,US,Chicago,Wyndham Chicago O'Hare,"1450 E Touhy Ave, Des Plaines, Illinois",402,42.01046,-87.887
+158,US,Chicago,Hyatt Place Chicago Itasca,"1150 N Arlington Heights Rd, Itasca, DuPage County, Illinois",790,41.98708,-88.00515
+159,US,Chicago,Red Roof PLUS+ Chicago Naperville,"1698 W Diehl Rd, Naperville, DuPage County, Illinois",337,41.79852,-88.2039
+160,US,Chicago,Red Roof Inn Chicago Joliet,"1750 McDonough St, Joliet, Illinois",361,41.51488,-88.1229
+161,US,Chicago,Hilton Garden Inn Chicago Downtown Riverwalk,"66 E Wacker Pl, Chicago, Illinois",1056,41.88705,-87.62544
+162,US,Chicago,Hotel Julian,"168 N Michigan Ave, Chicago, Illinois",631,41.8848,-87.62469
+163,US,Chicago,Chicago Marriott Suites Deerfield,"2 Parkway N, Deerfield, Lake County, Illinois",342,42.16276,-87.87794
+164,US,Chicago,Hampton Inn & Suites Chicago/Mt. Prospect,"1 Randhurst Village Dr, Mount Prospect, Illinois",795,42.08408,-87.93288
+165,US,Chicago,Courtyard by Marriott Chicago Downtown/River North,"30 E Hubbard St, Chicago, Illinois",1128,41.89031,-87.62712
+166,US,Chicago,Four Points by Sheraton Chicago O'Hare Airport,"10249 West Irving Park Road, Schiller Park, Illinois",1009,41.95604,-87.88263
+167,US,Chicago,"Club Quarters Hotel, Wacker at Michigan","75 East Upper Wacker Drive, Chicago, Illinois",2501,41.88794,-87.62517
+168,US,Chicago,Super 8 by Wyndham Bridgeview/Chicago Area,"7887 W 79th St, Bridgeview, Illinois",491,41.74727,-87.81724
+169,US,Chicago,"The Rose Hotel Chicago O’Hare, Tapestry Collection by Hilton","5200 Pearl Street, Rosemont, Illinois",338,41.97311,-87.87107
+170,US,Chicago,Aloft Chicago Downtown River North,"515 N Clark St, Chicago, Illinois",885,41.89138,-87.63082
+171,US,Chicago,Best Western Chicago Southland,"4375 Frontage Rd, Oak Forest, Illinois",347,41.58986,-87.72293
+172,US,Chicago,Hyatt Centric The Loop Chicago,"100 W Monroe St, Chicago, Illinois",1170,41.8808,-87.63105
+173,US,Chicago,Hilton Chicago O'Hare Airport,"10000 W O'Hare Ave, Chicago, Illinois",4485,41.97804,-87.90994
+174,US,Chicago,Hyatt Place Chicago/Schaumburg,"1851 McConnor Pkwy, Schaumburg, Illinois",291,42.05417,-88.03194
+175,US,Chicago,Baymont by Wyndham Chicago/Alsip,"12801 S Cicero Ave, Alsip, Illinois",386,41.65911,-87.73795
+176,US,Chicago,Comfort Suites Chicago O'Hare Airport,"4200 River Rd, Schiller Park, Illinois",304,41.95552,-87.85974
+177,US,Chicago,ACME Hotel Company,"15 East Ohio Street, Chicago, Illinois",4842,41.8924,-87.62749
+178,US,Chicago,Hyatt Place Chicago/Midway Airport,"6550 S Cicero Ave, Chicago, Illinois",1043,41.77228,-87.74438
+179,US,Chicago,The Congress Plaza Hotel & Convention Center,"520 South Michigan Avenue, Chicago, Illinois",3485,41.87506,-87.62481
+180,US,Chicago,Residence Inn by Marriott Chicago O'Hare,"7101 Chestnut Street, Rosemont, Illinois",445,42.00774,-87.88882
+181,US,Chicago,Sonesta Simply Suites Chicago O'Hare Airport,"4021 N. Mannheim Rd., Schiller Park, Illinois",424,41.95289,-87.88426
+182,US,Chicago,"Holiday Inn Express Chicago - Magnificent Mile, an IHG Hotel","640 N Wabash Ave, Chicago, Illinois",1245,41.89343,-87.6269
+183,US,Chicago,Holiday Inn Chicago Oakbrook,"17 W. 350 22nd Street, Oakbrook Terrace, DuPage County, Illinois",402,41.84703,-87.96448
+184,US,Chicago,Chicago Marriott Oak Brook,"1401 W 22nd St, Oak Brook, DuPage County, Illinois",402,41.84589,-87.95282
+185,US,Chicago,SpringHill Suites Chicago Elmhurst / Oakbrook Area,"410 W Lake St, Elmhurst, DuPage County, Illinois",373,41.91755,-87.95204
+186,US,Chicago,Quality Inn Schaumburg - Chicago,"600 N Martingale Rd, Schaumburg, Illinois",384,42.03976,-88.03655
+187,US,Chicago,"Crowne Plaza Chicago-Northbrook, an IHG Hotel","2875 North Milwaukee Avenue, Northbrook, Illinois",344,42.10025,-87.88167
+188,US,Chicago,Eurostars Magnificent Mile,"660 N State St, Chicago, Illinois",5235,41.89422,-87.62827
+189,US,Chicago,Sonesta ES Suites Chicago - Lombard,"2001 South Highland Avenue, Lombard, DuPage County, Illinois",309,41.84647,-88.01077
+190,US,Chicago,Baymont by Wyndham Chicago/Calumet City,"510 E End Ave, Calumet City, Illinois",360,41.62169,-87.57641
+191,US,Chicago,SpringHill Suites Chicago Schaumburg/Woodfield Mall,"1550 McConnor Parkway, Schaumburg, Illinois",373,42.0566,-88.04156
+192,US,Chicago,Hampton Inn & Suites Chicago/St. Charles,"2875 Foxfield Road, Saint Charles, Illinois",592,41.92416,-88.27821
+193,US,Chicago,Hilton Rosemont/Chicago O'Hare,"5550 N. River Road, Rosemont, Illinois",1544,41.97983,-87.86318
+194,US,Chicago,Sonesta ES Suites Chicago Waukegan Gurnee,"1440 S White Oak Dr, Waukegan, Lake County, Illinois",269,42.33427,-87.89378
+195,US,Chicago,Home2 Suites by Hilton Chicago Schaumburg,"1300 East American Lane, Schaumburg, Illinois",292,42.04791,-88.0481
+196,US,Chicago,Super 8 by Wyndham Chicago/Rosemont/O'Hare/SE,"3160 River Rd, River Grove, Illinois",304,41.9369,-87.85095
+197,US,Chicago,Best Western Plus Hawthorne Terrace Hotel,"3434 N Broadway St, Chicago, Illinois",1423,41.94419,-87.64598
+198,US,Chicago,Courtyard by Marriott Chicago Glenview/Northbrook,"1801 Milwaukee Avenue, Glenview, Illinois",495,42.08792,-87.86989
+199,US,Chicago,Fairfield Inn & Suites Chicago Naperville,"1820 Abriter Ct, Naperville, DuPage County, Illinois",246,41.80353,-88.12856
+200,US,Chicago,Residence Inn Chicago Schaumburg/Woodfield Mall,"1610 McConnor Pkwy, Schaumburg, Illinois",226,42.05695,-88.0402
+201,US,Chicago,Hampton Inn & Suites Chicago-Burr Ridge,"100 Harvester Drive, Burr Ridge, Illinois",268,41.75864,-87.91829
+202,US,Chicago,Chicago Marriott Southwest at Burr Ridge,"1200 Burr Ridge Pkwy, Burr Ridge, Illinois",297,41.75605,-87.90954
+203,US,Chicago,The Hoxton Chicago,"200 N Green St, Chicago, Illinois",631,41.88567,-87.64872
+204,US,Chicago,"Holiday Inn Chicago - Schaumburg, an IHG Hotel","1998 N. Roselle Road, Schaumburg, Illinois",453,42.06301,-88.08121
+205,US,Chicago,Courtyard by Marriott Chicago Waukegan/Gurnee,"3800 Northpoint Blvd, Waukegan, Lake County, Illinois",435,42.34625,-87.89609
+206,US,Chicago,Homewood Suites by Hilton Chicago Downtown/Magnificent Mile,"152 E Huron St, Chicago, Illinois",1035,41.89523,-87.62327
+207,US,Chicago,Residence Inn by Marriott Chicago Downtown/Loop,"11 S La Salle St, Chicago, Illinois",654,41.88147,-87.6322
+208,US,Chicago,Red Roof PLUS+ Chicago - Northbrook / Deerfield,"340 S Waukegan Rd, Deerfield, Lake County, Illinois",250,42.23512,-87.87338
+209,US,Chicago,Courtyard Chicago Arlington Heights/South,"100 West Algonquin Road, Arlington Heights, Illinois",247,42.04555,-87.98498
+210,US,Chicago,Embassy Suites by Hilton Chicago Lombard Oak Brook,"707 E Butterfield Rd, Lombard, DuPage County, Illinois",709,41.83825,-87.99933
+211,US,Chicago,"Holiday Inn & Suites Chicago North Shore (Skokie), an IHG Hotel","5300 West Touhy Ave, Skokie, Illinois",637,42.01268,-87.76013
+212,US,Chicago,Kinzie Hotel,"20 W Kinzie St, Chicago, Illinois",3045,41.88945,-87.62892
+213,US,Chicago,La Quinta Inn & Suites by Wyndham Chicago Gurnee,"5688 Northridge Dr, Gurnee, Lake County, Illinois",626,42.37794,-87.94412
+214,US,Chicago,Le Meridien Chicago - Oakbrook Center,"2100 Spring Rd, Oak Brook, DuPage County, Illinois",371,41.85028,-87.94882
+215,US,Chicago,Sheraton Suites Chicago Elk Grove,"121 Northwest Point Boulevard, Elk Grove Village, Illinois",285,42.0373,-87.98145
+216,US,Chicago,SpringHill Suites Chicago Naperville/Warrenville,"4305 Weaver Parkway, Warrenville, DuPage County, Illinois",298,41.80371,-88.16616
+217,US,Chicago,Best Western Chicago - Downers Grove,"3010 Finley Rd, Downers Grove, DuPage County, Illinois",240,41.83248,-88.02702
+218,US,Chicago,Residence Inn by Marriott Chicago Midway Airport,"6638 S Cicero Ave, Bedford Park, Illinois",309,41.77173,-87.74609
+219,US,Chicago,Chicago Marriott Northwest,"4800 Hoffman Blvd, Hoffman Estates, Illinois",348,42.0709,-88.1963
+220,US,Chicago,Residence Inn Chicago Wilmette/Skokie,"3205 Old Glenview Rd, Wilmette, Illinois",345,42.06502,-87.75576
+221,US,Chicago,"Holiday Inn Express Chicago-Downers Grove, an IHG Hotel","3031 Finley Rd, Downers Grove, DuPage County, Illinois",289,41.83246,-88.02473
+222,US,Chicago,Kimpton Gray Hotel,"122 W. Monroe Street, Chicago, Illinois",849,41.88079,-87.63153
+223,US,Chicago,"Hotel Lincoln, JdV by Hyatt","1816 North Clark Street, Chicago, Illinois",2671,41.91526,-87.63426
+224,US,Chicago,SpringHill Suites Chicago Southwest at Burr Ridge/Hinsdale,"90 North Frontage Road, Burr Ridge, Illinois",352,41.76299,-87.91804
+225,US,Chicago,"Staybridge Suites Chicago -- Glenview, an IHG hotel","2600 Lehigh Avenue, Glenview, Illinois",246,42.10449,-87.82061
+226,US,Chicago,Hotel Felix,"111 W Huron St, Chicago, Illinois",1855,41.89472,-87.63169
+227,US,Chicago,AC Hotel by Marriott Chicago Downtown,"630 N Rush St, Chicago, Illinois",948,41.8934,-87.62651
+228,US,Chicago,Hampton Inn Chicago Downtown West Loop,"116 N Jefferson St, Chicago, Illinois",872,41.88373,-87.64313
+229,US,Chicago,Sonesta ES Suites Chicago Downtown Magnificent Mile - Medical,"201 East Walton Place, Chicago, Illinois",908,41.89986,-87.62145
+230,US,Chicago,Courtyard by Marriott Chicago Oakbrook Terrace,"6 Trans Am Plaza Drive, Oakbrook Terrace, DuPage County, Illinois",279,41.84646,-87.98829
+231,US,Chicago,The Whitehall Hotel,"105 E Delaware Pl, Chicago, Illinois",2357,41.89908,-87.6258
+232,US,Chicago,"EVEN Hotel Chicago-Tinley Park-Conv Ctr, an IHG Hotel","18501 Convention Center Drive, Tinley Park, Illinois",227,41.55434,-87.79089
+233,US,Chicago,SpringHill Suites by Marriott Chicago Lincolnshire,"300 Marriott Dr, Lincolnshire, Lake County, Illinois",211,42.19422,-87.93348
+234,US,Chicago,"Holiday Inn Chicago North-Evanston, an IHG Hotel","1501 Sherman Ave, Evanston, Illinois",212,42.04463,-87.68151
+235,US,Chicago,Red Roof PLUS+ Chicago - Willowbrook,"7535 Kingery Hwy, Willowbrook, DuPage County, Illinois",239,41.7516,-87.94349
+236,US,Chicago,Residence Inn by Marriott Chicago Oak Brook,"790 Jorie Blvd, Oak Brook, DuPage County, Illinois",204,41.84603,-87.94271
+237,US,Chicago,Holiday Inn Chicago Matteson Conf Ctr,"500 Holiday Plaza Dr, Matteson, Illinois",195,41.50427,-87.73911
+238,US,Chicago,Courtyard Chicago Wood Dale/Itasca,"900 N Wood Dale Rd, Wood Dale, DuPage County, Illinois",203,41.9825,-87.98085
+239,US,Chicago,Courtyard Chicago Elmhurst/Oakbrook Area,"370 N IL Route 83, Elmhurst, DuPage County, Illinois",328,41.90519,-87.96516
+240,US,Chicago,Best Western Plus Oakbrook Inn,"669 Pasquinelli Dr, Westmont, DuPage County, Illinois",622,41.81268,-87.94959
+241,US,Chicago,Renaissance Chicago Glenview Suites Hotel,"1400 Milwaukee Avenue, Glenview, Illinois",214,42.08006,-87.86526
+242,US,Chicago,Hampton Inn & Suites Chicago Southland-Matteson,"20920 Matteson Ave, Matteson, Illinois",541,41.5172,-87.7378
+243,US,Chicago,Hampton Inn Chicago North-Loyola Station,"1209 W Albion Ave, Chicago, Illinois",690,42.00232,-87.66119
+244,US,Chicago,Hampton Inn & Suites Chicago Aurora,"2423 Bushwood Dr, Aurora, Illinois",900,41.79149,-88.37635
+245,US,Chicago,Freehand Chicago,"19 E Ohio St, Chicago, Illinois",941,41.8924,-87.62738
+246,US,Chicago,Marriott Chicago O’Hare,"8535 West Higgins Road, Chicago, Illinois",770,41.98541,-87.84203
+247,US,Chicago,"Holiday Inn Express & Suites Chicago West-O'Hare Arpt Area, an IHG Hotel","200 S Mannheim Rd, Hillside, Illinois",281,41.86627,-87.88315
+248,US,Chicago,Sheraton Chicago Northbrook Hotel,"1110 Willow Rd, Northbrook, Illinois",304,42.10833,-87.80715
+249,US,Chicago,Super 8 by Wyndham Joliet I-55 N/Chicago,"3401 Mall Loop Dr, Joliet, Illinois",292,41.57971,-88.16698
+250,US,Chicago,Residence Inn by Marriott Chicago Bloomingdale,"295 Knollwood Dr, Bloomingdale, DuPage County, Illinois",178,41.94048,-88.1148
+251,US,Chicago,"Holiday Inn & Suites Chicago Northwest - Elgin, an IHG Hotel","495 Airport Road, Elgin, Illinois",247,42.07284,-88.28946
+252,US,Chicago,Central Loop Hotel,"111 W Adams St, Chicago, Illinois",893,41.87934,-87.63094
+253,US,Chicago,Hyatt Place Chicago / Hoffman Estates,"2750 Greenspoint Parkway, Hoffman Estates, Illinois",660,42.06307,-88.14658
+254,US,Chicago,"Holiday Inn & Suites Chicago-Downtown, an IHG Hotel","506 West Harrison Street, Chicago, Illinois",855,41.87472,-87.63995
+255,US,Chicago,Fairfield Inn & Suites by Marriott Chicago Schaumburg,"700 National Parkway, Schaumburg, Illinois",194,42.04158,-88.05107
+256,US,Chicago,"Hotel Indigo Chicago-Vernon Hills, an IHG Hotel","450 North Milwaukee Avenue, Vernon Hills, Lake County, Illinois",238,42.23385,-87.9446
+257,US,Chicago,Sonesta Simply Suites Chicago Waukegan,"1151 S Waukegan Rd, Waukegan, Lake County, Illinois",123,42.21888,-87.87188
+258,US,Chicago,"Holiday Inn Chicago O'Hare Area, an IHG Hotel","5615 N. Cumberland Avenue, Chicago, Illinois",791,41.98166,-87.83617
+259,US,Chicago,Carlton Inn Midway,"4944 S Archer Ave, Chicago, Illinois",908,41.80364,-87.72188
+260,US,Chicago,Ivy Hotel,"233 E Ontario St, Chicago, Illinois",1116,41.89328,-87.6216
+261,US,Chicago,TownePlace Suites Chicago Naperville,"1843 West Diehl Road, Naperville, DuPage County, Illinois",84,41.79913,-88.20847
+262,US,Chicago,Courtyard by Marriott Chicago Bloomingdale,"275 Knollwood Drive, Bloomingdale, DuPage County, Illinois",115,41.94119,-88.11441
+263,US,Chicago,Extended Stay America - Chicago - Naperville - East,"1827 Centre Point Cir, Naperville, DuPage County, Illinois",157,41.80533,-88.13448
+264,US,Chicago,TownePlace Suites by Marriott Chicago Lombard,"455 E 22nd St, Lombard, DuPage County, Illinois",151,41.84538,-88.00518
+265,US,Chicago,"Holiday Inn Express & Suites Chicago West-Roselle, an IHG Hotel","1490 W. Lake Street, Roselle, DuPage County, Illinois",132,41.97239,-88.11862
+266,US,Chicago,Residence Inn Chicago Naperville/Warrenville,"28500 Bella Vista Parkway, Warrenville, DuPage County, Illinois",175,41.81017,-88.16004
+267,US,Chicago,"Staybridge Suites Chicago-Oakbrook Terrace, an IHG Hotel","200 Royce Blvd., Oakbrook Terrace, DuPage County, Illinois",192,41.84957,-87.98205
+268,US,Chicago,Hampton Inn Chicago Elgin / I-90,"405 Airport Rd., Elgin, Illinois",536,42.0697,-88.2892
+269,US,Chicago,Super 8 by Wyndham Morton Grove/Chicago,"9110 Waukegan Rd, Morton Grove, Illinois",302,42.04628,-87.80001
+270,US,Chicago,Courtyard by Marriott Chicago Naperville,"1155 E Diehl Rd, Naperville, DuPage County, Illinois",195,41.80243,-88.12853
+271,US,Chicago,SpringHill Suites Chicago Waukegan/Gurnee,"4101 Fountain Square Pl, Waukegan, Lake County, Illinois",469,42.34436,-87.90211
+272,US,Chicago,Sonesta Simply Suites Chicago Libertyville,"1100 N. US Route 45, Libertyville, Lake County, Illinois",134,42.29612,-88.00315
+273,US,Chicago,Holiday Inn Express & Suites Chicago - Deerfield / Lincolnshire,"2600 Lake Cook Road, Riverwoods, Lake County, Illinois",217,42.15414,-87.89119
+274,US,Chicago,Ramada Plaza by Wyndham Chicago North Shore,"1090 S Milwaukee Ave, Wheeling, Illinois",200,42.11467,-87.89425
+275,US,Chicago,Best Western Grant Park Hotel,"1100 S Michigan Ave, Chicago, Illinois",1757,41.86927,-87.62436
+276,US,Chicago,Holiday Inn Club Vacations Fox River Resort at Sheridan,"2558 N. 3653 Road, Sheridan, Illinois",533,41.47018,-88.67911
+277,US,Chicago,SpringHill Suites by Marriott Chicago Bolingbrook,"125 Remington Blvd, Bolingbrook, DuPage County, Illinois",163,41.68702,-88.06969
+278,US,Chicago,"Staybridge Suites Chicago - Lincolnshire, an IHG Hotel","100 Barclay Boulevard, Lincolnshire, Lake County, Illinois",198,42.19559,-87.93754
+279,US,Chicago,Best Western At O'Hare,"10300 W Higgins Rd, Rosemont, Illinois",692,41.99917,-87.88615
+280,US,Chicago,Extended Stay America - Chicago - Lansing,"2520 173rd St, Lansing, Illinois",193,41.58157,-87.55575
+281,US,Chicago,Extended Stay America Chicago - Westmont - Oak Brook,"855 Pasquinelli Dr, Westmont, DuPage County, Illinois",177,41.81728,-87.95419
+282,US,Chicago,Best Western Plus Chicagoland - Countryside,"6251 Joliet Rd, Countryside, Illinois",438,41.77747,-87.87301
+283,US,Chicago,"Holiday Inn Express & Suites Chicago West - St Charles, an IHG Hotel","155 38th Avenue, Saint Charles, Illinois",187,41.91973,-88.26888
+284,US,Chicago,Hostelling International Chicago,"24 E Congress Pkwy, Chicago, Illinois",899,41.87452,-87.71293
+285,US,Chicago,Eaglewood Resort & Spa,"1401 Nordic Rd, Itasca, DuPage County, Illinois",734,41.9605,-88.0368
+286,US,Chicago,Extended Stay America - Chicago - Itasca,"1181 N Rohlwing Rd, Itasca, DuPage County, Illinois",101,41.98572,-88.03035
+287,US,Chicago,Best Western O'Hare/Elk Grove Hotel,"100 Busse Rd, Elk Grove Village, Illinois",453,42.02477,-87.96067
+288,US,Chicago,Courtyard Chicago St. Charles,"700 Courtyard Drive, Saint Charles, Illinois",169,41.92498,-88.28083
+289,US,Chicago,Courtyard by Marriott Chicago Lincolnshire,"505 Milwaukee Avenue, Lincolnshire, Lake County, Illinois",153,42.19613,-87.93045
+290,US,Chicago,Hampton Inn & Suites Chicago/Waukegan,"438 Lakehurst Rd, Waukegan, Lake County, Illinois",156,42.34332,-87.90333
+291,US,Chicago,"Country Inn & Suites by Radisson, Elk Grove Village/Itasca","1160 W Devon Ave, Elk Grove Village, Illinois",491,41.99376,-88.02976
+292,US,Chicago,Extended Stay America - Chicago - Lombard - Oakbrook,"2701 Technology Dr, Lombard, DuPage County, Illinois",153,41.83869,-87.99682
+293,US,Chicago,Residence Inn Chicago Lake Forest/Mettawa,"26325 N Riverwoods Blvd, Mettawa, Lake County, Illinois",269,42.2434,-87.90315
+294,US,Chicago,Wyndham Garden Elk Grove Village/O'Hare,"2550 Landmeier Rd, Elk Grove Village, Illinois",465,42.01277,-87.94144
+295,US,Chicago,Hampton Inn & Suites Addison,"1685 West Lake Street, Addison, DuPage County, Illinois",541,41.94907,-88.02898
+296,US,Chicago,The Carleton of Oak Park,"1110 Pleasant St, Oak Park, Illinois",468,41.88559,-87.80279
+297,US,Chicago,Hyatt Regency Deerfield,"1750 Lake Cook Rd, Deerfield, Lake County, Illinois",1001,42.15387,-87.87043
+298,US,Chicago,Fairfield Inn & Suites by Marriott Chicago Lombard,"645 W North Ave, Lombard, DuPage County, Illinois",188,41.90357,-88.03462
+299,US,Chicago,Residence Inn By Marriott Chicago Deerfield,"530 Lake Cook Rd, Deerfield, Lake County, Illinois",158,42.15713,-87.84103
+300,US,Chicago,HomeTowne Studios by Red Roof Chicago - Waukegan,"1177 S Northpoint Blvd, Waukegan, Lake County, Illinois",84,42.33806,-87.88699
+301,US,Chicago,Best Western Des Plaines Inn,"1231 Lee St, Des Plaines, Illinois",438,42.03053,-87.89332
+302,US,Chicago,Hyatt Rosemont,"6350 N River Rd, Rosemont, Illinois",840,41.99537,-87.86227
+303,US,Chicago,Lincolnshire Marriott Resort,"10 Marriott Dr, Lincolnshire, Lake County, Illinois",559,42.19642,-87.92502
+304,US,Chicago,Extended Stay America - Chicago - Woodfield Mall,"1200 American Ln, Schaumburg, Illinois",98,42.04804,-88.04906
+305,US,Chicago,"Holiday Inn & Suites Chicago-Carol Stream (Wheaton), an IHG Hotel","150 S Gary Ave, Carol Stream, DuPage County, Illinois",186,41.90248,-88.12114
+306,US,Chicago,"Motel 6 Elk Grove Village, IL - O'Hare","2881 Touhy Ave, Elk Grove Village, Illinois",494,42.0073,-87.93787
+307,US,Chicago,Sonesta Select Chicago Elgin,"2175 Marriott Drive, West Dundee, Illinois",125,42.07478,-88.28845
+308,US,Chicago,The Chicago Hotel Collection River North,"312 W Chestnut St, Chicago, Illinois",464,41.89828,-87.63607
+309,US,Chicago,Motel 6 Chicago - Elk Grove,"1601 Oakton St, Elk Grove Village, Illinois",111,42.02147,-87.96134
+310,US,Chicago,Sonesta Simply Suites Chicago Naperville,"27 W. 300 Warrenville Rd., Warrenville, DuPage County, Illinois",96,41.81102,-88.1467
+311,US,Chicago,Extended Stay America - Chicago O’Hare - Allstate Arena,"1207 E Touhy Ave, Des Plaines, Illinois",154,42.00783,-87.89311
+312,US,Chicago,ESTIA Hotel & Suites Glenview,"4514 W Lake Ave, Glenview, Illinois",430,42.08833,-87.86816
+313,US,Chicago,Chicago Club Inn Suites,"630 Pasquinelli Dr, Westmont, DuPage County, Illinois",102,41.81182,-87.95187
+314,US,Chicago,Fairfield Inn & Suites Chicago Tinley Park,"18511 N Creek Dr, Tinley Park, Illinois",122,41.55508,-87.79477
+315,US,Chicago,Extended Stay America - Chicago - Schaumburg - I-90,"2000 N Roselle Rd, Schaumburg, Illinois",91,42.06304,-88.08291
+316,US,Chicago,Extended Stay America - Chicago - Elmhurst - O'Hare,"550 W Grand Ave, Elmhurst, DuPage County, Illinois",128,41.92753,-87.95825
+317,US,Chicago,Motel 6 Chicago O'Hare - Schiller Park,"9408 Lawrence Ave, Schiller Park, Illinois",145,41.96655,-87.86309
+318,US,Chicago,Extended Stay America - Chicago - Naperville - West,"1575 Bond St, Naperville, DuPage County, Illinois",112,41.7977,-88.20328
+319,US,Chicago,Wingate by Wyndham Arlington Heights,"2112 S Arlington Heights Rd, Arlington Heights, Illinois",539,42.04672,-87.98332
+320,US,Chicago,Motel 6 Chicago North- Glenview,"1535 Milwaukee Ave, Glenview, Illinois",68,42.08433,-87.86707
+321,US,Chicago,"Holiday Inn Chicago SW-Countryside Confctr, an IHG Hotel","6201 Joliet Rd, Countryside, Illinois",97,41.77729,-87.8722
+322,US,Chicago,"Holiday Inn Express & Suites Chicago-Libertyville, an IHG Hotel","77 West Buckley Road, Libertyville, Lake County, Illinois",146,42.30523,-87.95729
+323,US,Chicago,TownePlace Suites Chicago Schaumburg,"700 National Pkwy, Schaumburg, Illinois",111,42.04158,-88.05107
+324,US,Chicago,Best Western Plus Hyde Park Chicago Hotel,"4900 S Lakeshore Dr, Chicago, Illinois",532,41.8058,-87.58593
+325,US,Chicago,Courtyard by Marriott Chicago Deerfield,"800 Lake Cook Rd, Deerfield, Lake County, Illinois",95,42.15377,-87.84743
+326,US,Chicago,"Holiday Inn Chicago NW Crystal Lake Conv Ctr, an IHG Hotel","800 South Illinois Route 31, Crystal Lake, Illinois",362,42.22026,-88.28492
+327,US,Chicago,Chicago Marriott Midway,"6520 S Cicero Ave, Chicago, Illinois",483,41.77449,-87.74297
+328,US,Chicago,Hampton Inn & Suites Bridgeview Chicago,"7010 S Harlem Ave, Bridgeview, Illinois",117,41.76481,-87.80069
+329,US,Chicago,Travelodge by Wyndham Matteson,"950 Lake Superior Dr, Matteson, Illinois",525,41.50756,-87.73967
+330,US,Chicago,Fairfield Inn & Suites Chicago Naperville/Aurora,"1847 W Diehl Rd, Naperville, DuPage County, Illinois",105,41.80231,-88.20758
+331,US,Chicago,Hilton Garden Inn Schaumburg,"1191 Woodfield Road, Schaumburg, Illinois",1473,42.0428,-88.05173
+332,US,Chicago,Extended Stay America Chicago - Hillside,"4575 Frontage Rd, Hillside, Illinois",110,41.87351,-87.89552
+333,US,Chicago,Le Meridien Essex Chicago,"800 South Michigan Avenue, Chicago, Illinois",417,41.87179,-87.62438
+334,US,Chicago,Extended Stay America - Chicago - Midway,"7524 S State Rd, Bedford Park, Illinois",144,41.75763,-87.74581
+335,US,Chicago,Extended Stay America - Chicago - Skokie,"5211 Old Orchard Rd, Skokie, Illinois",154,42.06101,-87.75702
+336,US,Chicago,Days Inn & Suites by Wyndham Arlington Heights,"1415 W Dundee Rd, Arlington Heights, Illinois",454,42.13831,-88.00044
+337,US,Chicago,Super 8 by Wyndham Chicago IL,"7300 N Sheridan Rd, Chicago, Illinois",472,42.01405,-87.66457
+338,US,Chicago,Extended Stay America Chicago - Schaumburg - Convention Center,"51 E State Pkwy, Schaumburg, Illinois",78,42.05487,-88.07812
+339,US,Chicago,Hyatt Regency Lisle near Naperville,"1400 Corporetum Dr, Lisle, DuPage County, Illinois",1416,41.80693,-88.07843
+340,US,Chicago,Hotel Arista,"2139 City Gate Ln, Naperville, DuPage County, Illinois",590,41.80852,-88.20213
+341,US,Chicago,Courtyard by Marriott Chicago Midway Airport,"6610 South Cicero Avenue, Chicago, Illinois",244,41.77295,-87.74378
+342,US,Chicago,Best Western Naperville Inn,"1617 Naperville Wheaton Rd, Naperville, DuPage County, Illinois",705,41.80032,-88.12006
+343,US,Chicago,"Holiday Inn Express & Suites Chicago North-Waukegan-Gurnee, an IHG Hotel","611 Lakehurst Rd, Waukegan, Lake County, Illinois",179,42.33949,-87.89715
+344,US,Chicago,"Crowne Plaza Chicago SW - Burr Ridge, An IHG Hotel","300 South Frontage Road, Burr Ridge, Illinois",66,41.75337,-87.92158
+345,US,Chicago,Villa D'Citta,"2230 N Halsted St, Chicago, Illinois",443,41.92269,-87.64892
+346,US,Chicago,"Country Inn & Suites by Radisson, Schaumburg, IL","1401 N Roselle Rd, Schaumburg, Illinois",927,42.05357,-88.07948
+347,US,Chicago,Ramada by Wyndham Waukegan/Great Lakes,"200 N Green Bay Rd, Waukegan, Lake County, Illinois",1401,42.36251,-87.87701
+348,US,Chicago,Extended Stay America - Chicago - Buffalo Grove - Deerfield,"1525 Busch Pkwy, Buffalo Grove, Lake County, Illinois",95,42.17027,-87.92354
+349,US,Chicago,Goldmoor Inn,"9001 W Sand Hill Rd, Galena, Illinois",1003,42.33384,-90.39676
+350,US,Chicago,DoubleTree by Hilton Lisle Naperville,"3003 Corporate West Drive, Lisle, DuPage County, Illinois",993,41.80821,-88.11015
+351,US,Chicago,Goldberry Woods Bed & Breakfast Cottages,"9902 Community Hall Rd, Union Pier, Berrien County, Michigan",445,41.82051,-86.69352
+352,US,Chicago,Red Roof Inn Chicago - Lansing,"2450 173rd St, Lansing, Illinois",503,41.58231,-87.55673
+353,US,Chicago,Hyatt House Chicago/Naperville/Warrenville,"27554 Maecliff Drive, Warrenville, DuPage County, Illinois",660,41.81296,-88.16059
+354,US,Chicago,"Holiday Inn Express & Suites Chicago North Shore - Niles, an IHG Hotel","7247 North Waukegan Road, Niles, Illinois",92,42.01302,-87.80172
+355,US,Chicago,The Herrington Inn & Spa,"15 S River Ln, Geneva, Illinois",501,41.88646,-88.30357
+356,US,Chicago,Extended Stay America - Chicago - Downers Grove,"3150 Finley Rd, Downers Grove, DuPage County, Illinois",112,41.8299,-88.02664
+357,US,Chicago,Hampton Inn & Suites Bolingbrook,"165 Remington Blvd., Bolingbrook, DuPage County, Illinois",517,41.68451,-88.07138
+358,US,Chicago,Days Inn & Suites by Wyndham Schaumburg,"1730 E Higgins Rd, Schaumburg, Illinois",671,42.03903,-88.03722
+359,US,Chicago,Fairfield Inn & Suites Chicago Midway Airport,"6630 S Cicero Ave, Chicago, Illinois",218,41.77228,-87.74341
+360,US,Chicago,The Inn At Union Pier,"9708 Berrien St, Union Pier, Berrien County, Michigan",293,41.83509,-86.68814
+361,US,Chicago,Best Western Plus O'Hare International South Hotel,"3001 N Mannheim Rd, Franklin Park, Illinois",434,41.93324,-87.88446
+362,US,Chicago,Deer Path Inn,"255 E Illinois Rd, Lake Forest, Lake County, Illinois",226,42.24945,-87.84068
+363,US,Chicago,Extended Stay America - Chicago - Gurnee,"5724 Northridge Dr, Gurnee, Lake County, Illinois",146,42.37647,-87.94409
+364,US,Chicago,Days Inn & Suites by Wyndham Harvey / Chicago Southland,"16900 Halsted St, Harvey, Illinois",345,41.58351,-87.6372
+365,US,Chicago,Red Roof Inn Morton Grove,"9424 Waukegan Rd, Morton Grove, Illinois",294,42.05283,-87.79974
+366,US,Chicago,The Guesthouse Hotel,"4872 N Clark St, Chicago, Illinois",430,41.97114,-87.66783
+367,US,Chicago,Wingate by Wyndham Gurnee,"6090 Gurnee Mills Cir E, Gurnee, Lake County, Illinois",283,42.38591,-87.95253
+368,US,Chicago,Comfort Suites Oakbrook Terrace,"17W445 Roosevelt Rd, Oakbrook Terrace, DuPage County, Illinois",324,41.86065,-87.96736
+369,US,Chicago,Hampton Inn & Suites Chicago Schaumburg,"891 Plaza Drive, Schaumburg, Illinois",466,42.04636,-88.04276
+370,US,Chicago,Harvey House Bed and Breakfast,"107 S Scoville Ave, Oak Park, Illinois",285,41.8866,-87.78824
+371,US,Chicago,Extended Stay America - Chicago - Lisle,"445 Warrenville Rd, Lisle, DuPage County, Illinois",120,41.8072,-88.05637
+372,US,Chicago,Extended Stay America - Chicago - Vernon Hills - Lake Forest,"215 N Milwaukee Ave, Vernon Hills, Lake County, Illinois",72,42.22936,-87.93989
+373,US,Chicago,La Quinta Inn & Suites by Wyndham Chicago Tinley Park,"7255 183rd St, Tinley Park, Illinois",574,41.55731,-87.79401
+374,US,Chicago,Motel 6 Chicago North Central - Arlington Heights,"441 W Algonquin Rd, Arlington Heights, Illinois",68,42.0461,-87.98832
+375,US,Chicago,Motel 6 Chicago West - Villa Park,"10 W Roosevelt Rd, Villa Park, DuPage County, Illinois",58,41.86109,-87.97928
+376,US,Chicago,Chicago Northwest KOA,"8404 S Union Rd, Union, Illinois",101,42.20755,-88.44178
+377,US,Chicago,Courtyard by Marriott Chicago Highland Park/Northbrook,"1505 Lake Cook Rd, Highland Park, Lake County, Illinois",149,42.15344,-87.80097
+378,US,Chicago,"Holiday Inn Express & Suites Aurora - Naperville, an IHG Hotel","111 North Broadway Avenue, Aurora, Illinois",309,38.62747,-88.94573
+379,US,Chicago,"Motel 6 Chicago, IL - Joliet - I-55","3551 Mall Loop Dr, Joliet, Illinois",83,41.58065,-88.17051
+380,US,Chicago,Extended Stay America Chicago - Burr Ridge,"15 West 122nd South Frontage Road, Burr Ridge, Illinois",101,41.75017,-87.92992
+381,US,Chicago,DoubleTree by Hilton Chicago Midway Airport,"6624 S. Cicero Ave., Chicago, Illinois",352,41.77215,-87.74224
+382,US,Chicago,"Country Inn & Suites by Radisson, Hoffman Estates, IL","2280 Barrington Rd, Hoffman Estates, Illinois",529,42.06221,-88.14594
+383,US,Chicago,Jellystone Park™ of Chicago,"8574 Millbrook Road, Millbrook, Illinois",59,41.5935,-88.542
+384,US,Chicago,"Clarion Inn Elmhurst - Oak Brook Near I-88, I-290, I-294","933 S Riverside Dr, Elmhurst, DuPage County, Illinois",275,41.87009,-87.95697
+385,US,Chicago,Radisson Hotel Schaumburg,"1550 N Roselle Rd, Schaumburg, Illinois",350,42.05519,-88.08035
+386,US,Chicago,Extended Stay America - Chicago - Rolling Meadows,"2400 Golf Rd, Rolling Meadows, Illinois",77,42.05216,-88.01064
+387,US,Chicago,"Holiday Inn Express Chicago NW - Arlington Heights, an IHG Hotel","2111 S Arlington Heights Rd, Arlington Heights, Illinois",100,42.04677,-87.98183
+388,US,Chicago,Marriott Marquis Chicago,"2121 South Prairie Avenue, Chicago, Illinois",423,41.85329,-87.62032
+389,US,Chicago,Extended Stay America - Chicago - Lombard - Yorktown Center,"260 E 22nd St, Lombard, DuPage County, Illinois",97,41.84654,-88.00896
+390,US,Chicago,Extended Stay America - Chicago - Vernon Hills - Lincolnshire,"675 Woodlands Pkwy, Vernon Hills, Lake County, Illinois",113,42.21144,-87.93568
+391,US,Chicago,Extended Stay America - Chicago - Romeoville - Bollingbrook,"1225 Lakeview Dr, Romeoville, Illinois",62,41.65863,-88.12017
+392,US,Chicago,Quality Inn & Suites St Charles - West Chicago,"1600 E Main St, Saint Charles, Illinois",144,41.91972,-88.29206
+393,US,Chicago,Cambria Hotel Chicago Loop - Theatre District,"32 W Randolph St, Chicago, Illinois",364,41.88463,-87.62885
+394,US,Chicago,"Hotel Zachary, Chicago, a Tribute Portfolio Hotel","3630 North Clark Street, Chicago, Illinois",356,41.94802,-87.65722
+395,US,Chicago,DoubleTree by Hilton Hotel Libertyville - Mundelein,"510 East IL Route 83, Mundelein, Lake County, Illinois",808,42.23745,-87.9967
+396,US,Chicago,Ray's Bucktown Bed and Breakfast,"2144 N Leavitt St, Chicago, Illinois",404,41.92127,-87.68287
+397,US,Chicago,Fairfield Inn & Suites Chicago St. Charles,"2096 Bricher Rd, Saint Charles, Illinois",269,41.89861,-88.33846
+398,US,Chicago,"Extended Stay America - Chicago - Elgin - West Dundee, IL","2185 Marriott Dr, West Dundee, Illinois",82,42.07457,-88.28741
+399,US,Chicago,"Candlewood Suites Elgin NW-Chicago, an IHG Hotel","1780 Capital Street, Elgin, Illinois",68,42.08119,-88.34077
+400,US,Chicago,Chicago Marriott at Medical District/UIC,"625 South Ashland Avenue at Harrison Street, Chicago, Illinois",367,41.87417,-87.6665
+401,US,Chicago,Willows Hotel Chicago,"555 W Surf St, Chicago, Illinois",311,41.93415,-87.64362
+402,US,Chicago,WoodSpring Suites Chicago Darien,"951 N Frontage Rd, Darien, DuPage County, Illinois",43,41.73391,-87.96797
+403,US,Chicago,Wingate by Wyndham Schaumburg,"50 Remington Rd, Schaumburg, Illinois",819,42.05397,-88.07808
+404,US,Chicago,Hampton Inn & Suites Hoffman Estates,"2825 Greenspoint Parkway, Hoffman Estates, Illinois",785,42.06543,-88.14945
+405,US,Chicago,"Holiday Inn Express & Suites Chicago-Algonquin, an IHG Hotel","2595 Bunker Hill Dr, Algonquin, Illinois",136,42.16765,-88.33988
+406,US,Chicago,"Holiday Inn Chicago North - Gurnee, an IHG Hotel","6161 West Grand Avenue, Gurnee, Lake County, Illinois",325,42.38239,-87.95451
+407,US,Chicago,"Holiday Inn Express & Suites Chicago South Lansing, an IHG Hotel","2323 172nd St, Lansing, Illinois",104,41.5823,-87.56091
+408,US,Chicago,Wicker Park Inn,"1331 N Wicker Park Ave, Chicago, Illinois",363,41.90657,-87.67294
+409,US,Chicago,Baymont by Wyndham Glenview,"1625 Milwaukee Ave, Glenview, Illinois",324,42.08587,-87.86757
+410,US,Chicago,White Pines Inn,"6712 W Pines Rd, Mount Morris, Illinois",244,41.98987,-89.46551
+411,US,Chicago,"Holiday Inn Express Rolling Mdws-Schaumburg Area, an IHG Hotel","3477 Algonquin Road, Rolling Meadows, Illinois",213,42.0613,-88.02231
+412,US,Chicago,"Holiday Inn Express & Suites New Buffalo, MI, an IHG Hotel","11500 Holiday Drive, New Buffalo, Berrien County, Michigan",264,41.77756,-86.73125
+413,US,Chicago,Gateway Inn,"4657 W 95th St, Oak Lawn, Illinois",209,41.71976,-87.73775
+414,US,Chicago,Illinois Beach Hotel,"100 Lake Front Dr, Zion, Lake County, Illinois",240,42.42382,-87.80515
+415,US,Chicago,Claridge House Chicago,"1244 N Dearborn Pkwy, Chicago, Illinois",292,41.9048,-87.63013
+416,US,Chicago,DoubleTree by Hilton Hotel Chicago - Magnificent Mile,"300 E. Ohio Street, Chicago, Illinois",310,41.89277,-87.61962
+417,US,Chicago,Write Inn,"211 N Oak Park Ave, Oak Park, Illinois",206,41.8907,-87.79489
+418,US,Chicago,The Sono Chicago,"1428 N Cleveland Ave, Chicago, Illinois",280,41.90821,-87.64105
+419,US,Chicago,Super 8 by Wyndham Mundelein / Libertyville Area,"1950 S Lake St, Mundelein, Lake County, Illinois",319,42.23892,-87.99506
+420,US,Chicago,Hampton Inn Chicago McCormick Place,"123 East Cermak, Chicago, Illinois",280,41.85253,-87.62271
+421,US,Chicago,Extended Stay America - Chicago - O'Hare,"1201 E Touhy Ave, Des Plaines, Illinois",122,42.0081,-87.89371
+422,US,Chicago,Graduate Evanston,"1625 Hinman Ave, Evanston, Illinois",204,42.04643,-87.6769
+423,US,Chicago,Days Inn by Wyndham Great Lakes - N. Chicago,"3000 N Skokie Hwy, North Chicago, Lake County, Illinois",655,42.30474,-87.877
+424,US,Chicago,City Suites Hotel Chicago,"933 West Belmont Ave, Northalsted, Chicago, Illinois",276,41.93983,-87.65282
+425,US,Chicago,Fairfield Inn & Suites New Buffalo,"11400 Holiday Dr, New Buffalo, Berrien County, Michigan",360,41.77783,-86.7288
+426,US,Chicago,"Crowne Plaza Lombard Downers Grove, an IHG Hotel","1250 Roosevelt Rd, Glen Ellyn, DuPage County, Illinois",308,41.86026,-88.02828
+427,US,Chicago,Quality Inn O'Hare Airport,"3801 North Mannheim Rd, Schiller Park, Illinois",450,41.94738,-87.88503
+428,US,Chicago,Victoria Inn Hotel & Convention Centre,"555 Arthur St W, Thunder Bay, Thunder Bay District, Ontario, Canada",338,48.38154,-89.29276
+429,US,Chicago,Extended Stay America - Chicago - Darien,"2345 Sokol, Darien, DuPage County, Illinois",72,41.71825,-88.00196
+430,US,Chicago,Hotel Saint Clair- Magnificent Mile,"162 E Ontario St, Chicago, Illinois",324,41.89345,-87.6232
+431,US,Chicago,"Holiday Inn Express & Suites Chicago-Midway Airport, an IHG Hotel","6500 South Cicero Avenue, Chicago, Illinois",233,41.77438,-87.74302
+432,US,Chicago,Navy Lodge Great Lakes,"2500 Meridian Drive, North Chicago, Lake County, Illinois",218,42.30791,-87.86612
+433,US,Chicago,Wrigley Hostel,"3514 N Sheffield Ave, Chicago, Illinois",244,41.94603,-87.65443
+434,US,Chicago,Aloft Chicago Mag Mile,"243 E Ontario St, Chicago, Illinois",249,41.89312,-87.62134
+435,US,Chicago,Residence Inn by Marriott Chicago Bolingbrook,"180 Remington Boulevard, Bolingbrook, DuPage County, Illinois",34,41.68766,-88.07254
+436,US,Chicago,Homewood Suites by Hilton Chicago Downtown South Loop,"59 E. 11th Street, Chicago, Illinois",235,41.86925,-87.62527
+437,US,Chicago,Home2 Suites by Hilton Chicago River North,"110 West Huron St, Chicago, Illinois",273,41.89488,-87.63179
+438,US,Chicago,Hyatt Place Chicago – Medical / University District,"1835 W Harrison St, Chicago, Illinois",215,41.87401,-87.67297
+439,US,Chicago,Magnuson Hotel Bourbonnais,"60 Ken Hayes Dr, Bourbonnais, Illinois",258,41.17114,-87.84822
+440,US,Chicago,Inn at Lincoln Park,"601 W Diversey Pkwy, Chicago, Illinois",261,41.93275,-87.64368
+441,US,Chicago,Chicago Guest House,"3715 N Lakewood Ave, Chicago, Illinois",288,41.94944,-87.66137
+442,US,Chicago,Motel 6 Naperville,"1585 Naperville Wheaton Rd, Naperville, DuPage County, Illinois",246,41.79922,-88.12244
+443,US,Chicago,Red Roof Inn Chicago - Alsip,"12340 S Cicero Ave, Alsip, Illinois",37,41.66709,-87.73988
+444,US,Chicago,"Sable at Navy Pier Chicago, Curio Collection by Hilton","900 E Grand Ave, Chicago, Illinois",242,41.89178,-87.60275
+445,US,Chicago,O'Hare Inn & Suites,"4101 Mannheim Rd, Schiller Park, Illinois",240,41.9536,-87.88448
+446,US,Chicago,Holiday Inn Chicago – Midway Airport S,"7353 South Cicero Avenue, Chicago, Illinois",252,41.75912,-87.74094
+447,US,Chicago,Baymont Inn & Suites by Wyndham Mundelein near Vernon Hills,"517 E Il Route 83, Mundelein, Lake County, Illinois",337,42.23686,-87.99664
+448,US,Chicago,"Margarita European Inn, an Ascend Hotel Collection Member","1566 Oak Avenue, Evanston, Illinois",199,42.04622,-87.68726
+449,US,Chicago,Red Carpet Inn N. Chicago,"3207 Buckley Rd, North Chicago, Lake County, Illinois",117,42.30775,-87.87921
+450,US,Chicago,Lake Country Inn,"18 W Merchant St, New Buffalo, Berrien County, Michigan",226,41.79492,-86.74551
+451,US,Chicago,Hampton Inn Litchfield,"11 Thunderbird Circle, Litchfield, Illinois",528,39.17821,-89.67789
+452,US,Chicago,Hilton Garden Inn Chicago McCormick Place,"123 East Cermak, Chicago, Illinois",224,41.85253,-87.62271
+453,US,Chicago,Sheraton Lisle Naperville Hotel,"3000 Warrenville Rd, Lisle, DuPage County, Illinois",215,41.80943,-88.11238
+454,US,Chicago,Four Points by Sheraton Chicago Westchester/Oak Brook,"2222 Enterprise Dr, Westchester, Illinois",27,41.84713,-87.90839
+455,US,Chicago,Moxy Chicago Downtown,"530 N La Salle Dr, Chicago, Illinois",198,41.89175,-87.63282
+456,US,Chicago,WoodSpring Suites Chicago Romeoville,"1093 Windham Pkwy, Romeoville, Illinois",32,41.66184,-88.11394
+457,US,Chicago,Comfort Inn Matteson - Chicago,"5210 Southwick Dr, Matteson, Illinois",33,41.50296,-87.7406
+458,US,Chicago,The Chicago Hotel Collection Millennium Park,"55 E Washington St, Chicago, Illinois",336,41.88316,-87.62576
+459,US,Chicago,"Holiday Inn & Suites Bolingbrook, an IHG Hotel","205 Remington Blvd., Bolingbrook, DuPage County, Illinois",199,41.68368,-88.07318
+460,US,Chicago,Rodeway Inn Chicago-Evanston,"6155 N Jersey Ave, Chicago, Illinois",24,41.9926,-87.71129
+461,US,Chicago,Extended Stay America - Chicago - Hanover Park,"1075 E Lake St, Hanover Park, Illinois",44,41.97855,-88.13152
+462,US,Chicago,Roscoe Village Guesthouse,"2104 W Roscoe St, Chicago, Illinois",183,41.94338,-87.68121
+463,US,Chicago,Days Inn & Suites by Wyndham Romeoville,"1280 W Normantown Rd, Romeoville, Illinois",201,41.65289,-88.12305
+464,US,Chicago,Lang House Chicago,"7421 N Sheridan Rd, Chicago, Illinois",256,42.01674,-87.6648
+465,US,Chicago,WoodSpring Suites Chicago Tinley Park,"18636 W Creek Dr, Tinley Park, Illinois",40,41.55238,-87.79775
+466,US,Chicago,Motel 6 Chicago Northwest- Rolling Meadows,"1800 Winnetka Cir, Rolling Meadows, Illinois",50,42.09144,-88.0312
+467,US,Chicago,The Chicago Hotel Collection Wrigleyville,"3475 N Clark St, Chicago, Illinois",105,41.94546,-87.65484
+468,US,Chicago,Found Hotel Chicago River North,"613 N Wells St, Chicago, Illinois",229,41.89281,-87.63396
+469,US,Chicago,Super 8 by Wyndham Monee,"5825 W Monee Manhattan Rd, Monee, Illinois",201,41.42608,-87.75317
+470,US,Chicago,Chinatown Hotel,"214 W 22nd Pl, Chicago, Illinois",225,41.85238,-87.63258
+471,US,Chicago,Comfort Inn O'Hare,"2175 E Touhy Ave, Des Plaines, Illinois",474,42.00961,-87.87096
+472,US,Chicago,"Holiday Inn Express & Suites Chicago O'Hare Airport, an IHG Hotel","3001 South Mannheim Road, Des Plaines, Illinois",26,42.00458,-87.88464
+473,US,Chicago,Hilton Garden Inn Chicago Central Loop,"245 S. Franklin St., Chicago, Illinois",38,41.87854,-87.63515
+474,US,Chicago,The Glen Club,"2901 W Lake Ave, Glenview, Illinois",171,42.09009,-87.82769
+475,US,Chicago,"Holiday Inn Express Chicago NW-Vernon Hills, an IHG Hotel","975 North Lakeview Parkway, Vernon Hills, Lake County, Illinois",34,42.24237,-87.9584
+476,US,Chicago,Home2 Suites by Hilton Chicago McCormick Place,"123 East Cermak, Chicago, Illinois",163,41.85253,-87.62271
+477,US,Chicago,Comfort Inn,"2075 Barrington Rd, Hoffman Estates, Illinois",186,42.06213,-88.14317
+478,US,Chicago,Hyatt Place Chicago/Wicker Park,"1551 W North Ave, Chicago, Illinois",195,41.91041,-87.66715
+479,US,Chicago,Sleep Inn at Great Lakes Naval Base,"3250 Bittersweet Ave, Lake Bluff, Lake County, Illinois",164,42.30376,-87.87753
+480,US,Chicago,SpringHill Suites by Marriott Chicago Chinatown,"2357 S Wentworth Ave, Chicago, Illinois",24,41.84955,-87.63187
+481,US,Chicago,Sleep Inn Midway Airport,"6650 S Cicero Ave, Bedford Park, Illinois",241,41.77162,-87.74274
+482,US,Chicago,Homewood Suites by Hilton Aurora Naperville,"4320 Meridian Pkwy, Aurora, Illinois",191,41.77339,-88.21068
+483,US,Chicago,Holiday Inn Express & Suites Chicago - Hoffman Estates,"5235 Prairie Stone Pkwy, Hoffman Estates, Illinois",15,42.07208,-88.20892
+484,US,Chicago,Comfort Inn & Suites,"1555 E Fabyan Pkwy, Geneva, Illinois",181,41.86953,-88.27603
+485,US,Chicago,Delta Hotels by Marriott Chicago Willowbrook,"7800 South Kingery Highway, Willowbrook, DuPage County, Illinois",23,41.74714,-87.94355
+486,US,Chicago,The Publishing House Bed and Breakfast,"108 N May St, Chicago, Illinois",195,41.88361,-87.65565
+487,US,Chicago,Chicago Old Colony,"37 W van Buren St, Chicago, Illinois",17,41.87678,-87.62883
+488,US,Chicago,Inn at Water's Edge,"425 Fawell Blvd, Glen Ellyn, DuPage County, Illinois",192,41.84243,-88.07373
+489,US,Chicago,Union League Club of Chicago,"65 W Jackson Blvd, Chicago, Illinois",201,41.87806,-87.63003
+490,US,Chicago,Selina Chicago,"100 E Chestnut St, Chicago, Illinois",26,41.89858,-87.62567
+491,US,Chicago,Lexington Inn & Suites NW Chicago Elgin,"1585 Dundee Ave, Elgin, Illinois",41,42.06759,-88.26201
+492,US,Chicago,Kasa Chicago River North Apartments,"One Superior Place, Chicago, Illinois",43,41.48143,-87.63904
+493,US,Chicago,Fairfield Inn & Suites by Marriott Chicago O'Hare,"2350 Mannheim Rd, Des Plaines, Illinois",13,42.01096,-87.88645
+494,US,Chicago,The Chicago Parthenon Hostel,"310 S Halsted St, Chicago, Illinois",224,41.52535,-87.63587
+495,US,Chicago,CitizenM Chicago Downtown Hotel,"80 E Wacker Pl, Chicago, Illinois",42,41.88697,-87.62493
+496,US,Chicago,"The LaSalle Chicago, Autograph Collection","208 South Lasalle Street, Chicago, Illinois",21,41.87926,-87.63246
+497,US,Chicago,Comfort Inn Arlington Heights-O'Hare Airport,"2120 S Arlington Heights Rd, Arlington Heights, Illinois",170,42.04633,-87.98354
+498,US,Chicago,Magnolia Studios,"5705 N Magnolia Ave, Chicago, Illinois",201,41.98588,-87.66099
+499,US,Chicago,Kasa South Loop Chicago,"900 S Clark St, Chicago, Illinois",23,41.87033,-87.63112
+500,US,Chicago,The Study at University of Chicago,"1227 E 60th St, Chicago, Illinois",42,41.78599,-87.59576
+501,US,Chicago,Sonder South Wabash,"1419 S Wabash Ave, Chicago, Illinois",83,41.86364,-87.62559
+502,US,Chicago,Wingate by Wyndham Tinley Park,"18421 N Creek Dr, Tinley Park, Illinois",1257,41.55726,-87.79425
+503,US,Chicago,DoubleTree by Hilton Hotel Collinsville - St. Louis,"1000 Eastport Plaza Drive, Collinsville, Illinois",1294,38.6794,-90.01644
+504,US,Chicago,Four Winds Casino Resort,"11111 Wilson Rd, New Buffalo, Berrien County, Michigan",650,41.78185,-86.70882
+505,US,Chicago,HI Chicago Hostel,"24 E Ida B Wells Dr, Chicago, Illinois",40,41.87579,-87.6265
+506,US,Chicago,Heart O' Chicago Motel,"5990 N Ridge Ave, Chicago, Illinois",179,41.99037,-87.67213
+507,US,Chicago,Island House Hotel,"6966 Main Street, Mackinac Island, Mackinac County, Upper Peninsula, Michigan",2342,45.85109,-84.61395
+508,US,Chicago,Canopy by Hilton Chicago Central Loop,"226 West Jackson Blvd, Chicago, Illinois",72,41.87821,-87.63416
+509,US,Chicago,Homewood Suites by Hilton Chicago Downtown West Loop,"118 N Jefferson, Chicago, Illinois",131,41.88384,-87.64279
+510,US,Chicago,Hampton Inn Joliet - I-55,"3555 Mall Loop Drive, Joliet, Illinois",650,41.58036,-88.17151
+511,US,Chicago,Champagne Lodge and Luxury Suites,"16W621 S Frontage Rd, Willowbrook, DuPage County, Illinois",269,41.73651,-87.9571
+512,US,Chicago,Hampton Inn Bourbonnais Kankakee,"64 Ken Hayes Drive, Bourbonnais, Illinois",117,41.17082,-87.84587
+513,US,Chicago,Hilton Grand Vacations Club Chicago Magnificent Mile,"300 E Ohio Street, Chicago, Illinois",61,41.89277,-87.61962
+514,US,Chicago,Hilton Garden Inn Lake Forest Mettawa,"26225 North Riverwoods Boulevard, Lake Forest, Lake County, Illinois",934,42.24281,-87.90288
+515,US,Chicago,TownePlace Suites by Marriott Joliet South,"1515 Riverboat Center Dr, Joliet, Illinois",363,41.49422,-88.16657
+516,US,Chicago,MDA Chicago City Apartments,"63 E Lake St, Chicago, Illinois",26,41.8857,-87.62567
+517,US,Chicago,Chestnut Street Inn,"301 E Chestnut St, Sheffield, Illinois",234,41.35402,-89.73405
+518,US,Chicago,La Banque Hotel,"2034 Ridge Rd, Homewood, Illinois",91,41.5613,-87.66706
+519,US,Chicago,Sonesta Select Arlington Heights,"3700 North Wilke Road, Arlington Heights, Illinois",162,42.14329,-88.00541
+520,US,Chicago,Hilton Garden Inn Addison,"551 North Swift Road, Addison, DuPage County, Illinois",484,41.93628,-88.03931
+521,US,Chicago,Motel 6 Chicago Northwest Palatine,"1450 E Dundee Rd, Palatine, Illinois",27,42.14048,-88.01041
+522,US,Chicago,Hampton Inn & Suites Effingham,"1305 N Keller Dr, Effingham, Illinois",865,39.1396,-88.56651
+523,US,Chicago,Holiday Inn Chicago Downtown - Wolf Point,"350 W Wolf Point Plaza, Chicago, Illinois",13,41.88829,-87.63782
+524,US,Chicago,Sonder The Plymouth,"417 S Dearborn St, Chicago, Illinois",61,41.87623,-87.62912
+525,US,Chicago,Comfort Suites Lombard - Addison,"530 W North Ave, Lombard, DuPage County, Illinois",120,41.90568,-88.03101
+526,US,Chicago,Motel 6 Elk Grove Village,"1100 E Devon Ave, Elk Grove Village, Illinois",250,41.99385,-87.96973
+527,US,Chicago,Best Western Plus South Holland/Chicago Southland,"17345 Halsted St., South Holland, Illinois",15,41.57393,-87.63626
+528,US,Chicago,University Club of Chicago,"76 E Monroe St, Chicago, Illinois",96,41.88093,-87.62506
+529,US,Chicago,Hampton Inn Marion,"2710 West Deyoung, Marion, Illinois",581,37.7439,-88.96758
+530,US,Chicago,Four Points by Sheraton Chicago Schaumburg,"1100 East Higgins Road, Schaumburg, Illinois",21,42.04077,-88.05206
+531,US,Chicago,Best Western Plus The Arden Park Hotel,"552 Ontario St, Stratford, Ontario, Canada",1064,43.37163,-80.96369
+532,US,Chicago,Celeste Celebrity Suites,"68 E Cedar St, Chicago, Illinois",31,41.90253,-87.62578
+533,US,Chicago,Bishops Hall Bed & Breakfast,"605 Iowa St, Oak Park, Illinois",82,41.89604,-87.79012
+534,US,Chicago,Sentral Michigan Avenue,"808 S Michigan Ave, Chicago, Illinois",32,41.87159,-87.6243
+535,US,Chicago,Quality Inn & Suites Near I-80 And I-294,"16920 Halsted St, Harvey, Illinois",126,41.58325,-87.638
+536,US,Chicago,Old Chicago Inn featuring Room 13,"3222 N Sheffield Ave, Chicago, Illinois",131,41.94064,-87.65437
+537,US,Chicago,Motel 6 Prospect Heights IL,"540 N Milwaukee Ave, Prospect Heights, Illinois",124,42.10461,-87.88831
+538,US,Chicago,Q Center,"1405 N 5th Ave, Saint Charles, Illinois",134,41.934,-88.30931
+539,US,Chicago,Red Roof Inn Gurnee - Waukegan,"3031 Belvidere Rd, Waukegan, Lake County, Illinois",190,42.34905,-87.87682
+540,US,Chicago,Quality Inn,"500 Tollgate Rd, Elgin, Illinois",126,42.07251,-88.29151
+541,US,Chicago,Comfort Inn & Suites Tinley Park IL,"18400 Spring Creek Dr, Tinley Park, Illinois",152,41.55634,-87.79681
+542,US,Chicago,Comfort Inn & Suites,"1359 Grand Pointe Ct, Grand Blanc, Michigan",963,42.93686,-83.60375
+543,US,Chicago,Sonder at Grant Park,"808 S Michigan Ave, Chicago, Illinois",142,41.87159,-87.6243
+544,US,Chicago,Nobu Hotel Chicago,"155 N. Peoria Street, Chicago, Illinois",71,41.88474,-87.64974
+545,US,Chicago,Sleep Inn Naperville,"1831 W Diehl Rd, Naperville, DuPage County, Illinois",100,41.80102,-88.2074
+546,US,Chicago,"Motel 6 Lansing, IL - Chicago South","2151 Bernice Rd, Lansing, Illinois",15,41.57863,-87.56582
+547,US,Chicago,"Holiday Inn Express Crestwood, an IHG Hotel","13330 Cicero Avenue, Crestwood, Illinois",132,41.64973,-87.73898
+548,US,Chicago,Comfort Inn Bourbonnais near I-57,"1500 Illinois Highway 50, Bourbonnais, Illinois",167,39.80678,-88.46232
+549,US,Chicago,Fairfield Inn Kankakee Bourbonnais,"1550 N State Route 50, Bourbonnais, Illinois",127,41.17184,-87.84995
+550,US,Chicago,New Buffalo Inn & Spa,"231 E Buffalo St, New Buffalo, Berrien County, Michigan",110,41.79533,-86.74025
+551,US,Chicago,21c Museum Hotel Chicago,"55 E Ontario St, Chicago, Illinois",173,41.89328,-87.62631
+552,US,Chicago,Sleep Inn Oakbrook Terrace - Chicago,"17W710 22nd St, Oakbrook Terrace, DuPage County, Illinois",41,41.846,-87.99208
+553,US,Chicago,Soho House Chicago,"113 N Green St # 125, Chicago, Illinois",136,,
+554,US,Chicago,Manilow Suites at 215 West,"215 W Washington St, Chicago, Illinois",23,41.8831,-87.63429
+555,US,Chicago,The Flats at Loyola Station,"1216 W Arthur Ave, Chicago, Illinois",130,42.00049,-87.6615
+556,US,Chicago,Hilton Garden Inn Chicago Downtown South Loop,"55 E 11th Street, Chicago, Illinois",160,41.86925,-87.62539
+557,US,Chicago,The Chicago Hotel Collection: Magnificent Mile Hotel & Suites,"166 E Superior St, Chicago, Illinois",47,41.89586,-87.6234
+558,US,Chicago,Chicago Lake Shore Hotel,"4900 S Lake Shore Dr, Chicago, Illinois",172,41.8058,-87.58593
+559,US,Chicago,Lincoln Park Oasis,"1219 W Draper St, Chicago, Illinois",44,41.92808,-87.65931
+560,US,Chicago,The Polo Inn Bridgeport U.S.A.,"3322 S Morgan St, Chicago, Illinois",87,41.83359,-87.65118
+561,US,Chicago,Comfort Suites Elgin,"2480 Bushwood Dr, Elgin, Illinois",124,42.0919,-88.33748
+562,US,Chicago,Longman & Eagle,"2657 N Kedzie Ave, Chicago, Illinois",92,41.92972,-87.70716
+563,US,Chicago,Lincoln Park Guest House,"2319 N Halsted St, Chicago, Illinois",26,41.92424,-87.64843
+564,US,Chicago,Howard Johnson by Wyndham Manteno,"157 Cypress Dr, Manteno, Illinois",149,41.25229,-87.84993
+565,US,Chicago,Sleep Inn Tinley Park I-80 Near Amphitheatre-Convention Center,"18420 Spring Creek Dr, Tinley Park, Illinois",122,41.5561,-87.79752
+566,US,Chicago,Hampton Inn & Suites Kalamazoo-Oshtemo,"5059 South 9th Street, Kalamazoo, Kalamazoo County, Michigan",532,42.24452,-85.6765
+567,US,Chicago,Pine Country RV & Camping Resort,"5710 Shattuck Rd, Belvidere, Illinois",174,42.23881,-88.77732
+568,US,Chicago,Jaslin Hotel,"261 W Cermak Rd, Chicago, Illinois",145,41.85261,-87.63436
+569,US,Chicago,Woodspring Suites Carol Stream - Chicago,"1160 N Gary Ave, Carol Stream, DuPage County, Illinois",21,41.93503,-88.11962
+570,US,Chicago,Manilow Suites At North Harbor Tower,"175 N Harbor Dr, Chicago, Illinois",72,41.88543,-87.61532
+571,US,Chicago,Ruby Room,"1743 W Division St # 45, Chicago, Illinois",137,,
+572,US,Chicago,Copperstone Inn,"6702 Yale Bridge Rd, Rockton, Illinois",117,42.47701,-89.1685
+573,US,Chicago,Comfort Suites Near I-80 And I-94,"2235 West 173rd St, Lansing, Illinois",88,33.87386,-118.31813
+574,US,Chicago,Benedictine Bed and Breakfast,"3111 S Aberdeen St, Chicago, Illinois",32,41.83759,-87.65329
+575,US,Chicago,Econo Lodge,"820 W 79th St, Willowbrook, DuPage County, Illinois",82,41.74564,-87.94221
+576,US,Chicago,Rodeway Inn Lyons,"8640 Ogden Ave, Lyons, Illinois",90,41.8165,-87.83692
+577,US,Chicago,Fairfield Inn & Suites Joliet North/Plainfield,"3239 Norman Ave, Joliet, Illinois",85,41.58352,-88.16292
+578,US,Chicago,The Dunes Resort,"333 Blue Star Hwy, Douglas, Allegan County, Michigan",90,42.63795,-86.21061
+579,US,Chicago,The Hotel at Midtown,"2444 N Elston Ave, Chicago, Illinois",52,41.9261,-87.6797
+580,US,Chicago,Manilow Suites at One West Superior,"1 W Superior St, Chicago, Illinois",19,41.89529,-87.62872
+581,US,Chicago,Harrison House Bed & Breakfast,"26 North Eagle Street, Naperville, DuPage County, Illinois",96,41.77593,-88.15246
+582,US,Chicago,The Royal Sonesta Chicago Downtown,"71 E Wacker Drive, Chicago, Illinois",153,41.8873,-87.62589
+583,US,Chicago,The Forester a Hyatt Place Hotel,"200 N Field Drive, Lake Forest, Lake County, Illinois",56,42.24346,-87.89959
+584,US,Chicago,Wheeler Mansion,"2020 S Calumet Ave, Chicago, Illinois",135,41.85492,-87.61954
+585,US,Chicago,"voco Chicago Downtown, an IHG Hotel","350 W. Wolf Point Plaza, Chicago, Illinois",5,41.88829,-87.63782
+586,US,Chicago,Leisure Lake Resort,"21900 SW Frontage Rd, Joliet, Illinois",45,41.48326,-88.20881
+587,US,Chicago,Hampton Inn Macomb,"1639 E Jackson St, Macomb, Illinois",498,40.45698,-90.64612
+588,US,Chicago,"Country Inn & Suites by Radisson, Elgin, IL","2270 Point Blvd, Elgin, Illinois",444,42.08322,-88.33258
+589,US,Chicago,MainStay Suites South,"135 S Larkin Ave, Joliet, Illinois",63,41.51927,-88.12616
+590,US,Chicago,Fuller's Resort & Campground,"1622 E Clear Lake Rd, Buchanan, Berrien County, Michigan",67,41.83423,-86.41828
+591,US,Chicago,Baymont by Wyndham Effingham,"1811 W Fayette Ave, Effingham, Illinois",474,39.11883,-88.57069
+592,US,Chicago,Clarion Pointe,"206 McFall Rd, Mattoon, Illinois",486,39.48615,-88.32616
+593,US,Chicago,The Buckingham Hotel,"425 S Financial Pl, Chicago, Illinois",37,41.8768,-87.63302
+594,US,Chicago,Sonder Greektown,"314 S Halsted St, Chicago, Illinois",12,41.52528,-87.63587
+595,US,Chicago,Best Western Pontiac Inn,"1821 W Reynolds St, Pontiac, Illinois",280,40.87405,-88.66369
+596,US,Chicago,Comfort Inn North,"3235 Norman Ave, Joliet, Illinois",97,41.58292,-88.16352
+597,US,Chicago,Sonder Jewelers Row,"19 S Wabash Ave, Chicago, Illinois",43,41.88162,-87.62614
+598,US,Chicago,City Scene Bed and Breakfast,"2101 N Clifton Ave, Chicago, Illinois",16,41.91999,-87.65678
+599,US,Chicago,Walton Residences,"70 E Walton St, Chicago, Illinois",14,41.90008,-87.62583
+600,US,Chicago,Fairfield Inn by Marriott Port Huron,"1635 Yeager Street, Port Huron, Michigan",267,42.98968,-82.45085
+601,US,Chicago,Manilow Suites at The Grand Plaza,"545 N Dearborn St, Chicago, Illinois",28,41.89207,-87.62886
+602,US,Chicago,The Amber Inn,"3901 S Michigan Ave, Chicago, Illinois",82,41.82358,-87.62277
+603,US,Chicago,Bullfrog Lake Campground,"9600 Wolf Road, Willow Springs, Illinois",14,41.71271,-87.89513
+604,US,Chicago,Manilow Suites at Columbus Plaza,"233 E Wacker Dr, Chicago, Illinois",4,41.88762,-87.62123
+605,US,Chicago,The Leavitt Street Inn & Tavern,"2345 N Leavitt St, Chicago, Illinois",6,41.92395,-87.68258
+606,US,Chicago,Clarion Hotel & Convention Center Joliet,"411 S Larkin Ave, Joliet, Illinois",146,41.51369,-88.12599
+607,US,Chicago,Quality Inn Bolingbrook I-55,"175 Remington Blvd, Bolingbrook, DuPage County, Illinois",86,41.68422,-88.07196
+608,US,Chicago,WoodSpring Suites Chicago Addison,"991 W Lake St, Addison, DuPage County, Illinois",12,41.94262,-88.01423
+609,US,Chicago,Bella Vita Spa + Suites,"119 Butler St, Saugatuck, Allegan County, Michigan",151,42.65521,-86.20372
+610,US,Chicago,Ramada by Wyndham Glendale Heights/Lombard,"780 E North Ave, Glendale Heights, DuPage County, Illinois",143,41.90458,-88.05408
+611,US,Chicago,Comfort Inn & Suites,"1133 N 7th St, Rochelle, Illinois",122,41.93518,-89.06716
+612,US,Chicago,House 5863 Bed & Breakfast,"5863 N Glenwood Ave, Chicago, Illinois",68,41.98844,-87.66485
+613,US,Chicago,Manilow Suites at Presidential Towers,"605 W Madison St, Chicago, Illinois",12,41.88103,-87.64298
+614,US,Chicago,Home2 Suites by Hilton Joliet Plainfield,"4095 Hennepin Drive, Joliet, Illinois",237,41.57812,-88.17019
+615,US,Chicago,Baumhart Lodging at Loyola University Chicago,"26 E Pearson St, Chicago, Illinois",8,41.8977,-87.62708
+616,US,Chicago,Corporate Suites Network at Presidential Towers,"555 W Madison St, Chicago, Illinois",27,41.8814,-87.64169
+617,US,Chicago,Oakwood Apartments,"77 W Huron St, Chicago, Illinois",14,41.8948,-87.63088
+618,US,Chicago,The Penthouse at Grand Plaza,"540 N State St, Chicago, Illinois",24,41.89195,-87.62832
+619,US,Chicago,Travelodge by Wyndham Lansing IL,"17301 Oak Ave, Lansing, Illinois",85,41.5807,-87.55484
+620,US,Chicago,"Candlewood Suites Aurora-Naperville, an IHG Hotel","2625 W Sullivan Rd, Aurora, Illinois",133,41.79188,-88.38067
+621,US,Chicago,"Country Inn & Suites by Radisson, Crystal Lake, IL","600 Tracy Trl, Crystal Lake, Illinois",356,42.22853,-88.29776
+622,US,Chicago,Aloft Bolingbrook,"500 North Janes Avenue, Bolingbrook, DuPage County, Illinois",397,41.71434,-88.03871
+623,US,Chicago,Four Points by Sheraton Buffalo Grove,"900 West Lake Cook Road, Buffalo Grove, Lake County, Illinois",56,42.15401,-87.97789
+624,US,Chicago,Days Inn by Wyndham Calumet Park,"12800 S Ashland Ave, Calumet Park, Illinois",70,41.66102,-87.66117
+625,US,Chicago,Ravinia Guest House,"264 Oakland Dr, Highland Park, Lake County, Illinois",17,42.16166,-87.77391
+626,US,Chicago,The Hamlin House Bed & Breakfast,"5528 S Woodlawn Ave, Chicago, Illinois",3,41.79418,-87.59703
+627,US,Chicago,Victorian Rose Garden Bed & Breakfast,"314 Washington St, Algonquin, Illinois",61,42.16664,-88.29525
+628,US,Chicago,Motel 6 Libertyville,"1809 N Milwaukee Ave, Libertyville, Lake County, Illinois",242,42.30681,-87.96175
+629,US,Chicago,"The Drake Oak Brook, Autograph Collection","2301 York Rd, Oak Brook, DuPage County, Illinois",789,41.8464,-87.92781
+630,US,Chicago,"Country Inn & Suites by Radisson, Romeoville, IL","1265 Lakeview Dr, Romeoville, Illinois",492,41.65764,-88.12247
+631,US,Chicago,Ivy Terrace Apartments,"5140 S Kenwood Ave, Chicago, Illinois",28,41.80101,-87.59381
+632,US,Chicago,Warren Dunes State Park Campground,"12032 Red Arrow Hwy, Sawyer, Berrien County, Michigan",62,41.90675,-86.59911
+633,US,Chicago,Hotel Indigo Naperville Riverwalk,"120 Water St, Naperville, DuPage County, Illinois",269,41.77069,-88.15051
+634,US,Chicago,Howard Johnson by Wyndham Waukegan Great Lakes,"619 S Green Bay Rd, Waukegan, Lake County, Illinois",281,42.34826,-87.87338
+635,US,Chicago,Hotel Baker,"100 W Main St, Saint Charles, Illinois",222,41.91366,-88.31471
+636,US,Chicago,The Emily Hotel,"311 N Morgan St, Chicago, Illinois",35,41.88711,-87.65202
+637,US,Chicago,Hampton Inn Joliet - I-80,"1521 Riverboat Center Drive, Joliet, Illinois",737,41.4942,-88.16681
+638,US,Chicago,Sleep Inn Near I-80 And I-94,"2255 173rd St, Lansing, Illinois",65,41.5826,-87.56289
+639,US,Chicago,The Villa Toscana,"3447 N Halsted St, Chicago, Illinois",102,41.94506,-87.64893
+640,US,Chicago,"Country Inn & Suites by Radisson, Tinley Park, IL","18315 La Grange Rd, Tinley Park, Illinois",643,41.55699,-87.85172
+641,US,Chicago,Best Western Joliet Inn & Suites,"4380 Enterprise Dr, Joliet, Illinois",335,41.51932,-88.18769
+642,US,Chicago,Motel 6 Bridgeview,"9625 S 76th Ave, Bridgeview, Illinois",316,41.71631,-87.80785
+643,US,Chicago,Super 8 by Wyndham Rochelle 601 East Highway 38,"601 East Highway 38, Rochelle, Illinois",365,41.93509,-89.04353
+644,US,Chicago,Hansen House Mansion Guest House,"164 W Eugenie St, Chicago, Illinois",44,41.91303,-87.63416
+645,US,Chicago,Kankakee South KOA,"425 East 6000 South Road, Chebanse, Illinois",27,41.03349,-87.8588
+646,US,Chicago,Howard Johnson Hotel & Suites by Wyndham Elk Grove Village,"1925 E Higgins Rd, Elk Grove Village, Illinois",399,42.02051,-87.95695
+647,US,Chicago,Rodeway Inn,"5952 N Lincoln Ave, Chicago, Illinois",62,41.98907,-87.7059
+648,US,Chicago,Best Western Oswego Hotel,"2055 Wiesbrook Rd, Oswego, Illinois",183,41.71837,-88.31014
+649,US,Chicago,New Relax Inn,"7336 S Harlem Ave, Bridgeview, Illinois",21,41.75767,-87.80082
+650,US,Chicago,Skylark Motel,"5435 S Archer Ave, Chicago, Illinois",14,41.79786,-87.74393
+651,US,Chicago,The Westin O'Hare,"6100 North River Road, Rosemont, Illinois",34,41.98966,-87.86082
+652,US,Chicago,Clarion Inn,"610 Tollview Dr, South Holland, Illinois",39,41.58029,-87.63284
+653,US,Chicago,"Holiday Inn Express & Suites Bensenville - O'Hare, an IHG Hotel","811 E Grand Ave, Bensenville, DuPage County, Illinois",75,41.9314,-87.92207
+654,US,Chicago,The Neighborhood Hotel Lincoln Park,"2616 N Clark St, Chicago, Illinois",11,41.93004,-87.64361
+655,US,Chicago,Manilow Suites at 77 West,"77 W Huron St, Chicago, Illinois",3,41.8948,-87.63088
+656,US,Chicago,Hollywood Stadium Sports Bar,"777 Hollywood Blvd, Joliet, Illinois",209,41.47965,-88.14438
+657,US,Chicago,Four Points by Sheraton Mount Prospect O’Hare,"2200 South Elmhurst Road, Mount Prospect, Illinois",42,42.02542,-87.94121
+658,US,Chicago,MainStay Suites Chicago Schaumburg,"1200 Bank Dr, Schaumburg, Illinois",5,42.04156,-88.04919
+659,US,Chicago,Bundling Board Inn,"220 E South St, Woodstock, Illinois",13,42.31261,-88.44518
+660,US,Chicago,Manilow Suites at the Shoreham,"400 E South Water St, Chicago, Illinois",4,41.88671,-87.61675
+661,US,Chicago,The Inn at Smokey Row,"112 Stephen St, Lemont, Illinois",8,41.67509,-87.99908
+662,US,Chicago,Hampton Inn Pontiac,"2000 Grand Prix Drive, Pontiac, Illinois",193,39.87746,-88.92886
+663,US,Chicago,Bellwood Hotel,"1409 W Diversey Pkwy, Chicago, Illinois",16,41.93222,-87.66398
+664,US,Chicago,Loop Suites,"65 E Washington St, Chicago, Illinois",30,41.88313,-87.62544
+665,US,Chicago,Holiday Inn Rockford(I-90&Rt 20/State St),"7550 E State St, Rockford, Illinois",217,42.27057,-88.96936
+666,US,Chicago,The Inn at Wrigleyville,"3617 N Sheffield Ave # 19, Chicago, Illinois",18,,
+667,US,Chicago,Quality Inn Monee I-57,"5815 W Monee Manhattan Rd, Monee, Illinois",39,41.42545,-87.75346
+668,US,Chicago,Comfort Inn Joliet West I-80,"1520 Commerce Ln, Joliet, Illinois",85,41.49353,-88.1694
+669,US,Chicago,Marina Grand Resort,"600 W Water St, New Buffalo, Berrien County, Michigan",350,41.79447,-86.7535
+670,US,Chicago,Home2 Suites by Hilton Lincolnshire Chicago,"350 Knightsbridge Pkwy, Lincolnshire, Lake County, Illinois",14,42.19202,-87.9335
+671,US,Chicago,Yelton Manor Boutique Hotel B&B,"140 N Shore Dr, South Haven, Van Buren County, Michigan",971,42.40734,-86.2778
+672,US,Chicago,"Country Inn & Suites by Radisson, Sycamore, IL","1450 South Peace Rd., Sycamore, Illinois",351,41.98612,-88.70891
+673,US,Chicago,Americas Best Value Inn & Suites Waukegan Gurnee,"411 S Green Bay Rd, Waukegan, Lake County, Illinois",103,42.35288,-87.87289
+674,US,Chicago,"Holiday Inn Express & Suites Morris, an IHG Hotel","222 Gore Rd, Morris, Illinois",149,41.38931,-88.4259
+675,US,Chicago,Lakeside Cabins Resort,"7650 Warren Woods Rd, Three Oaks, Berrien County, Michigan",239,41.83914,-86.64221
+676,US,Chicago,The Biddle House,"405 W Eugenie St, Chicago, Illinois",8,41.91278,-87.63888
+677,US,Chicago,Fairfield Inn & Suites Watervliet St. Joseph,"8258 Arnt Blvd, Watervliet, Berrien County, Michigan",213,42.1796,-86.25785
+678,US,Chicago,Quality Inn Aurora - Naperville Area,"4005 Gabrielle Ln, Aurora, Illinois",76,41.76205,-88.21872
+679,US,Chicago,TownePlace Suites Chicago Waukegan/Gurnee,"404 Lakehurst Rd, Waukegan, Lake County, Illinois",6,42.34445,-87.903
+680,US,Chicago,"Country Inn & Suites by Radisson, Benton Harbor-St. Joseph, MI","2276 Pipestone Rd, Benton Harbor, Berrien County, Michigan",310,42.07641,-86.419
+681,US,Chicago,Holiday Inn Aurora North- Naperville An IHG Hotel,"2424 W Sullivan Rd, Aurora, Illinois",176,41.78659,-88.37832
+682,US,Chicago,Baymont by Wyndham Paw Paw,"111 Ampey Rd, Paw Paw, Van Buren County, Michigan",452,42.20758,-85.89246
+683,US,Chicago,L.P. Motel,"4605 N Harlem Ave, Harwood Heights, Illinois",8,41.96378,-87.80669
+684,US,Chicago,Chateau Chantal Winery and Inn,"15900 Rue de Vin, Traverse City, Grand Traverse County, Michigan",451,44.91966,-85.50205
+685,US,Chicago,Lakeside Resort and Conference Center,"100 Clearview Dr, Houghton Lake, Michigan",286,44.34359,-84.79303
+686,US,Chicago,Days Inn by Wyndham Whitmore Lake,"9897 Main St, Whitmore Lake, Michigan",280,42.43054,-83.76371
+687,US,Chicago,Detroit Marriott Southfield,"27033 Northwestern Hwy, Southfield, Michigan",393,42.48442,-83.27686
+688,US,Chicago,West Loop Lofts,"1650 W Adams St, Chicago, Illinois",5,41.87899,-87.66862
+689,US,Chicago,Renaissance Schaumburg Convention Center Hotel,"1551 Thoreau Dr N, Schaumburg, Illinois",885,42.06084,-88.0416
+690,US,Chicago,La Quinta Inn & Suites by Wyndham Bannockburn - Deerfield,"2000 Lakeside Dr, Bannockburn, Lake County, Illinois",620,42.19653,-87.88473
+691,US,Chicago,Hilton Garden Inn Kankakee,"455 Riverstone Parkway, Kankakee, Illinois",642,41.08006,-87.86493
+692,US,Chicago,Super 8 by Wyndham Romeoville Bolingbrook,"1301 Marquette Dr, Romeoville, Illinois",298,41.67133,-88.06822
+693,US,Chicago,Super 8 by Wyndham DeKalb IL,"800 W Fairview Dr, DeKalb, Illinois",295,41.9065,-88.7722
+694,US,Chicago,TownePlace Suites by Marriott Detroit Warren,"7601 Chicago Road, Warren, Michigan",270,42.52466,-83.03049
+695,US,Chicago,Sleep Inn & Suites,"5597 S 9th St, Kalamazoo, Kalamazoo County, Michigan",1462,42.23584,-85.67612
+696,US,Chicago,Super 8 by Wyndham Hampshire IL,"115 Arrowhead Dr, Hampshire, Illinois",120,42.1475,-88.50855
+697,US,Chicago,Super 8 by Wyndham South Holland,"17225 Halsted St, South Holland, Illinois",35,41.58151,-87.63521
+698,US,Chicago,Starved Rock State Park Campground,"Route 178 & Route 71, Utica, Illinois",56,41.36174,-89.01065
+699,US,Chicago,Motel 6 Alsip,"5150 W 127th St, Alsip, Illinois",326,41.66249,-87.7456
+700,US,Chicago,Holiday Inn Express Detroit-warren (GM Tech Ctr),"11500 East 11 Mile Road, Warren, Michigan",116,42.49074,-83.00865
+701,US,Chicago,Fox River Bed and Breakfast,"3367 E 2072nd Rd, Ottawa, Illinois",35,41.42201,-88.77102
+702,US,Chicago,Level Chicago - Old Town,"1140 N Wells St, Chicago, Illinois",4,41.90323,-87.635
+703,US,Chicago,Corporate Suites Network,"233 E Wacker Dr, Chicago, Illinois",5,41.88762,-87.62123
+704,US,Chicago,Fish Lake Beach Camping Resort,"32223 N US Highway 12, Volo, Lake County, Illinois",24,42.32953,-88.16554
+705,US,Chicago,Sonder at 820 South Michigan,"820 S Michigan Ave, Chicago, Illinois",6,41.87118,-87.62437
+706,US,Chicago,Quality Inn,"1823 W Reynolds St, Pontiac, Illinois",83,40.87393,-88.66386
+707,US,Chicago,Lakeside Inn,"15251 Lakeshore Rd, Lakeside, Berrien County, Michigan",149,41.84322,-86.67879
+708,US,Chicago,The Manor Motel,"23926 W Earnes St, Channahon, Illinois",26,41.45829,-88.19463
+709,US,Chicago,Best Western Chester Hotel,"2150 State St, Chester, Illinois",174,37.92232,-89.80808
+710,US,Chicago,Munro House Bed & Breakfast and Spa,"202 Maumee St, Jonesville, Michigan",94,41.98237,-84.66092
+711,US,Chicago,AJ's Walleye Lodge,"35131 State Highway M-28, Bergland, Upper Peninsula, Michigan",85,46.58784,-89.59568
+712,US,Chicago,The Kirby,"294 West Center, Douglas, Allegan County, Michigan",78,42.64397,-86.20775
+713,US,Chicago,Marcotte's Family Motel,"2156 East Route 20, Elizabeth, Illinois",73,42.27667,-89.56729
+714,US,Chicago,Rim Rock's Dogwood Cabins,"798 Karbers Ridge Rd, Elizabethtown, Illinois",147,37.59772,-88.27769
+715,US,Chicago,Super 8 by Wyndham Yorkville,"1510 N Bridge St, Yorkville, Illinois",196,41.65901,-88.44193
+716,US,Chicago,Super 8 by Wyndham Dwight,"14 E Northbrook Dr, Dwight, Illinois",191,41.11341,-88.41154
+717,US,Chicago,Lincoln Way: A Destination Inn,"409 N State St, Franklin Grove, Illinois",125,41.84515,-89.30383
