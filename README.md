@@ -10,5 +10,7 @@ This tool asks users to input their preference of travel information and provide
 ### Data Sources ###
 1.	[TripAdvisor Official Website](https://www.tripadvisor.com/): see the directory "data_from_tripadvisor" in which the files collected by *tripadvisor_data.py*
 2.  [TomTom API](https://developer.tomtom.com/geocoding-api/documentation/product-information/introduction): see the directory "data_from_tomtom" in which the files collected by *lat_and_lon.py*
+### Interactive Technology ###
+Command line prompts
 ### Main Project ###
 See *interactive.py*
