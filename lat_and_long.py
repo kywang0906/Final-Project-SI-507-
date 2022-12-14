@@ -4,6 +4,7 @@ import requests
 
 CITY = "Detroit_1"
 DATA = pd.read_csv(f"{CITY}.csv")
+APIKEY = ''
 
 def main():
     cache('Detroit_geo')
@@ -39,7 +40,7 @@ def get_lat_and_lon():
     longitudes = []
 
     for add in addresses:
-        url = f'https://api.tomtom.com/search/2/geocode/{add}.json?key=ZgLh7sVgv1sMA3lKcKsVUlBou3Gbq7yr'
+        url = f'https://api.tomtom.com/search/2/geocode/{add}.json?key={APIKEY}'
         try:
             res = requests.get(url).json()
             if 'results' not in res or len(res['results']) == 0:
