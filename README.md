@@ -14,6 +14,8 @@ This tool asks users to input their preference of travel information and provide
 1. Register an account at the [TomTom Developer website](https://developer.tomtom.com/).
 2. Log in to the TomTom Developer Portal.
 3. Find your API key in the KEYS tab of the Dashboard.
+### Data Structure ###
+A tree that contains Country, City, and other hotel information (including Hotel, Address, Popularity, Latitude, and Longitude). See *csv_to_json.py*
 ### Interactive Technology ###
 Command line prompts
 ### Main Project ###
