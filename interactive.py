@@ -50,9 +50,6 @@ def main():
     show_browser = input('\nWould you like to search this hotel on Google Maps? \n(Enter "y" to see it or enter anything else to break.)')
     if show_browser == 'y':
         map_url = 'https://www.google.com/maps'
-        # option = webdriver.ChromeOptions()
-        # option.add_experimental_option("detach", True) # Not to close the browser automatically
-        # browser = webdriver.Chrome(options=option)
         browser = webdriver.Chrome()
         browser.get(map_url)
         locate_on_map = browser.find_element(By.CSS_SELECTOR, '#searchboxinput')
