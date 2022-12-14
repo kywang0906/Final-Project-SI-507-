@@ -10,6 +10,10 @@ This tool asks users to input their preference of travel information and provide
 ### Data Sources ###
 1.	[TripAdvisor Official Website](https://www.tripadvisor.com/): see the directory "data_from_tripadvisor" in which the files collected by *tripadvisor_data.py*
 2.  [TomTom API](https://developer.tomtom.com/geocoding-api/documentation/product-information/introduction): see the directory "data_from_tomtom" in which the files collected by *lat_and_lon.py*
+### How to get the API Key ###
+1. Register an account at the [TomTom Developer website](https://developer.tomtom.com/).
+2. Log in to the TomTom Developer Portal.
+3. Find your API key in the KEYS tab of the Dashboard.
 ### Interactive Technology ###
 Command line prompts
 ### Main Project ###
