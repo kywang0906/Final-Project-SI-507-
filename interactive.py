@@ -1,5 +1,9 @@
-import pandas as pd
+import json
 from math import asin, cos, sin, atan2, sqrt,radians, degrees
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.common.keys import Keys
+import time
 
 
 def main():
@@ -10,31 +14,55 @@ def main():
     attractions_location = collectGeo()
 
     # Data
-    data = organizedData()
+    with open('all_data.json', 'r') as f:
+        data = json.loads(f.read())
 
     # Filter data by country, city and popularity
-    filtered = data.loc[(data['Country']==country) & (data['City']==city) & (data['Popularity']>popularity)].reset_index()
+    filtered = []
+    for hotel in data[country][city]:
+        if hotel[2] >= popularity:
+            filtered.append(hotel)
 
     # Find the distances between all the hotels and the centroid of the user-input attractions
     target = center_geolocation(attractions_location)
-    lat = [d for d in filtered['Latitude']]
-    lon = [d for d in filtered['Longitude']]
+    lat = [d[3] for d in filtered]
+    lon = [d[4] for d in filtered]
     dis_to_target = []
     for i in range(len(lat)):
         dis_to_target.append(distance(target[0], target[1], lat[i], lon[i]))
 
-    # Concatenate the Distance column into the filtered data
-    distances = pd.DataFrame(dis_to_target, columns=['Distance']).reset_index()
-    output = pd.concat([filtered,distances],axis=1).drop(columns='index')
+    # Append the values of distance into the filtered data
+    for i in range(len(filtered)):
+        filtered[i].append(dis_to_target[i])
 
-    # Find the closest number
-    closest = min(output['Distance'])
+    # Find the closest hotel to the centroid of the three attractions
+    closest = min(dis_to_target)
+    for info in filtered:
+        if info[-1] == closest:
+            best = info
 
-    # Print the closest hotel to the user-input attractions
+    # Show the outcome
     print('\n*****Hotel Recommendation*****')
-    best_match = output.loc[output['Distance']==closest]['Hotel'].to_string().split('    ')[1]
-    print(best_match)
-
+    print('\n[Hotel Name]: '+best[0])
+    print('\n[Number of reviews]: '+str(best[2]))
+    print('\n[Distance to the centroid of your designeated attractions]: '+str(best[-1])+' km')
+    print('\n[Address]: '+best[1])
+    show_browser = input('\nWould you like to search this hotel on Google Maps? \n(Enter "y" to see it or enter anything else to break.)')
+    if show_browser == 'y':
+        map_url = 'https://www.google.com/maps'
+        # option = webdriver.ChromeOptions()
+        # option.add_experimental_option("detach", True) # Not to close the browser automatically
+        # browser = webdriver.Chrome(options=option)
+        browser = webdriver.Chrome()
+        browser.get(map_url)
+        locate_on_map = browser.find_element(By.CSS_SELECTOR, '#searchboxinput')
+        locate_on_map.send_keys(best[1])
+        time.sleep(5)
+        locate_on_map.send_keys(Keys.ENTER)
+    time.sleep(20)
+    browser.close()
+    print('\nEnjoy your trip!')
+    
 
 def center_geolocation(geolocations):
     """
@@ -75,21 +103,10 @@ def distance(lat1, lon1, lat2, lon2):
     dlat = lat2 - lat1
     a = sin(dlat / 2)**2 + cos(lat1) * cos(lat2) * sin(dlon / 2)**2
     c = 2 * asin(sqrt(a))
-    # radius of earth
+    # radius of earth (kilometor)
     r = 6371
     # calculate the result
     return(c * r)
-
-
-def organizedData():
-    """
-    Merge all the data.
-    """
-    df1 = pd.read_csv('Detroit_geo.csv').drop(columns='Index')
-    df2 = pd.read_csv('Chicago_geo.csv').drop(columns='Index')
-    df3 = pd.read_csv('Montreal_geo.csv').drop(columns='Index')
-    df4 = pd.read_csv('Toronto_geo.csv').drop(columns='Index')
-    return pd.concat([df1,df2,df3,df4]).reset_index().drop(columns='index').dropna()
 
 
 def collectCountry():
@@ -111,13 +128,13 @@ def collectCity(country):
     """
     while True:
         if country == 'US':
-            city = input('Which city do you plan to visit, Detroit or Chicago?\n(Any words other than "Detroit" or "Chicago" are ineffective.)\n')
+            city = input('\nWhich city do you plan to visit, Detroit or Chicago?\n(Any words other than "Detroit" or "Chicago" are ineffective.)\n')
             if city != "Detroit" and city != "Chicago":
                 print('Ineffective Input')
             else:
                 break
         elif country == "CA":
-            city = input('Which city do you plan to visit, Montreal or Toronto?\n(Any words other than "Montreal" or "Toronto" are ineffective.)\n')
+            city = input('\nWhich city do you plan to visit, Montreal or Toronto?\n(Any words other than "Montreal" or "Toronto" are ineffective.)\n')
             if city != "Montreal" and city != "Toronto":
                 print('Ineffective Input')
             else:
@@ -132,8 +149,8 @@ def collectReviewNum():
     Filter data for the assigned number of reviews.
     """
     while True:
-        review = input('How popular should the hotels you stay be?\n(Please enter a review number of the hotels you prefer to stay. The number range: 1~1500)\n')
-        if (review.isdigit() == False) or int(review) < 1 or int(review) > 1500:
+        review = input('\nHow popular should the hotels you stay be?\n(Please enter a review number of the hotels you prefer to stay. The number range: 1~2000)\n')
+        if (review.isdigit() == False) or int(review) < 1 or int(review) > 2000:
             print('Ineffective Input')
         else:
             break
@@ -158,7 +175,7 @@ def collectGeo():
     threePairs = []   
     for i in range(3):
         latAndLong = []
-        print(f"---Pair {i+1}---")
+        print(f"\n---Pair {i+1}---")
         while True:
             att1 = input("Latitude: ")
             if isfloat(att1) == False:
